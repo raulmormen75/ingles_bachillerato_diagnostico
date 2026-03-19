@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 24" role="img" aria-label="Bandera de México">
+  <rect width="36" height="24" rx="2.6" fill="#FFFFFF"/>
+  <rect x="0" y="0" width="12" height="24" fill="#006847"/>
+  <rect x="24" y="0" width="12" height="24" fill="#CE1126"/>
+  <circle cx="18" cy="12" r="2.6" fill="#8C6A2E" opacity="0.92"/>
+  <circle cx="18" cy="12" r="1.7" fill="#D9C27A" opacity="0.72"/>
+  <path d="M17 10.5c.7-.8 1.6-1.1 2.7-.9-.3.8-.9 1.5-1.8 1.8-.5.2-.9.1-0.9-.9z" fill="#6E8F3F" opacity="0.55"/>
+  <path d="M19 13c.8.6 1.2 1.4 1.1 2.4-.9-.2-1.7-.7-2.1-1.6-.2-.5-.1-.8 1-.8z" fill="#6E8F3F" opacity="0.55"/>
+</svg>
