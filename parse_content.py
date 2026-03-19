@@ -13,6 +13,753 @@ SHIELD_URL = "https://i.postimg.cc/G8VMfXhR/274744310_104329305530428_3533081999
 DEFAULT_TITLE = "IFR · Inglés diagnóstico para bachillerato"
 DEFAULT_DESCRIPTION = "Material académico IFR para inglés diagnóstico de bachillerato con lectura bilingüe, ejemplos guiados y ejercicios de apoyo."
 
+DESIGN_UPGRADE_CSS = r"""
+        /* ===== IFR DESIGN UPGRADE ===== */
+        :root {
+            --surface-0: #f6f8ff;
+            --surface-1: rgba(255, 255, 255, 0.96);
+            --surface-2: rgba(244, 247, 255, 0.98);
+            --ink-strong: #152033;
+            --ink-soft: #5c667d;
+            --green-glow-soft: rgba(44, 229, 30, 0.12);
+            --green-glow-mid: rgba(44, 229, 30, 0.18);
+            --green-glow-strong: rgba(44, 229, 30, 0.3);
+        }
+
+        body {
+            background:
+                radial-gradient(circle at top right, rgba(44, 229, 30, 0.08), transparent 24%),
+                radial-gradient(circle at left 15%, rgba(43, 47, 143, 0.12), transparent 22%),
+                linear-gradient(180deg, #eef2ff 0%, #f8faff 42%, #eef3fb 100%);
+            color: var(--ink-strong);
+        }
+
+        .top-header {
+            height: 78px;
+            padding: 0 22px;
+            background:
+                linear-gradient(135deg, rgba(20, 20, 58, 0.98) 0%, rgba(28, 30, 90, 0.98) 46%, rgba(43, 47, 143, 0.98) 100%);
+            border-bottom: 1px solid rgba(44, 229, 30, 0.14);
+            box-shadow: 0 18px 48px rgba(15, 23, 42, 0.18);
+        }
+
+        .header-hamburger {
+            width: 44px;
+            height: 44px;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.12);
+            color: #fff;
+        }
+
+        .header-logo {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            cursor: pointer;
+            text-align: left;
+            color: inherit;
+            background: transparent;
+            border: 0;
+            padding: 0;
+            appearance: none;
+            font: inherit;
+        }
+
+        .header-shield {
+            width: 48px;
+            height: 48px;
+            object-fit: contain;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.96);
+            padding: 5px;
+            box-shadow:
+                0 0 0 1px rgba(44, 229, 30, 0.22),
+                0 10px 24px rgba(0, 0, 0, 0.18),
+                0 0 18px rgba(44, 229, 30, 0.16);
+            flex-shrink: 0;
+        }
+
+        .header-brand {
+            display: grid;
+            gap: 2px;
+        }
+
+        .header-brand-kicker {
+            font-size: 0.74rem;
+            letter-spacing: 0.16em;
+            text-transform: uppercase;
+            opacity: 0.76;
+        }
+
+        .header-brand-title {
+            font-size: 1.05rem;
+            font-weight: 800;
+            line-height: 1.1;
+        }
+
+        .header-brand-subtitle {
+            font-size: 0.8rem;
+            opacity: 0.82;
+        }
+
+        .header-search input {
+            width: 280px;
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.12);
+            border-color: rgba(255, 255, 255, 0.18);
+            box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.08);
+        }
+
+        .header-search input::placeholder {
+            color: rgba(255, 255, 255, 0.68);
+        }
+
+        .header-search input:focus {
+            background: rgba(255, 255, 255, 0.18);
+            border-color: rgba(44, 229, 30, 0.72);
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.16), 0 0 18px rgba(44, 229, 30, 0.12);
+        }
+
+        .search-results {
+            border-radius: 18px;
+            box-shadow: 0 18px 48px rgba(15, 23, 42, 0.12);
+            max-height: 320px;
+            overflow: auto;
+        }
+
+        .search-result-item {
+            width: 100%;
+            display: flex;
+            align-items: flex-start;
+            gap: 10px;
+            padding: 12px 14px;
+        }
+
+        .sidebar {
+            top: 78px;
+            height: calc(100vh - 78px);
+            background: rgba(255, 255, 255, 0.84);
+            backdrop-filter: blur(16px);
+            border-right: 1px solid rgba(28, 30, 90, 0.12);
+            box-shadow: 10px 0 30px rgba(15, 23, 42, 0.04);
+        }
+
+        .main-content {
+            margin-top: 78px;
+            padding-inline: 28px;
+            padding-block: 30px;
+        }
+
+        .sidebar-progress {
+            margin: 16px 14px 14px;
+            padding: 14px;
+            border-radius: 18px;
+            background: linear-gradient(180deg, rgba(248, 250, 255, 0.98), rgba(240, 243, 250, 0.98));
+            border: 1px solid rgba(28, 30, 90, 0.08);
+        }
+
+        .progress-head {
+            display: flex;
+            align-items: baseline;
+            justify-content: space-between;
+            gap: 12px;
+            margin-bottom: 10px;
+        }
+
+        .progress-label {
+            color: #2b2f8f;
+            letter-spacing: 0.14em;
+            margin-bottom: 0;
+        }
+
+        .progress-text {
+            color: var(--ink-soft);
+            margin-top: 0;
+        }
+
+        .progress-bar {
+            background: rgba(28, 30, 90, 0.08);
+        }
+
+        .progress-fill {
+            background: linear-gradient(90deg, #2ce51e, #7cf26f);
+            box-shadow: 0 0 16px rgba(44, 229, 30, 0.24);
+        }
+
+        .sidebar-title {
+            margin: 12px 6px 10px;
+            color: var(--ink-soft);
+        }
+
+        .sidebar-list {
+            padding: 0 8px 24px;
+        }
+
+        .sidebar-item {
+            width: 100%;
+            padding: 0.84rem 0.9rem;
+            border-radius: 16px;
+            transition: background 0.18s ease, color 0.18s ease, transform 0.18s ease, box-shadow 0.18s ease;
+        }
+
+        .sidebar-item:hover {
+            background: rgba(28, 30, 90, 0.05);
+            transform: translateY(-1px);
+        }
+
+        .sidebar-item.active {
+            background: linear-gradient(135deg, #14143a, #1c1e5a);
+            color: #fff;
+            box-shadow:
+                0 0 0 1px rgba(44, 229, 30, 0.26),
+                0 0 22px rgba(44, 229, 30, 0.18),
+                0 12px 30px rgba(15, 23, 42, 0.12);
+        }
+
+        .sidebar-number {
+            min-width: 2.2rem;
+            height: 2.2rem;
+            border-radius: 999px;
+            background: rgba(28, 30, 90, 0.08);
+            color: #1c1e5a;
+            font-size: 0.8rem;
+            font-weight: 800;
+            display: grid;
+            place-items: center;
+        }
+
+        .sidebar-item.active .sidebar-number {
+            background: rgba(44, 229, 30, 0.18);
+            color: #fff;
+        }
+
+        .home-page {
+            max-width: 1180px;
+        }
+
+        .home-hero {
+            position: relative;
+            overflow: hidden;
+            padding: 34px 32px;
+            text-align: left;
+            background:
+                radial-gradient(circle at top right, rgba(44, 229, 30, 0.16), transparent 26%),
+                linear-gradient(135deg, rgba(20, 20, 58, 0.98), rgba(28, 30, 90, 0.96) 52%, rgba(43, 47, 143, 0.94));
+            border: 1px solid rgba(44, 229, 30, 0.12);
+            box-shadow: 0 18px 48px rgba(15, 23, 42, 0.1);
+        }
+
+        .home-hero::after {
+            content: "";
+            position: absolute;
+            inset: auto -40px -50px auto;
+            width: 180px;
+            height: 180px;
+            background: radial-gradient(circle, rgba(44, 229, 30, 0.24), transparent 60%);
+            pointer-events: none;
+        }
+
+        .home-hero h1 {
+            margin-bottom: 14px;
+            font-size: clamp(2rem, 4vw, 3.2rem);
+            line-height: 1.04;
+            letter-spacing: -0.04em;
+        }
+
+        .home-hero .hero-accent {
+            color: #b8ffb2;
+            text-shadow: 0 0 16px rgba(44, 229, 30, 0.3);
+        }
+
+        .home-hero p {
+            max-width: 760px;
+            color: rgba(255, 255, 255, 0.84);
+        }
+
+        .quick-filters {
+            margin: 16px 0 22px;
+        }
+
+        .filter-btn {
+            border-radius: 999px;
+            background: rgba(255, 255, 255, 0.9);
+            border: 1px solid rgba(28, 30, 90, 0.12);
+            color: var(--ink-soft);
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.05), 0 1px 2px rgba(15, 23, 42, 0.04);
+        }
+
+        .filter-btn:hover {
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.22), 0 0 16px rgba(44, 229, 30, 0.14);
+        }
+
+        .filter-btn.active {
+            background: rgba(44, 229, 30, 0.14);
+            border-color: rgba(44, 229, 30, 0.56);
+            color: #152033;
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.28), 0 0 18px rgba(44, 229, 30, 0.16);
+        }
+
+        .home-grid {
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 16px;
+        }
+
+        .home-card {
+            position: relative;
+            display: grid;
+            align-content: start;
+            min-height: 174px;
+            padding: 18px;
+            text-align: left;
+            border-radius: 20px;
+            background: rgba(255, 255, 255, 0.96);
+            border: 1px solid rgba(28, 30, 90, 0.1);
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.08), 0 1px 2px rgba(15, 23, 42, 0.06);
+            gap: 14px;
+            transition: transform 0.24s ease, box-shadow 0.24s ease, border-color 0.24s ease, filter 0.24s ease;
+        }
+
+        .home-card::before {
+            content: "";
+            position: absolute;
+            inset: 0;
+            border-radius: inherit;
+            background: linear-gradient(180deg, rgba(44, 229, 30, 0.06), transparent 28%);
+            opacity: 0;
+            transition: opacity 0.24s ease;
+            pointer-events: none;
+        }
+
+        .home-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(44, 229, 30, 0.54);
+            box-shadow:
+                0 0 0 1px rgba(44, 229, 30, 0.22),
+                0 0 24px rgba(44, 229, 30, 0.18),
+                0 12px 30px rgba(15, 23, 42, 0.08);
+            filter: saturate(1.03);
+        }
+
+        .home-card:hover::before {
+            opacity: 1;
+        }
+
+        .home-card-icon {
+            font-size: 1.6rem;
+            margin-bottom: 0;
+        }
+
+        .home-card-number {
+            display: inline-flex;
+            width: fit-content;
+            padding: 0.34rem 0.62rem;
+            border-radius: 999px;
+            background: rgba(28, 30, 90, 0.08);
+            color: #1c1e5a;
+            letter-spacing: 0.08em;
+        }
+
+        .home-card-title {
+            font-size: 1rem;
+            line-height: 1.36;
+            color: var(--ink-strong);
+        }
+
+        .topic-page {
+            max-width: 980px;
+        }
+
+        .topic-header {
+            padding: 24px;
+            gap: 20px;
+            align-items: center;
+            background: rgba(255, 255, 255, 0.98);
+            border: 1px solid rgba(28, 30, 90, 0.12);
+            border-radius: 24px;
+            box-shadow: 0 18px 48px rgba(15, 23, 42, 0.1);
+            color: var(--ink-strong);
+        }
+
+        .topic-header-text {
+            display: grid;
+            gap: 8px;
+        }
+
+        .topic-icon {
+            font-size: 2rem;
+        }
+
+        .topic-number {
+            color: var(--ink-soft);
+            opacity: 1;
+            margin-bottom: 0;
+        }
+
+        .topic-title {
+            color: #1c1e5a;
+        }
+
+        .topic-content {
+            margin-top: 20px;
+        }
+
+        .content-card {
+            position: relative;
+            overflow: hidden;
+            --card-accent: #1c1e5a;
+            border-radius: 22px;
+            border: 1px solid rgba(28, 30, 90, 0.12);
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.08), 0 1px 2px rgba(15, 23, 42, 0.06);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .content-card::before {
+            content: "";
+            position: absolute;
+            inset: 0 auto auto 0;
+            width: 100%;
+            height: 6px;
+            background: var(--card-accent);
+        }
+
+        .content-card:hover {
+            transform: translateY(-2px);
+            box-shadow:
+                0 0 0 1px rgba(44, 229, 30, 0.18),
+                0 0 22px rgba(44, 229, 30, 0.12),
+                0 12px 30px rgba(15, 23, 42, 0.08);
+        }
+
+        .explanation-card { --card-accent: #1c1e5a; }
+        .purpose-card { --card-accent: #2b2f8f; }
+        .structure-card { --card-accent: #1565c0; }
+        .usage-card { --card-accent: #00695c; }
+        .examples-card { --card-accent: #2e7d32; }
+        .mistakes-card { --card-accent: #bf360c; }
+        .exercises-card { --card-accent: #e65100; }
+        .teacher-card { --card-accent: #6a1b9a; }
+
+        .card-label {
+            position: relative;
+            margin-left: 18px;
+            margin-top: 18px;
+            border-radius: 999px;
+            background: color-mix(in srgb, var(--card-accent) 12%, white);
+            color: var(--card-accent);
+        }
+
+        .card-title {
+            padding-top: 14px;
+            color: var(--ink-strong);
+        }
+
+        .card-body {
+            padding-top: 10px;
+        }
+
+        .content-line {
+            padding: 8px 0;
+        }
+
+        .lang-flag {
+            width: 1.4rem;
+        }
+
+        .pronunciation-line {
+            padding: 0.72rem 0.9rem;
+            border-radius: 16px;
+            border-left: 4px solid #2ce51e;
+            background: rgba(28, 30, 90, 0.03);
+            color: var(--ink-soft);
+        }
+
+        .option-line {
+            padding: 0.6rem 0.9rem;
+            border-radius: 14px;
+            border: 1px solid rgba(28, 30, 90, 0.08);
+            background: rgba(255, 255, 255, 0.96);
+            margin: 6px 0;
+        }
+
+        .subsection-header {
+            margin-top: 24px;
+            padding: 10px 12px;
+            border-radius: 14px;
+            border-bottom: 0;
+            background: rgba(28, 30, 90, 0.04);
+            color: #1c1e5a;
+        }
+
+        .audio-controls {
+            gap: 8px;
+            margin: 10px 0 12px;
+        }
+
+        .audio-btn {
+            padding: 0.5rem 0.82rem;
+            border-radius: 999px;
+            border: 1px solid rgba(28, 30, 90, 0.12);
+            background: rgba(255, 255, 255, 0.96);
+            color: #1c1e5a;
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.06), 0 1px 2px rgba(15, 23, 42, 0.04);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+        }
+
+        .audio-normal {
+            background: rgba(44, 229, 30, 0.12);
+            border-color: rgba(44, 229, 30, 0.32);
+            color: #14143a;
+        }
+
+        .audio-normal:hover {
+            background: #2ce51e;
+            color: #14143a;
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.34), 0 0 18px rgba(44, 229, 30, 0.22);
+        }
+
+        .audio-slow:hover {
+            background: #1c1e5a;
+            color: #fff;
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.18), 0 0 18px rgba(44, 229, 30, 0.16);
+        }
+
+        .topic-nav-bottom {
+            gap: 12px;
+            border-top: 1px solid rgba(28, 30, 90, 0.12);
+            padding-top: 18px;
+            margin-top: 24px;
+        }
+
+        .nav-btn {
+            border-radius: 999px;
+            border: 1px solid rgba(28, 30, 90, 0.14);
+            background: rgba(255, 255, 255, 0.96);
+            color: #1c1e5a;
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.06), 0 1px 2px rgba(15, 23, 42, 0.04);
+            transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+        }
+
+        .prev-btn,
+        .next-btn {
+            background: linear-gradient(135deg, #14143a, #1c1e5a);
+            color: #fff;
+            border-color: transparent;
+        }
+
+        .index-btn {
+            background: rgba(44, 229, 30, 0.12);
+            border-color: rgba(44, 229, 30, 0.3);
+            color: #14143a;
+        }
+
+        .nav-btn:hover {
+            transform: translateY(-2px);
+            box-shadow:
+                0 0 0 1px rgba(44, 229, 30, 0.22),
+                0 0 18px rgba(44, 229, 30, 0.16),
+                0 10px 24px rgba(15, 23, 42, 0.08);
+        }
+
+        .scroll-top {
+            width: 46px;
+            height: 46px;
+            border-radius: 999px;
+            background: linear-gradient(135deg, #14143a, #1c1e5a);
+            box-shadow: 0 18px 48px rgba(15, 23, 42, 0.12);
+        }
+
+        .scroll-top:hover {
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.18), 0 0 18px rgba(44, 229, 30, 0.16), 0 18px 48px rgba(15, 23, 42, 0.12);
+        }
+
+        @media (max-width: 960px) {
+            .sidebar {
+                box-shadow: 0 18px 48px rgba(15, 23, 42, 0.14);
+            }
+
+            .main-content {
+                margin-left: 0;
+                padding-inline: 16px;
+            }
+
+            .header-search input {
+                width: 180px;
+            }
+
+            .header-search input:focus {
+                width: 220px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .top-header {
+                padding-inline: 14px;
+            }
+
+            .header-shield {
+                width: 42px;
+                height: 42px;
+            }
+
+            .header-brand-kicker {
+                font-size: 0.66rem;
+            }
+
+            .header-brand-title {
+                font-size: 0.95rem;
+            }
+
+            .header-brand-subtitle {
+                font-size: 0.72rem;
+            }
+
+            .header-search {
+                display: none;
+            }
+
+            .home-hero {
+                padding: 24px;
+            }
+
+            .topic-header {
+                align-items: start;
+                text-align: left;
+            }
+
+            .topic-nav-bottom {
+                flex-direction: column;
+            }
+
+            .nav-btn {
+                width: 100%;
+            }
+        }
+"""
+
+def apply_design_upgrade(html):
+    """Apply the IFR redesign and UX fixes after generating the base HTML."""
+    replacements = [
+        (
+            "<title>IFR — Material de Clase: Inglés Diagnóstico Bachillerato</title>",
+            f"<title>{DEFAULT_TITLE}</title>\n    <meta name=\"description\" content=\"{DEFAULT_DESCRIPTION}\">\n    <meta name=\"theme-color\" content=\"#1C1E5A\">\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"favicon.svg\">"
+        ),
+        (
+            "<meta name=\"description\" content=\"Plataforma educativa IFR para material de clase y consulta de inglés diagnóstico para bachillerato. 17 temas desde saludos básicos hasta Zero Conditional.\">",
+            ""
+        ),
+        (
+            """<div class="header-logo">
+            <span>IFR</span>
+            <span class="logo-accent">Inglés</span>
+            <span style="opacity:0.7; font-weight:400; font-size:14px;">Material de Clase</span>
+        </div>""",
+            f"""<button class="header-logo" onclick="showHome()" aria-label="Volver al inicio">
+            <img class="header-shield" src="ifr-shield.svg" alt="Escudo del IFR" data-official-shield="{SHIELD_URL}">
+            <span class="header-brand">
+                <span class="header-brand-kicker">Instituto Fernando Ramírez</span>
+                <span class="header-brand-title">Inglés diagnóstico</span>
+                <span class="header-brand-subtitle">Bachillerato</span>
+            </span>
+        </button>"""
+        ),
+        (
+            '<span class="search-icon">🔍</span>',
+            '<span class="search-icon">🔎</span>'
+        ),
+        (
+            'placeholder="Buscar tema o contenido…" oninput="handleSearch(this.value)" onfocus="handleSearch(this.value)" autocomplete="off">',
+            'placeholder="Buscar tema o bloque" oninput="handleSearch(this.value)" onfocus="handleSearch(this.value)" autocomplete="off">'
+        ),
+        (
+            """<div class="sidebar-progress">
+            <div class="progress-label">Progreso</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+            <div class="progress-text" id="progressText">0 / 17 temas visitados</div>
+        </div>
+        <div class="sidebar-title">Temas</div>""",
+            """<div class="sidebar-progress">
+            <div class="progress-head">
+                <div class="progress-label">Avance</div>
+                <div class="progress-text" id="progressText">0 de 17 temas revisados</div>
+            </div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+            </div>
+        </div>
+        <div class="sidebar-title">Temario</div>"""
+        ),
+        (
+            '<h1>Material de Clase — <span class="hero-accent">Inglés Diagnóstico</span></h1>',
+            '<h1>Material de clase <span class="hero-accent">Inglés diagnóstico</span></h1>'
+        ),
+        (
+            'Plataforma de consulta y apoyo docente para bachillerato. 17 temas organizados desde saludos y expresiones básicas hasta Zero Conditional.',
+            'Plataforma de consulta y apoyo docente para bachillerato. 17 temas organizados desde saludos y expresiones básicas hasta Zero Conditional.'
+        ),
+        (
+            "document.getElementById('progressText').textContent = visitedTopics.size + ' / 17 temas visitados';",
+            "document.getElementById('progressText').textContent = visitedTopics.size + ' de 17 temas revisados';"
+        ),
+    ]
+
+    for old, new in replacements:
+        html = html.replace(old, new)
+
+    if DESIGN_UPGRADE_CSS not in html:
+        html = html.replace("</style>", DESIGN_UPGRADE_CSS + "\n    </style>", 1)
+
+    html = html.replace(
+        "        // ===== SEARCH =====\n        function handleSearch(query) {{\n            const results = document.getElementById('searchResults');\n            if (!query || query.length < 2) {{\n                results.classList.remove('show');\n                return;\n            }}\n            \n            const q = query.toLowerCase();\n            const matches = searchData.filter(t => t.keywords.includes(q) || t.title.toLowerCase().includes(q));",
+        """        // ===== SEARCH =====
+        function normalizeSearchText(value) {{
+            return (value || '')
+                .toString()
+                .normalize('NFD')
+                .replace(/[\\u0300-\\u036f]/g, '')
+                .replace(/[«»"']/g, '')
+                .toLowerCase();
+        }}
+
+        function handleSearch(query) {{
+            const results = document.getElementById('searchResults');
+            if (!query || query.length < 2) {{
+                results.classList.remove('show');
+                return;
+            }}
+            
+            const q = normalizeSearchText(query.trim());
+            const matches = searchData.filter(t => {{
+                const title = normalizeSearchText(t.title);
+                const keywords = normalizeSearchText(t.keywords);
+                return title.includes(q) || keywords.includes(q);
+            }});"""
+    )
+
+    html = html.replace(
+        "        // ===== INIT =====\n        updateProgress();",
+        f"""        // ===== INIT =====
+        updateProgress();
+        (async () => {{
+            const shield = document.querySelector('.header-shield');
+            if (!shield) return;
+            const official = shield.dataset.officialShield;
+            if (!official) return;
+            try {{
+                const controller = new AbortController();
+                const timeout = setTimeout(() => controller.abort(), 3500);
+                await fetch(official, {{ mode: 'no-cors', cache: 'no-store', signal: controller.signal }});
+                clearTimeout(timeout);
+                shield.src = official;
+            }} catch (err) {{
+                // Keep the local shield when the official file cannot be reached.
+            }}
+        }})();"""
+    )
+
+    return html
+
 def read_source():
     """Read the source file with proper encoding."""
     for enc in ['utf-8-sig', 'utf-8', 'latin-1']:
@@ -1272,6 +2019,7 @@ def main():
     
     print("Generating HTML...")
     html = generate_full_html(topics)
+    html = apply_design_upgrade(html)
     
     print(f"Writing output ({len(html)} chars)...")
     with open(OUTPUT_FILE, 'w', encoding='utf-8') as f:
