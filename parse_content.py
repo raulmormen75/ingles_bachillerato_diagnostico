@@ -10,8 +10,28 @@ import unicodedata
 INPUT_FILE = r"d:\Mi unidad\IFR\Inglés\Bachillerato\Contenido de clase diagnóstico.txt"
 OUTPUT_FILE = r"d:\Mi unidad\IFR\Inglés\Bachillerato\index.html"
 SHIELD_URL = "https://i.postimg.cc/G8VMfXhR/274744310_104329305530428_353308199971240379_n.jpg"
+FAVICON_FILE = "school-shield.jpg"
 DEFAULT_TITLE = "IFR · Inglés diagnóstico para bachillerato"
 DEFAULT_DESCRIPTION = "Material académico IFR para inglés diagnóstico de bachillerato con lectura bilingüe, ejemplos guiados y ejercicios de apoyo."
+TOPIC_LABELS = [
+    {"id": 1, "en": "Greetings and Basic Expressions", "es": "Saludos y expresiones básicas"},
+    {"id": 2, "en": "The English Alphabet", "es": "El alfabeto en inglés"},
+    {"id": 3, "en": "Vowels, Consonants, and Basic Pronunciation", "es": "Vocales, consonantes y pronunciación básica"},
+    {"id": 4, "en": "Numbers", "es": "Números"},
+    {"id": 5, "en": "Personal Pronouns", "es": "Pronombres personales"},
+    {"id": 6, "en": 'Verb "to be" in the Present', "es": "Verbo «to be» en presente"},
+    {"id": 7, "en": "Introducing Yourself in English", "es": "Presentarse en inglés"},
+    {"id": 8, "en": "Singular and Plural Nouns", "es": "Sustantivos en singular y plural"},
+    {"id": 9, "en": "Infinitives and Gerunds", "es": "Infinitivos y gerundios"},
+    {"id": 10, "en": "Simple Present", "es": "Presente simple"},
+    {"id": 11, "en": 'Auxiliaries "do" and "does"', "es": "Auxiliares «do» y «does»"},
+    {"id": 12, "en": 'Simple Past with "to be"', "es": "Pasado simple con «to be»"},
+    {"id": 13, "en": "Simple Past with Other Verbs", "es": "Pasado simple con otros verbos"},
+    {"id": 14, "en": "Basic Future", "es": "Futuro básico"},
+    {"id": 15, "en": "Present Continuous for Future", "es": "Presente continuo para futuro"},
+    {"id": 16, "en": "Present vs. Past vs. Future", "es": "Presente vs. pasado vs. futuro"},
+    {"id": 17, "en": "Zero Conditional", "es": "Condicional cero"},
+]
 
 DESIGN_UPGRADE_CSS = r"""
         /* ===== IFR DESIGN UPGRADE ===== */
@@ -77,6 +97,93 @@ DESIGN_UPGRADE_CSS = r"""
                 0 10px 24px rgba(0, 0, 0, 0.18),
                 0 0 18px rgba(44, 229, 30, 0.16);
             flex-shrink: 0;
+        }
+
+        .search-result-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .search-result-num {
+            flex-shrink: 0;
+            margin-top: 2px;
+            margin-right: 0;
+        }
+
+        .search-result-body {
+            min-width: 0;
+            flex: 1;
+        }
+
+        .sidebar-item {
+            align-items: flex-start;
+        }
+
+        .sidebar-text {
+            display: block;
+            min-width: 0;
+            flex: 1;
+        }
+
+        .topic-name-group {
+            display: block;
+            min-width: 0;
+        }
+
+        .topic-name-line {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            min-width: 0;
+        }
+
+        .topic-name-line + .topic-name-line {
+            margin-top: 4px;
+        }
+
+        .topic-name-line .lang-flag {
+            margin-right: 0;
+            flex-shrink: 0;
+        }
+
+        .topic-name-label {
+            display: block;
+            min-width: 0;
+        }
+
+        .sidebar-text .topic-name-line,
+        .search-result-body .topic-name-line {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .sidebar-text .topic-name-label,
+        .search-result-body .topic-name-label {
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .sidebar-text .topic-name-line-es,
+        .home-card-title .topic-name-line-es,
+        .search-result-body .topic-name-line-es {
+            opacity: 0.82;
+            font-weight: 500;
+        }
+
+        .home-card-title .topic-name-line {
+            justify-content: center;
+        }
+
+        .topic-title .topic-name-line + .topic-name-line {
+            margin-top: 6px;
+        }
+
+        .topic-title .topic-name-line-es {
+            opacity: 0.9;
+            font-size: 0.82em;
+            font-weight: 700;
         }
 
         .header-brand {
@@ -641,7 +748,7 @@ def apply_design_upgrade(html):
     replacements = [
         (
             "<title>IFR — Material de Clase: Inglés Diagnóstico Bachillerato</title>",
-            f"<title>{DEFAULT_TITLE}</title>\n    <meta name=\"description\" content=\"{DEFAULT_DESCRIPTION}\">\n    <meta name=\"theme-color\" content=\"#1C1E5A\">\n    <link rel=\"icon\" type=\"image/svg+xml\" href=\"favicon.svg\">"
+            f"<title>{DEFAULT_TITLE}</title>\n    <meta name=\"description\" content=\"{DEFAULT_DESCRIPTION}\">\n    <meta name=\"theme-color\" content=\"#1C1E5A\">\n    <link rel=\"icon\" type=\"image/jpeg\" href=\"{FAVICON_FILE}\">\n    <link rel=\"apple-touch-icon\" href=\"{FAVICON_FILE}\">"
         ),
         (
             "<meta name=\"description\" content=\"Plataforma educativa IFR para material de clase y consulta de inglés diagnóstico para bachillerato. 17 temas desde saludos básicos hasta Zero Conditional.\">",
@@ -696,7 +803,7 @@ def apply_design_upgrade(html):
         ),
         (
             'Plataforma de consulta y apoyo docente para bachillerato. 17 temas organizados desde saludos y expresiones básicas hasta Zero Conditional.',
-            'Plataforma de consulta y apoyo docente para bachillerato. 17 temas organizados desde saludos y expresiones básicas hasta Zero Conditional.'
+            'Plataforma de consulta y apoyo docente para bachillerato. Los 17 temas se muestran con su nombre en inglés y en español para facilitar la consulta bilingüe.'
         ),
         (
             "document.getElementById('progressText').textContent = visitedTopics.size + ' / 17 temas visitados';",
@@ -738,8 +845,9 @@ def apply_design_upgrade(html):
     )
 
     html = html.replace(
-        "        // ===== INIT =====\n        updateProgress();",
+        "        // ===== INIT =====\n        applyTopicLabels();\n        updateProgress();",
         f"""        // ===== INIT =====
+        applyTopicLabels();
         updateProgress();
         (async () => {{
             const shield = document.querySelector('.header-shield');
@@ -1041,16 +1149,7 @@ def generate_full_html(topics_data):
     sidebar_items = build_sidebar_html(topics_data)
     all_topic_pages = '\n'.join(topic_pages)
     
-    # Build search index data
-    search_data = []
-    for t in topics_data:
-        title = clean_title(t['title'])
-        search_data.append({
-            'id': t['id'],
-            'title': title,
-            'keywords': title.lower()
-        })
-    search_json = json.dumps(search_data, ensure_ascii=False)
+    topic_labels_json = json.dumps(TOPIC_LABELS, ensure_ascii=False)
     
     html = f'''<!DOCTYPE html>
 <html lang="es">
@@ -1781,7 +1880,54 @@ def generate_full_html(topics_data):
         // ===== STATE =====
         let currentTopic = null;
         const visitedTopics = new Set();
-        const searchData = {search_json};
+        const topicLabels = {topic_labels_json};
+        const topicLabelsById = Object.fromEntries(topicLabels.map(topic => [topic.id, topic]));
+        const searchData = topicLabels.map(topic => ({{
+            id: topic.id,
+            title: `${{topic.en}} / ${{topic.es}}`,
+            keywords: `${{topic.en}} ${{topic.es}}`.toLowerCase()
+        }}));
+
+        function getTopicNameHTML(topic) {{
+            return `
+                <span class="topic-name-group">
+                    <span class="topic-name-line topic-name-line-en">
+                        <span class="lang-flag lang-flag-us" aria-hidden="true"></span>
+                        <span class="topic-name-label">${{topic.en}}</span>
+                    </span>
+                    <span class="topic-name-line topic-name-line-es">
+                        <span class="lang-flag lang-flag-mx" aria-hidden="true"></span>
+                        <span class="topic-name-label">${{topic.es}}</span>
+                    </span>
+                </span>
+            `;
+        }}
+
+        function applyTopicLabels() {{
+            document.querySelectorAll('.sidebar-item').forEach((item, index) => {{
+                const topic = topicLabels[index];
+                const label = item.querySelector('.sidebar-text');
+                if (!topic || !label) return;
+                label.innerHTML = getTopicNameHTML(topic);
+                item.setAttribute('aria-label', `Tema ${{topic.id}}: ${{topic.en}} / ${{topic.es}}`);
+            }});
+
+            document.querySelectorAll('.home-card').forEach((card, index) => {{
+                const topic = topicLabels[index];
+                const title = card.querySelector('.home-card-title');
+                if (!topic || !title) return;
+                title.innerHTML = getTopicNameHTML(topic);
+                card.setAttribute('aria-label', `Tema ${{topic.id}}: ${{topic.en}} / ${{topic.es}}`);
+            }});
+
+            document.querySelectorAll('.topic-page').forEach(page => {{
+                const id = Number(page.id.replace('topic-', ''));
+                const topic = topicLabelsById[id];
+                const title = page.querySelector('.topic-title');
+                if (!topic || !title) return;
+                title.innerHTML = getTopicNameHTML(topic);
+            }});
+        }}
         
         // ===== NAVIGATION =====
         function navigateTopic(id) {{
@@ -1864,7 +2010,9 @@ def generate_full_html(topics_data):
             }} else {{
                 results.innerHTML = matches.map(m => 
                     `<div class="search-result-item" onclick="navigateTopic(${{m.id}}); document.getElementById('searchResults').classList.remove('show'); document.getElementById('searchInput').value='';">` +
-                    `<span class="search-result-num">Tema ${{m.id}}</span>${{m.title}}</div>`
+                    `<span class="search-result-num">Tema ${{m.id}}</span>` +
+                    `<span class="search-result-body">${{getTopicNameHTML(topicLabelsById[m.id])}}</span>` +
+                    `</div>`
                 ).join('');
             }}
             results.classList.add('show');
@@ -1995,6 +2143,7 @@ def generate_full_html(topics_data):
         }});
         
         // ===== INIT =====
+        applyTopicLabels();
         updateProgress();
     </script>
 </body>
@@ -2015,7 +2164,8 @@ def main():
     for t in topics:
         sections = split_sections(t['raw'])
         title = clean_title(t['title'])
-        print(f"  Topic {t['id']}: {title} ({len(sections)} sections)")
+        safe_title = title.encode('cp1252', errors='replace').decode('cp1252')
+        print(f"  Topic {t['id']}: {safe_title} ({len(sections)} sections)")
     
     print("Generating HTML...")
     html = generate_full_html(topics)
