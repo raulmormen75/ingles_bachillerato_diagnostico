@@ -116,6 +116,14 @@ DESIGN_UPGRADE_CSS = r"""
             flex: 1;
         }
 
+        .card-label {
+            color: var(--ifr-white);
+        }
+
+        .card-label .card-icon {
+            color: inherit;
+        }
+
         .sidebar-item {
             align-items: flex-start;
         }
@@ -184,6 +192,22 @@ DESIGN_UPGRADE_CSS = r"""
             opacity: 0.9;
             font-size: 0.82em;
             font-weight: 700;
+        }
+
+        body,
+        .header-search input,
+        .filter-btn,
+        .nav-btn,
+        .audio-btn {
+            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
+        }
+
+        h1, h2, h3, h4,
+        .home-card-title,
+        .topic-title,
+        .card-title,
+        .header-brand-title {
+            font-family: 'Montserrat', 'Nunito', sans-serif;
         }
 
         .header-brand {
@@ -552,7 +576,11 @@ DESIGN_UPGRADE_CSS = r"""
             margin-top: 18px;
             border-radius: 999px;
             background: color-mix(in srgb, var(--card-accent) 12%, white);
-            color: var(--card-accent);
+            color: var(--ifr-white);
+        }
+
+        .card-label .card-icon {
+            color: inherit;
         }
 
         .card-title {
@@ -1159,7 +1187,7 @@ def generate_full_html(topics_data):
     <title>IFR — Material de Clase: Inglés Diagnóstico Bachillerato</title>
     <meta name="description" content="Plataforma educativa IFR para material de clase y consulta de inglés diagnóstico para bachillerato. 17 temas desde saludos básicos hasta Zero Conditional.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800&family=Nunito:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
         /* ===== CSS RESET & ROOT ===== */
         *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
@@ -1205,7 +1233,7 @@ def generate_full_html(topics_data):
         html {{ scroll-behavior: smooth; }}
         
         body {{
-            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Nunito', -apple-system, BlinkMacSystemFont, sans-serif;
             background: var(--ifr-body-bg);
             color: #1a1a2e;
             line-height: 1.6;
@@ -1273,7 +1301,7 @@ def generate_full_html(topics_data):
             width: 260px;
             outline: none;
             transition: all 0.3s;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }}
         .header-search input::placeholder {{ color: rgba(255,255,255,0.6); }}
         .header-search input:focus {{
@@ -1662,7 +1690,7 @@ def generate_full_html(topics_data):
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }}
         .audio-normal {{
             background: var(--color-examples-bg);
@@ -1714,7 +1742,7 @@ def generate_full_html(topics_data):
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Nunito', sans-serif;
         }}
         .prev-btn, .next-btn {{
             background: var(--ifr-primary);
@@ -1751,7 +1779,7 @@ def generate_full_html(topics_data):
             font-weight: 600;
             cursor: pointer;
             transition: all 0.2s;
-            font-family: 'Inter', sans-serif;
+            font-family: 'Nunito', sans-serif;
             display: flex;
             align-items: center;
             gap: 6px;
