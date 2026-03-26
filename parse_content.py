@@ -1054,7 +1054,8 @@ def section_to_card(section, topic_id):
     title_html = html_module.escape(section['title'])
     
     # For examples section, add audio buttons to English lines
-    if sec_type == 'examples':
+    # Also for Topic 1 specific sections: Explanation, Purpose, Structure, Usage
+    if sec_type == 'examples' or (topic_id == 1 and sec_type in ['explanation', 'purpose', 'structure', 'usage']):
         inner_html = add_audio_buttons(inner_html)
     
     return f'''
