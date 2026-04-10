@@ -8857,18 +8857,38 @@
             return controls;
         }
 
+        function getTopic2EnglishText(target) {
+            if (!target) return '';
+
+            if (target.classList.contains('topic-title')) {
+                const englishLabel = target.querySelector('.topic-name-line-en .topic-name-label');
+                return sanitizeSpeechText(englishLabel ? englishLabel.textContent : target.textContent);
+            }
+
+            if (target.classList.contains('card-title') || target.classList.contains('subsection-header')) {
+                const fullText = sanitizeSpeechText(target.innerHTML);
+                return sanitizeSpeechText(fullText.split(' / ')[0] || fullText);
+            }
+
+            if ((target.classList.contains('content-line') || target.classList.contains('option-line')) && target.classList.contains('en-text')) {
+                return sanitizeSpeechText(target.innerHTML);
+            }
+
+            return '';
+        }
+
         function injectTopic2AudioControls() {
             const topic = document.getElementById('topic-2');
             if (!topic) return;
 
             topic.querySelectorAll('.audio-controls').forEach((controls) => controls.remove());
 
-            const targets = topic.querySelectorAll('.topic-title, .card-title, .subsection-header, .content-line, .pronunciation-line, .option-line');
+            const targets = topic.querySelectorAll('.topic-title, .card-title, .subsection-header, .content-line.en-text, .option-line.en-text');
 
             targets.forEach((target) => {
-                const sourceText = target.innerHTML;
-                if (!sanitizeSpeechText(sourceText)) return;
-                target.insertAdjacentElement('afterend', createAudioControls(sourceText));
+                const englishText = getTopic2EnglishText(target);
+                if (!englishText) return;
+                target.insertAdjacentElement('afterend', createAudioControls(englishText));
             });
         }
 
