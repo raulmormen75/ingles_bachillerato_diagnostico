@@ -1303,6 +1303,7 @@
         .audio-controls {
             gap: 8px;
             margin: 10px 0 12px;
+            flex-wrap: wrap;
         }
 
         .audio-btn {
@@ -1325,6 +1326,18 @@
             background: #2ce51e;
             color: #14143a;
             box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.34), 0 0 18px rgba(44, 229, 30, 0.22);
+        }
+
+        .audio-gentle {
+            background: rgba(43, 47, 143, 0.08);
+            border-color: rgba(43, 47, 143, 0.24);
+            color: #1c1e5a;
+        }
+
+        .audio-gentle:hover {
+            background: #2b2f8f;
+            color: #fff;
+            box-shadow: 0 0 0 1px rgba(43, 47, 143, 0.24), 0 0 18px rgba(43, 47, 143, 0.16);
         }
 
         .audio-slow:hover {
@@ -8787,6 +8800,78 @@
                 .trim();
         }
 
+        const topic2AudioButtonConfigs = [
+            {
+                rate: 1.0,
+                icon: '\u25B6',
+                label: 'Velocidad normal',
+                className: 'audio-normal',
+                title: 'Escuchar a velocidad normal'
+            },
+            {
+                rate: 0.75,
+                icon: '\u{1F33F}',
+                label: 'Velocidad suave (0.75)',
+                className: 'audio-gentle',
+                title: 'Escuchar a velocidad suave 0.75'
+            },
+            {
+                rate: 0.5,
+                icon: '\u{1F422}',
+                label: 'Velocidad lenta (0.50)',
+                className: 'audio-slow',
+                title: 'Escuchar a velocidad lenta 0.50'
+            }
+        ];
+
+        function restoreAudioButtonLabel(button, rate) {
+            if (!button) return;
+
+            const icon = button.dataset.audioIcon || (rate === 1 ? '\u25B6' : rate === 0.75 ? '\u{1F33F}' : '\u{1F422}');
+            const label = button.dataset.audioLabel || (rate === 1 ? 'Velocidad normal' : rate === 0.75 ? 'Velocidad suave (0.75)' : 'Velocidad lenta (0.50)');
+            button.innerHTML = `<span class="audio-icon">${icon}</span> ${label}`;
+        }
+
+        function createAudioButton(config, text) {
+            const button = document.createElement('button');
+            button.type = 'button';
+            button.className = `audio-btn ${config.className}`;
+            button.dataset.audioIcon = config.icon;
+            button.dataset.audioLabel = config.label;
+            button.dataset.audioRate = String(config.rate);
+            button.title = config.title;
+            restoreAudioButtonLabel(button, config.rate);
+            button.addEventListener('click', () => speakText(text, config.rate, button));
+            return button;
+        }
+
+        function createAudioControls(text, configs = topic2AudioButtonConfigs) {
+            const controls = document.createElement('div');
+            controls.className = 'audio-controls';
+            controls.dataset.generatedAudio = 'true';
+
+            configs.forEach((config) => {
+                controls.appendChild(createAudioButton(config, text));
+            });
+
+            return controls;
+        }
+
+        function injectTopic2AudioControls() {
+            const topic = document.getElementById('topic-2');
+            if (!topic) return;
+
+            topic.querySelectorAll('.audio-controls').forEach((controls) => controls.remove());
+
+            const targets = topic.querySelectorAll('.topic-title, .card-title, .subsection-header, .content-line, .pronunciation-line, .option-line');
+
+            targets.forEach((target) => {
+                const sourceText = target.innerHTML;
+                if (!sanitizeSpeechText(sourceText)) return;
+                target.insertAdjacentElement('afterend', createAudioControls(sourceText));
+            });
+        }
+
         function speakText(text, rate, btn) {
             // Cancel any current speech
             if (window.speechSynthesis.speaking) {
@@ -8800,10 +8885,10 @@
             
             if (!window.speechSynthesis) {
                 btn.classList.add('error');
-                btn.innerHTML = '<span class="audio-icon">❌</span> No disponible';
+                btn.innerHTML = '<span class="audio-icon">&#10060;</span> No disponible';
                 setTimeout(() => {
                     btn.classList.remove('error');
-                    btn.innerHTML = rate === 1 ? '<span class="audio-icon">▶</span> Normal' : '<span class="audio-icon">🐢</span> Lento 0.5×';
+                    restoreAudioButtonLabel(btn, rate);
                 }, 2000);
                 return;
             }
@@ -8833,13 +8918,15 @@
                 btn.classList.remove('speaking');
                 if (e.error !== 'canceled') {
                     btn.classList.add('error');
-                    setTimeout(() => btn.classList.remove('error'), 2000);
+                    setTimeout(() => {
+                        btn.classList.remove('error');
+                        restoreAudioButtonLabel(btn, rate);
+                    }, 2000);
                 }
             };
             
             window.speechSynthesis.speak(utterance);
         }
-        
         // Load voices
         if (window.speechSynthesis) {
             speechSynthesis.onvoiceschanged = () => speechSynthesis.getVoices();
@@ -8874,6 +8961,7 @@
         
         // ===== INIT =====
         applyTopicLabels();
+        injectTopic2AudioControls();
         updateProgress();
         initializeSidebarState();
         window.addEventListener('resize', initializeSidebarState);
