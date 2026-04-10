@@ -694,11 +694,31 @@
         }
 
         .header-hamburger {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
             width: 44px;
             height: 44px;
             border-radius: 14px;
             background: rgba(255, 255, 255, 0.12);
             color: #fff;
+            flex-shrink: 0;
+            transition: background 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+        }
+
+        .header-hamburger:hover {
+            background: rgba(255, 255, 255, 0.2);
+            transform: translateY(-1px);
+        }
+
+        .header-hamburger:focus-visible {
+            outline: 2px solid rgba(44, 229, 30, 0.9);
+            outline-offset: 2px;
+        }
+
+        .header-hamburger.is-active {
+            background: rgba(44, 229, 30, 0.2);
+            box-shadow: 0 0 0 1px rgba(44, 229, 30, 0.22), 0 0 18px rgba(44, 229, 30, 0.14);
         }
 
         .header-logo {
@@ -903,12 +923,37 @@
             backdrop-filter: blur(16px);
             border-right: 1px solid rgba(28, 30, 90, 0.12);
             box-shadow: 10px 0 30px rgba(15, 23, 42, 0.04);
+            transition: transform 0.28s ease, box-shadow 0.28s ease;
         }
 
         .main-content {
+            margin-left: var(--sidebar-width);
             margin-top: 78px;
             padding-inline: 28px;
             padding-block: 30px;
+            transition: margin-left 0.28s ease, padding-inline 0.28s ease;
+        }
+
+        .sidebar-overlay {
+            display: none;
+            position: fixed;
+            inset: 78px 0 0 0;
+            background: rgba(20, 20, 58, 0.28);
+            backdrop-filter: blur(2px);
+            z-index: 850;
+        }
+
+        .sidebar-overlay.show {
+            display: block;
+        }
+
+        body.sidebar-collapsed .sidebar {
+            transform: translateX(calc(-1 * var(--sidebar-width)));
+            box-shadow: none;
+        }
+
+        body.sidebar-collapsed .main-content {
+            margin-left: 0;
         }
 
         .sidebar-progress {
@@ -1339,7 +1384,12 @@
 
         @media (max-width: 960px) {
             .sidebar {
+                transform: translateX(-100%);
                 box-shadow: 0 18px 48px rgba(15, 23, 42, 0.14);
+            }
+
+            .sidebar.open {
+                transform: translateX(0);
             }
 
             .main-content {
@@ -1405,7 +1455,7 @@
 <body>
     <!-- TOP HEADER -->
     <header class="top-header">
-        <button class="header-hamburger" onclick="toggleSidebar()" aria-label="Menú">☰</button>
+        <button class="header-hamburger" id="sidebarToggle" onclick="toggleSidebar()" aria-label="Ocultar temario" aria-controls="sidebar" aria-expanded="true" title="Ocultar temario">&#9776;</button>
         <button class="header-logo" onclick="showHome()" aria-label="Volver al inicio">
             <img class="header-shield" src="ifr-shield.svg" alt="Escudo del IFR" data-official-shield="https://i.postimg.cc/G8VMfXhR/274744310_104329305530428_353308199971240379_n.jpg">
             <span class="header-brand">
@@ -8558,8 +8608,8 @@
             visitedTopics.add(id);
             updateProgress();
             
-            // Close sidebar on mobile
-            if (window.innerWidth <= 768) {
+            // Close sidebar on compact layouts
+            if (isCompactLayout()) {
                 closeSidebar();
             }
             
@@ -8572,7 +8622,7 @@
             document.getElementById('homePage').style.display = 'block';
             document.querySelectorAll('.sidebar-item').forEach(item => item.classList.remove('active'));
             currentTopic = null;
-            if (window.innerWidth <= 768) closeSidebar();
+            if (isCompactLayout()) closeSidebar();
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
         
@@ -8583,16 +8633,64 @@
         }
         
         // ===== SIDEBAR =====
-        function toggleSidebar() {
+        const SIDEBAR_PREF_KEY = 'ifr-sidebar-collapsed';
+
+        function isCompactLayout() {
+            return window.innerWidth <= 960;
+        }
+
+        function syncSidebarToggle(isOpen) {
+            const button = document.getElementById('sidebarToggle');
+            if (!button) return;
+
+            const label = isOpen ? 'Ocultar temario' : 'Mostrar temario';
+            button.classList.toggle('is-active', isOpen);
+            button.setAttribute('aria-expanded', String(isOpen));
+            button.setAttribute('aria-label', label);
+            button.setAttribute('title', label);
+        }
+
+        function setSidebarState(isOpen) {
             const sidebar = document.getElementById('sidebar');
             const overlay = document.getElementById('sidebarOverlay');
-            sidebar.classList.toggle('open');
-            overlay.classList.toggle('show');
+            const compact = isCompactLayout();
+
+            if (compact) {
+                sidebar.classList.toggle('open', isOpen);
+                overlay.classList.toggle('show', isOpen);
+                document.body.classList.remove('sidebar-collapsed');
+            } else {
+                document.body.classList.toggle('sidebar-collapsed', !isOpen);
+                sidebar.classList.remove('open');
+                overlay.classList.remove('show');
+                localStorage.setItem(SIDEBAR_PREF_KEY, String(!isOpen));
+            }
+
+            syncSidebarToggle(isOpen);
+        }
+
+        function isSidebarOpen() {
+            if (isCompactLayout()) {
+                return document.getElementById('sidebar').classList.contains('open');
+            }
+            return !document.body.classList.contains('sidebar-collapsed');
+        }
+
+        function toggleSidebar() {
+            setSidebarState(!isSidebarOpen());
         }
         
         function closeSidebar() {
-            document.getElementById('sidebar').classList.remove('open');
-            document.getElementById('sidebarOverlay').classList.remove('show');
+            setSidebarState(false);
+        }
+
+        function initializeSidebarState() {
+            const desktopCollapsed = localStorage.getItem(SIDEBAR_PREF_KEY) === 'true';
+            if (isCompactLayout()) {
+                setSidebarState(false);
+                return;
+            }
+            setSidebarState(!desktopCollapsed);
         }
         
         // ===== SEARCH =====
@@ -8765,6 +8863,8 @@
         // ===== INIT =====
         applyTopicLabels();
         updateProgress();
+        initializeSidebarState();
+        window.addEventListener('resize', initializeSidebarState);
         (async () => {
             const shield = document.querySelector('.header-shield');
             if (!shield) return;
