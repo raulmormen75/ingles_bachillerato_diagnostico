@@ -1,2 +1,4 @@
 .playwright-cli/
+output/
+.vercel/
 improve_topic_*.py

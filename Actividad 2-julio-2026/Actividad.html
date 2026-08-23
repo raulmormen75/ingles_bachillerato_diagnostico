@@ -1,0 +1,797 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Actividad | Inglés diagnóstico IFR</title>
+  <link rel="icon" href="../favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --ifr-blue: #1C1E5A;
+      --ifr-blue-dark: #14143A;
+      --ifr-blue-light: #2B2F8F;
+      --ifr-green: #2CE51E;
+      --ifr-green-dark: #22B517;
+      --bg-body: #F4F7FB;
+      --white: #FFFFFF;
+      --text-main: #1A1F36;
+      --text-body: #475569;
+      --border-soft: #E2E8F0;
+      --highlight-green: rgba(44, 229, 30, 0.2);
+      --shadow-soft: 0 18px 42px rgba(20, 20, 58, 0.09);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      background: var(--bg-body);
+      color: var(--text-main);
+      font-family: "Plus Jakarta Sans", Arial, sans-serif;
+      line-height: 1.58;
+    }
+
+    .document-wrapper {
+      width: min(100%, 980px);
+      margin: 28px auto;
+      overflow: hidden;
+      border-radius: 24px;
+      background: var(--white);
+      box-shadow: var(--shadow-soft);
+    }
+
+    .class-title {
+      position: relative;
+      overflow: hidden;
+      padding: 34px 42px;
+      color: var(--white);
+      background: linear-gradient(135deg, var(--ifr-blue-light), var(--ifr-blue-dark));
+      border-top: 6px solid var(--ifr-green);
+    }
+
+    .class-title::after,
+    .footer-note::after {
+      content: "";
+      position: absolute;
+      right: -72px;
+      top: -34px;
+      width: 190px;
+      height: 190px;
+      border-radius: 28px;
+      background: rgba(44, 229, 30, 0.18);
+      transform: rotate(25deg);
+    }
+
+    .hero-identity {
+      position: relative;
+      z-index: 1;
+      display: flex;
+      align-items: center;
+      gap: 18px;
+    }
+
+    .shield {
+      width: 84px;
+      height: 84px;
+      flex: 0 0 auto;
+      border-radius: 18px;
+      object-fit: cover;
+      background: var(--white);
+      border: 3px solid rgba(255, 255, 255, 0.86);
+      box-shadow: 0 14px 28px rgba(0, 0, 0, 0.22);
+    }
+
+    .eyebrow {
+      margin: 0 0 4px;
+      font-size: 0.82rem;
+      font-weight: 900;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      opacity: 0.9;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.85rem, 4vw, 3rem);
+      line-height: 1.1;
+      letter-spacing: 0;
+    }
+
+    .hero-subtitle {
+      margin: 10px 0 0;
+      color: rgba(255, 255, 255, 0.88);
+      font-weight: 700;
+    }
+
+    .hero-topic {
+      position: relative;
+      z-index: 1;
+      display: inline-flex;
+      margin-top: 24px;
+      padding: 10px 14px;
+      border-radius: 999px;
+      background: rgba(255, 255, 255, 0.14);
+      border: 1px solid rgba(255, 255, 255, 0.24);
+      color: var(--white);
+      font-weight: 900;
+    }
+
+    main {
+      padding: 34px 42px 42px;
+    }
+
+    .content-section {
+      margin: 0 0 34px;
+    }
+
+    .section-header {
+      display: flex;
+      align-items: flex-end;
+      gap: 12px;
+      margin-bottom: 18px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border-soft);
+    }
+
+    .section-header .mark {
+      display: inline-grid;
+      width: 42px;
+      height: 42px;
+      flex: 0 0 auto;
+      place-items: center;
+      border-radius: 14px;
+      color: var(--ifr-blue-dark);
+      background: var(--highlight-green);
+      font-size: 1.2rem;
+      font-weight: 900;
+    }
+
+    h2 {
+      margin: 0;
+      color: var(--ifr-blue-dark);
+      font-size: clamp(1.28rem, 2.6vw, 1.85rem);
+      line-height: 1.25;
+      letter-spacing: 0;
+    }
+
+    .section-kicker {
+      margin: 4px 0 0;
+      color: var(--text-body);
+      font-size: 0.92rem;
+      font-weight: 800;
+    }
+
+    .exercise-list {
+      display: grid;
+      gap: 18px;
+    }
+
+    .exercise {
+      position: relative;
+      padding: 20px;
+      scroll-margin-top: 20px;
+      border: 1px solid var(--border-soft);
+      border-left: 6px solid var(--ifr-blue-light);
+      border-radius: 18px;
+      background: #fff;
+      box-shadow: 0 12px 24px rgba(20, 20, 58, 0.06);
+    }
+
+    .exercise[data-level="1"] {
+      border-left-color: var(--ifr-green-dark);
+    }
+
+    .exercise[data-level="2"] {
+      border-left-color: #4382ff;
+    }
+
+    .exercise[data-level="3"] {
+      border-left-color: var(--ifr-blue-dark);
+    }
+
+    .exercise-top {
+      display: flex;
+      justify-content: space-between;
+      align-items: flex-start;
+      gap: 16px;
+      margin-bottom: 12px;
+    }
+
+    .exercise-number {
+      color: var(--ifr-blue-dark);
+      font-size: 1rem;
+      font-weight: 900;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      min-height: 30px;
+      padding: 5px 10px;
+      border-radius: 999px;
+      color: var(--ifr-blue-dark);
+      background: var(--highlight-green);
+      font-size: 0.78rem;
+      font-weight: 900;
+      white-space: nowrap;
+    }
+
+    .exercise-type {
+      margin: 0 0 10px;
+      color: var(--text-body);
+      font-size: 0.92rem;
+      font-weight: 800;
+    }
+
+    .en-line {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: 12px;
+      align-items: center;
+      margin: 8px 0;
+      padding: 10px 12px;
+      border-radius: 14px;
+      background: #F8FAFC;
+    }
+
+    .en-text {
+      color: var(--ifr-blue-dark);
+      font-weight: 850;
+      text-align: left;
+      text-align-last: left;
+      hyphens: none;
+    }
+
+    .spanish-line {
+      margin: 8px 0 12px;
+      color: var(--text-body);
+      text-align: left;
+      text-align-last: left;
+      hyphens: none;
+    }
+
+    .options {
+      display: grid;
+      gap: 8px;
+      margin: 12px 0;
+      padding: 0;
+      list-style: none;
+    }
+
+    .options li {
+      padding: 10px 12px;
+      border: 1px solid var(--border-soft);
+      border-radius: 14px;
+      background: #FCFDFF;
+      text-align: left;
+      text-align-last: left;
+      hyphens: none;
+    }
+
+    .audio-actions {
+      display: inline-flex;
+      justify-content: flex-end;
+      gap: 6px;
+      flex-wrap: wrap;
+    }
+
+    .audio-btn {
+      width: 38px;
+      height: 34px;
+      border: 0;
+      border-radius: 12px;
+      color: var(--ifr-blue-dark);
+      background: #fff;
+      box-shadow: inset 0 0 0 1px var(--border-soft);
+      font-size: 1rem;
+      cursor: pointer;
+    }
+
+    .audio-btn:hover,
+    .audio-btn:focus-visible {
+      outline: 3px solid rgba(44, 229, 30, 0.38);
+      background: var(--highlight-green);
+    }
+
+    .answer {
+      margin-top: 14px;
+      padding: 14px 16px;
+      border: 1px solid #cbf0c8;
+      border-radius: 16px;
+      color: var(--ifr-blue-dark);
+      background: #F2FCF1;
+    }
+
+    .answer strong {
+      display: block;
+      margin-bottom: 4px;
+      color: var(--ifr-blue-dark);
+      font-weight: 900;
+    }
+
+    .footer-note {
+      position: relative;
+      overflow: hidden;
+      display: flex;
+      min-height: 112px;
+      align-items: center;
+      justify-content: center;
+      padding: 28px 42px;
+      color: var(--white);
+      text-align: center;
+      background: linear-gradient(135deg, var(--ifr-blue-light), var(--ifr-blue-dark));
+      border-top: 5px solid var(--ifr-green);
+    }
+
+    .footer-note p {
+      position: relative;
+      z-index: 1;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.92);
+      font-weight: 700;
+      text-align: center;
+      text-align-last: center;
+    }
+
+    .footer-note strong {
+      display: block;
+      color: var(--white);
+      font-size: 1.02rem;
+      font-weight: 900;
+    }
+
+    @media print {
+      body {
+        background: #fff;
+      }
+
+      .document-wrapper {
+        width: 100%;
+        max-width: none;
+        margin: 0;
+        border-radius: 0;
+        box-shadow: none;
+      }
+
+      .audio-actions {
+        display: none;
+      }
+
+      .exercise {
+        break-inside: avoid;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .document-wrapper {
+        margin: 0;
+        border-radius: 0;
+      }
+
+      .class-title,
+      main,
+      .footer-note {
+        padding-left: 25px;
+        padding-right: 25px;
+      }
+
+      .hero-identity {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
+      .exercise-top {
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .en-line {
+        grid-template-columns: 1fr;
+      }
+
+      .audio-actions {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 520px) {
+      .class-title,
+      main,
+      .footer-note {
+        padding-left: 18px;
+        padding-right: 18px;
+      }
+
+      .shield {
+        width: 74px;
+        height: 74px;
+      }
+
+      .exercise {
+        padding: 16px;
+      }
+
+      .audio-btn {
+        width: 36px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="document-wrapper">
+    <section class="class-title">
+      <div class="hero-identity">
+        <img class="shield" src="https://i.postimg.cc/G8VMfXhR/274744310_104329305530428_353308199971240379_n.jpg" alt="Escudo institucional del Instituto Fernando Ramírez" />
+        <div>
+          <p class="eyebrow">Instituto Fernando Ramírez</p>
+          <h1>Actividad de inglés</h1>
+          <p class="hero-subtitle">Bachillerato | Diagnóstico progresivo A2 controlado</p>
+        </div>
+      </div>
+      <div class="hero-topic">Temas 1 a 4: saludos, alfabeto, pronunciación básica y números</div>
+    </section>
+
+    <main id="exerciseRoot"></main>
+
+    <footer class="footer-note">
+      <p>
+        <strong>IFR | Inglés diagnóstico</strong>
+        Material creado por el Prof. Morales Mendoza Raul
+      </p>
+    </footer>
+  </div>
+
+  <script>
+    const exerciseBlocks = [
+      {
+        title: "Ejercicios 1 a 5",
+        subtitle: "Saludos, preguntas personales y primeras combinaciones",
+        mark: "1",
+        exercises: [
+          {
+            n: 1,
+            type: "Elección de opciones",
+            level: "1",
+            promptEn: "Choose the most complete answer for this situation: It is 8:00 a.m. You meet a new classmate and want to start politely.",
+            promptEs: "Elige la respuesta más completa para esta situación: son las 8:00 a.m. Conoces a un compañero nuevo y quieres iniciar con cortesía.",
+            options: [
+              { en: "a) Good night. See you later.", es: "Buenas noches. Nos vemos después." },
+              { en: "b) Good morning. My name is Carlos. Nice to meet you.", es: "Buenos días. Mi nombre es Carlos. Mucho gusto." },
+              { en: "c) Bye. What is your number?", es: "Adiós. ¿Cuál es tu número?" },
+              { en: "d) Good evening. I am fifteen.", es: "Buenas noches. Tengo quince años." }
+            ],
+            answer: "b) Good morning. My name is Carlos. Nice to meet you. Combina saludo de mañana, presentación y cortesía."
+          },
+          {
+            n: 2,
+            type: "Rellenar frases",
+            level: "1",
+            promptEn: "Complete the mini introduction: Hello, my name ___ Andrea. I ___ sixteen years old. I am ___ Mexico.",
+            promptEs: "Completa la mini presentación: Hello, my name ___ Andrea. I ___ sixteen years old. I am ___ Mexico.",
+            answer: "is / am / from. Oración completa: Hello, my name is Andrea. I am sixteen years old. I am from Mexico."
+          },
+          {
+            n: 3,
+            type: "Traducir al español",
+            level: "1",
+            promptEn: "Good afternoon. My name is Mateo, and I am from Mexico.",
+            promptEs: "Traduce al español la oración anterior.",
+            answer: "Buenas tardes. Mi nombre es Mateo y soy de México."
+          },
+          {
+            n: 4,
+            type: "Traducir al inglés",
+            level: "1",
+            promptEn: "Write the sentence in English.",
+            promptEs: "Hola. Mi nombre es Valeria. Mucho gusto.",
+            answer: "Hello. My name is Valeria. Nice to meet you."
+          },
+          {
+            n: 5,
+            type: "Rellenar frases",
+            level: "1",
+            promptEn: "Complete the question and answer: What ___ your name? My name ___ Diego.",
+            promptEs: "Completa la pregunta y la respuesta: What ___ your name? My name ___ Diego.",
+            answer: "is / is. Pregunta y respuesta completas: What is your name? My name is Diego."
+          }
+        ]
+      },
+      {
+        title: "Ejercicios 6 a 10",
+        subtitle: "Alfabeto, deletreo, sonidos iniciales y números en contexto",
+        mark: "2",
+        exercises: [
+          {
+            n: 6,
+            type: "Elección de opciones",
+            level: "2",
+            promptEn: "Choose the correct spelling and letter names for the name Hugo.",
+            promptEs: "Elige el deletreo correcto y los nombres de las letras para el nombre Hugo.",
+            options: [
+              { en: "a) H-U-G-O: eich, iu, yi, ou", es: "H-U-G-O: eich, iu, yi, ou" },
+              { en: "b) H-U-G-O: ai, iu, yei, ou", es: "H-U-G-O: ai, iu, yei, ou" },
+              { en: "c) H-U-G-O: eich, ai, yi, ou", es: "H-U-G-O: eich, ai, yi, ou" },
+              { en: "d) H-U-G-O: eich, iu, yi, zero", es: "H-U-G-O: eich, iu, yi, cero" }
+            ],
+            answer: "a) H-U-G-O: eich, iu, yi, ou."
+          },
+          {
+            n: 7,
+            type: "Traducir al español",
+            level: "2",
+            promptEn: "Can you spell your last name, please?",
+            promptEs: "Traduce al español la pregunta anterior.",
+            answer: "¿Puedes deletrear tu apellido, por favor?"
+          },
+          {
+            n: 8,
+            type: "Traducir al inglés",
+            level: "2",
+            promptEn: "Write the question in English.",
+            promptEs: "¿Puedes deletrear tu nombre, por favor?",
+            answer: "Can you spell your name, please?"
+          },
+          {
+            n: 9,
+            type: "Rellenar frases",
+            level: "2",
+            promptEn: "Complete with vowel or consonant: In the word student, S is a ___, U is a ___, and T is a ___.",
+            promptEs: "Completa con vocal o consonante: En la palabra student, S es una ___, U es una ___ y T es una ___.",
+            answer: "consonant / vowel / consonant. En español: consonante / vocal / consonante."
+          },
+          {
+            n: 10,
+            type: "Elección de opciones",
+            level: "2",
+            promptEn: "Choose the option that shows a real difference in vowel sound.",
+            promptEs: "Elige la opción que muestra una diferencia real en el sonido de la vocal.",
+            options: [
+              { en: "a) pen / pen", es: "pen / pen" },
+              { en: "b) ship / sheep", es: "ship / sheep" },
+              { en: "c) cat / cat", es: "cat / cat" },
+              { en: "d) ten / ten", es: "ten / ten" }
+            ],
+            answer: "b) ship / sheep. La vocal cambia y la palabra también cambia."
+          }
+        ]
+      },
+      {
+        title: "Ejercicios 11 a 15",
+        subtitle: "Números, edad, teléfono y precisión en pronunciación",
+        mark: "3",
+        exercises: [
+          {
+            n: 11,
+            type: "Traducir al español",
+            level: "2",
+            promptEn: "My phone number is five five, four eight two one, three zero nine six.",
+            promptEs: "Traduce al español la oración anterior.",
+            answer: "Mi número de teléfono es 55 4821 3096."
+          },
+          {
+            n: 12,
+            type: "Traducir al inglés",
+            level: "2",
+            promptEn: "Write the sentence in English.",
+            promptEs: "Tengo diecisiete años y mi número favorito es nueve.",
+            answer: "I am seventeen years old, and my favorite number is nine."
+          },
+          {
+            n: 13,
+            type: "Rellenar frases",
+            level: "2",
+            promptEn: "Complete the contrast: thirteen is 13, but thirty is ___. Fifteen is 15, but fifty is ___.",
+            promptEs: "Completa el contraste: thirteen es 13, pero thirty es ___. Fifteen es 15, pero fifty es ___.",
+            answer: "30 / 50. Los sonidos de -teen y -ty deben distinguirse."
+          },
+          {
+            n: 14,
+            type: "Elección de opciones",
+            level: "3",
+            promptEn: "Choose the sentence that uses numbers correctly in personal information.",
+            promptEs: "Elige la oración que usa números correctamente en información personal.",
+            options: [
+              { en: "a) I am sixteen years old, and my phone number is five five, one two three four.", es: "Tengo dieciséis años y mi número de teléfono es 55 1234." },
+              { en: "b) I am sixteen years, and my phone number are five five.", es: "Forma incorrecta." },
+              { en: "c) I have sixteen years old, and my number is fifty-five one thousand.", es: "Forma incorrecta para esta práctica." },
+              { en: "d) I am sixteenth years old, and my phone number is five five.", es: "Forma incorrecta." }
+            ],
+            answer: "a) I am sixteen years old, and my phone number is five five, one two three four."
+          },
+          {
+            n: 15,
+            type: "Traducir al español",
+            level: "3",
+            promptEn: "The word house starts with an H sound, but the word apple starts with a vowel sound.",
+            promptEs: "Traduce al español la oración anterior.",
+            answer: "La palabra «house» empieza con sonido de H, pero la palabra «apple» empieza con sonido de vocal."
+          }
+        ]
+      },
+      {
+        title: "Ejercicios 16 a 20",
+        subtitle: "Integración A2 controlada con perfiles y afirmaciones",
+        mark: "4",
+        exercises: [
+          {
+            n: 16,
+            type: "Traducir al inglés",
+            level: "3",
+            promptEn: "Write the mini profile in English.",
+            promptEs: "Buenos días. Mi nombre es Elena. Tengo dieciocho años. Mi apellido se deletrea G-A-R-C-I-A.",
+            answer: "Good morning. My name is Elena. I am eighteen years old. My last name is spelled G-A-R-C-I-A."
+          },
+          {
+            n: 17,
+            type: "Rellenar frases",
+            level: "3",
+            promptEn: "Complete the profile: Hi, I ___ Bruno. My name ___ B-R-U-N-O. I ___ from Mexico, and I am eighteen years old.",
+            promptEs: "Completa el perfil: Hi, I ___ Bruno. My name ___ B-R-U-N-O. I ___ from Mexico, and I am eighteen years old.",
+            answer: "am / is / am. Perfil completo: Hi, I am Bruno. My name is B-R-U-N-O. I am from Mexico, and I am eighteen years old."
+          },
+          {
+            n: 18,
+            type: "Elección de opciones",
+            level: "3",
+            promptEn: "Read the profile and choose the correct summary: Hi, my name is Eva. E-V-A. I am eighteen years old. My phone number is five five, seven two zero one.",
+            promptEs: "Lee el perfil y elige el resumen correcto: Hola, mi nombre es Eva. E-V-A. Tengo dieciocho años. Mi número de teléfono es 55 7201.",
+            options: [
+              { en: "a) Her name is Eva, she is eighteen, and her phone number is 55 7201.", es: "Se llama Eva, tiene dieciocho años y su teléfono es 55 7201." },
+              { en: "b) Her name is Ana, she is sixteen, and her phone number is 55 7201.", es: "Se llama Ana, tiene dieciséis años y su teléfono es 55 7201." },
+              { en: "c) Her name is Eva, she is eighty, and her phone number is 55 7201.", es: "Se llama Eva, tiene ochenta años y su teléfono es 55 7201." },
+              { en: "d) Her name is Eva, she is eighteen, and her phone number is 55 2701.", es: "Se llama Eva, tiene dieciocho años y su teléfono es 55 2701." }
+            ],
+            answer: "a) Her name is Eva, she is eighteen, and her phone number is 55 7201."
+          },
+          {
+            n: 19,
+            type: "Falso y verdadero",
+            level: "3",
+            promptEn: "Statement: In the word student, the letters U and E are vowels, and S, T, D, N, T are consonants.",
+            promptEs: "Afirmación: En la palabra student, las letras U y E son vocales, y S, T, D, N, T son consonantes.",
+            options: [
+              { en: "True", es: "Verdadero" },
+              { en: "False", es: "Falso" }
+            ],
+            answer: "True / Verdadero."
+          },
+          {
+            n: 20,
+            type: "Falso y verdadero",
+            level: "3",
+            promptEn: "Statement: If a student says, “Good evening, my name is Luis, I am seventeen years old, and my last name is L-U-I-S,” the sentence gives a greeting, a name, an age, and a spelling.",
+            promptEs: "Afirmación: Si un alumno dice «Good evening, my name is Luis, I am seventeen years old, and my last name is L-U-I-S», la oración da un saludo, un nombre, una edad y un deletreo.",
+            options: [
+              { en: "True", es: "Verdadero" },
+              { en: "False", es: "Falso" }
+            ],
+            answer: "True / Verdadero. La oración integra saludo, nombre, edad y deletreo."
+          }
+        ]
+      }
+    ];
+
+    function audioButtons() {
+      return `
+        <span class="audio-actions">
+          <button class="audio-btn" data-rate="1" aria-label="Escuchar a velocidad normal">▶️</button>
+          <button class="audio-btn" data-rate="0.8" aria-label="Escuchar a velocidad 0.8">🌿</button>
+          <button class="audio-btn" data-rate="0.5" aria-label="Escuchar a velocidad 0.5">🐢</button>
+        </span>
+      `;
+    }
+
+    function enLine(text) {
+      return `<div class="en-line"><span class="en-text">${text}</span>${audioButtons()}</div>`;
+    }
+
+    function renderExercises() {
+      const root = document.getElementById("exerciseRoot");
+      root.innerHTML = exerciseBlocks.map((block) => `
+        <section class="content-section">
+          <div class="section-header">
+            <span class="mark">${block.mark}</span>
+            <div>
+              <h2>${block.title}</h2>
+              <p class="section-kicker">${block.subtitle}</p>
+            </div>
+          </div>
+          <div class="exercise-list">
+            ${block.exercises.map((item) => `
+              <article class="exercise" data-level="${item.level}" id="ejercicio-${item.n}">
+                <div class="exercise-top">
+                  <div class="exercise-number">Ejercicio ${item.n}</div>
+                  <span class="badge">${item.type}</span>
+                </div>
+                <p class="exercise-type">${item.type}</p>
+                ${enLine(item.promptEn)}
+                <p class="spanish-line">${item.promptEs}</p>
+                ${item.options ? `
+                  <ul class="options">
+                    ${item.options.map((option) => `
+                      <li>${enLine(option.en)}<span>${option.es}</span></li>
+                    `).join("")}
+                  </ul>
+                ` : ""}
+                <div class="answer"><strong>Respuesta</strong>${item.answer}</div>
+              </article>
+            `).join("")}
+          </div>
+        </section>
+      `).join("");
+    }
+
+    renderExercises();
+
+    (function () {
+      const synth = window.speechSynthesis;
+      let voices = [];
+
+      function refreshVoices() {
+        voices = synth ? synth.getVoices() : [];
+      }
+
+      function pickVoice() {
+        if (!voices.length) refreshVoices();
+        const preferredNames = [
+          "jenny online", "jenny", "aria online", "aria", "michelle",
+          "sara", "ava", "zira", "samantha", "female", "woman"
+        ];
+        const avoidedNames = ["david", "mark", "guy", "ryan", "tony", "brian", "george"];
+        const scoredVoices = voices
+          .filter((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en-us"))
+          .map((voice) => {
+            const name = `${voice.name} ${voice.voiceURI || ""} ${voice.lang}`.toLowerCase();
+            const preferredScore = preferredNames.reduce((score, item, index) => {
+              return name.includes(item) ? Math.max(score, 100 - index) : score;
+            }, 0);
+            const avoidedScore = avoidedNames.some((item) => name.includes(item)) ? -100 : 0;
+            const naturalScore = name.includes("natural") || name.includes("online") ? 12 : 0;
+            return { voice, score: preferredScore + avoidedScore + naturalScore };
+          })
+          .sort((a, b) => b.score - a.score);
+        const selected = scoredVoices.find((item) => item.score > 0)?.voice ||
+          voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en-us")) ||
+          voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en")) || null;
+        window.IFR_SELECTED_VOICE = selected ? `${selected.name} | ${selected.lang}` : "No voice available";
+        return selected;
+      }
+
+      function speak(text, rate) {
+        if (!synth || !text) return;
+        synth.cancel();
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.lang = "en-US";
+        utterance.rate = Number(rate) || 1;
+        utterance.pitch = 1.12;
+        utterance.volume = 1;
+        const voice = pickVoice();
+        if (voice) utterance.voice = voice;
+        synth.speak(utterance);
+      }
+
+      if (synth) {
+        refreshVoices();
+        synth.onvoiceschanged = refreshVoices;
+      }
+
+      document.addEventListener("click", (event) => {
+        const button = event.target.closest(".audio-btn");
+        if (!button) return;
+        const line = button.closest(".en-line");
+        const text = line ? line.querySelector(".en-text")?.textContent.trim() : "";
+        speak(text, button.dataset.rate);
+      });
+    })();
+  </script>
+</body>
+</html>
