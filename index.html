@@ -7155,38 +7155,11 @@
         
         function pickPreferredEnglishVoice() {
             const voices = window.speechSynthesis.getVoices();
-            const preferredNames = [
-                'jenny',
-                'ava',
-                'emma',
-                'ana',
-                'amber',
-                'aria',
-                'samantha',
-                'zira',
-                'susan',
-                'victoria',
-                'karen'
-            ];
-            const femaleHints = ['girl', 'female', 'woman', 'google us english'];
-            const findVoice = (langPrefixes, nameHints) => {
-                for (const hint of nameHints) {
-                    const match = voices.find((voice) => {
-                        const voiceName = voice.name.toLowerCase();
-                        const voiceLang = voice.lang.toLowerCase();
-                        return langPrefixes.some((prefix) => voiceLang.startsWith(prefix)) &&
-                            voiceName.includes(hint);
-                    });
-                    if (match) return match;
-                }
-                return null;
-            };
-
-            return findVoice(['en-us'], preferredNames) ||
-                findVoice(['en-us', 'en-ca'], femaleHints) ||
-                voices.find((voice) => voice.lang.toLowerCase().startsWith('en-us')) ||
-                voices.find((voice) => voice.lang.toLowerCase().startsWith('en-ca')) ||
-                voices.find((voice) => voice.lang.toLowerCase().startsWith('en'));
+            const candidates = voices.filter(voice =>
+                voice.lang.toLowerCase() === 'en-us' && /\bjenny\b/i.test(voice.name)
+            );
+            return candidates.find(voice => /natural|neural/i.test(voice.name)) ||
+                candidates.find(voice => /online/i.test(voice.name)) || candidates[0] || null;
         }
 
         function sanitizeSpeechText(text) {
@@ -7395,10 +7368,22 @@
             utterance.pitch = 1.0;
             
             const femaleVoice = pickPreferredEnglishVoice();
-            if (femaleVoice) utterance.voice = femaleVoice;
-            window.IFR_SELECTED_VOICE = femaleVoice
-                ? `${femaleVoice.name} | ${femaleVoice.lang}`
-                : 'Browser default | en-US';
+            if (!femaleVoice) {
+                window.IFR_SELECTED_VOICE = 'Jenny en-US unavailable';
+                if (!btn.dataset.idleAudioHtml) btn.dataset.idleAudioHtml = btn.innerHTML;
+                clearTimeout(btn.jennyNoticeTimer);
+                btn.classList.add('error');
+                btn.textContent = 'Jenny no disponible';
+                btn.jennyNoticeTimer = setTimeout(() => {
+                    btn.classList.remove('error');
+                    btn.innerHTML = btn.dataset.idleAudioHtml;
+                }, 3500);
+                return;
+            }
+            clearTimeout(btn.jennyNoticeTimer);
+            if (btn.dataset.idleAudioHtml) btn.innerHTML = btn.dataset.idleAudioHtml;
+            utterance.voice = femaleVoice;
+            window.IFR_SELECTED_VOICE = `${femaleVoice.name} | ${femaleVoice.lang}`;
             currentUtterance = utterance;
             
             btn.classList.add('speaking');

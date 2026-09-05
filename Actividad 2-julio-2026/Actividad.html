@@ -741,28 +741,13 @@
       }
 
       function pickVoice() {
-        if (!voices.length) refreshVoices();
-        const preferredNames = [
-          "jenny online", "jenny", "aria online", "aria", "michelle",
-          "sara", "ava", "zira", "samantha", "female", "woman"
-        ];
-        const avoidedNames = ["david", "mark", "guy", "ryan", "tony", "brian", "george"];
-        const scoredVoices = voices
-          .filter((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en-us"))
-          .map((voice) => {
-            const name = `${voice.name} ${voice.voiceURI || ""} ${voice.lang}`.toLowerCase();
-            const preferredScore = preferredNames.reduce((score, item, index) => {
-              return name.includes(item) ? Math.max(score, 100 - index) : score;
-            }, 0);
-            const avoidedScore = avoidedNames.some((item) => name.includes(item)) ? -100 : 0;
-            const naturalScore = name.includes("natural") || name.includes("online") ? 12 : 0;
-            return { voice, score: preferredScore + avoidedScore + naturalScore };
-          })
-          .sort((a, b) => b.score - a.score);
-        const selected = scoredVoices.find((item) => item.score > 0)?.voice ||
-          voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en-us")) ||
-          voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith("en")) || null;
-        window.IFR_SELECTED_VOICE = selected ? `${selected.name} | ${selected.lang}` : "No voice available";
+        refreshVoices();
+        const candidates = voices.filter(voice =>
+          voice.lang.toLowerCase() === "en-us" && /\bjenny\b/i.test(voice.name)
+        );
+        const selected = candidates.find(voice => /natural|neural/i.test(voice.name)) ||
+          candidates.find(voice => /online/i.test(voice.name)) || candidates[0] || null;
+        window.IFR_SELECTED_VOICE = selected ? `${selected.name} | ${selected.lang}` : "Jenny en-US unavailable";
         return selected;
       }
 
@@ -772,10 +757,24 @@
         const utterance = new SpeechSynthesisUtterance(text);
         utterance.lang = "en-US";
         utterance.rate = Number(rate) || 1;
-        utterance.pitch = 1.12;
+        utterance.pitch = 1.0;
         utterance.volume = 1;
         const voice = pickVoice();
-        if (voice) utterance.voice = voice;
+        if (!voice) {
+          const line = button.closest('.en-line');
+          let notice = line.nextElementSibling;
+          if (!notice?.classList.contains('jenny-notice')) {
+            notice = document.createElement('p');
+            notice.className = 'spanish-line jenny-notice';
+            notice.setAttribute('role', 'status');
+            line.insertAdjacentElement('afterend', notice);
+          }
+          notice.textContent = 'Jenny no está disponible en este navegador.';
+          return;
+        }
+        const notice = button.closest('.en-line').nextElementSibling;
+        if (notice?.classList.contains('jenny-notice')) notice.remove();
+        utterance.voice = voice;
         synth.speak(utterance);
       }
 

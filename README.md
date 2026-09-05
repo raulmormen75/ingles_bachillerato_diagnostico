@@ -21,7 +21,7 @@ La aplicación conserva 13 temas. El contenido de apoyo y el temario tienen 17 a
 
 ## Audio
 
-Se conserva la selección de voz anterior: primero se buscan las voces femeninas preferidas, como Jenny; si no están disponibles, se utilizan las alternativas en inglés que ofrece el navegador. No se bloquea la reproducción por el nombre de la voz. La voz concreta depende del navegador y de las voces disponibles en el dispositivo. Los botones deben reproducir el texto inglés que tienen asociado, no la traducción ni la ayuda de pronunciación.
+La voz seleccionada es Jenny en inglés estadounidense (`en-US`), con preferencia por su versión Natural o Neural y después Online. No se sustituye por otra voz ni por la predeterminada del sistema. Si el navegador no ofrece Jenny, el botón muestra un aviso. Se conserva el tono natural (`pitch = 1.0`) y la velocidad elegida en cada botón. Los botones deben reproducir el texto inglés que tienen asociado, no la traducción ni la ayuda de pronunciación.
 
 ## Actualización y publicación
 
