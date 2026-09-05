@@ -19,7 +19,7 @@
 🇲🇽 Este tema ayuda a los alumnos a iniciar y terminar conversaciones con amabilidad. 🤝
 
 🇺🇸 It also helps students introduce themselves and ask another person for basic information. 🙋
-🇲🇽 También ayuda a presentarte y pedir información básica a otra persona. 🙋
+🇲🇽 También ayuda a los alumnos a presentarse y pedir información básica a otra persona. 🙋
 
 🇺🇸 People use these expressions at school, at work, in interviews, in customer service, and in daily life. 🏫💼
 🇲🇽 Estas expresiones se usan en la escuela, el trabajo, las entrevistas, el servicio al cliente y la vida diaria. 🏫💼
@@ -75,7 +75,7 @@ Pronunciación: uót is yor néim / jáu óuld ar yu / uér ar yu from
 🇺🇸 English speakers usually begin with a greeting, then continue with a name, and later ask one or two simple questions.
 Pronunciación: ínglish spíikers yúshuali biguin uiz a grírin, den continíu uiz a néim, and léirer ask uán or tú símpol cuéschons
 
-🇲🇽 Los hablantes de inglés normalmente empiezan con un saludo, luego continúan con un nombre y después hacen una o dos preguntas sencillas.
+🇲🇽 Para presentarse en inglés, se puede empezar con un saludo, decir el nombre y hacer una o dos preguntas sencillas.
 
 🇺🇸 In many contexts, they prefer short and practical forms such as Hi, I’m Ana, and What’s your name?
 Pronunciación: in méni cóntexts, déi prifér short and prácticol forms sach as jai, aim Ána, and uóts yor néim
@@ -96,7 +96,7 @@ Pronunciación: fórmol lánguich is mor cómon uiz tíchers, óulder pípol, í
 🇺🇸 Hello, my name is Carlos. Nice to meet you.
 Pronunciación: jelóu, mai néim is Cárlos. náis tu míit yu.
 
-🇲🇽 Hola, mi nombre es Carlos. Mucho gusto.
+🇲🇽 Hola, me llamo Carlos. Mucho gusto.
 
 🇺🇸 This example shows a basic greeting and a simple introduction. 👋
 🇲🇽 Este ejemplo muestra un saludo básico y una presentación sencilla. 👋
@@ -116,10 +116,10 @@ Pronunciación: gud mórnin. ai am Daiana. ai am from Méksico.
 🇺🇸 Hi. What is your name? How old are you?
 Pronunciación: jai. uót is yor néim? jáu óuld ar yu?
 
-🇲🇽 Hola. ¿Cuál es tu nombre? ¿Cuántos años tienes?
+🇲🇽 Hola. ¿Cómo te llamas? ¿Cuántos años tienes?
 
-🇺🇸 This example shows two simple personal identification questions. ❓
-🇲🇽 Este ejemplo muestra dos preguntas sencillas de identificación personal. ❓
+🇺🇸 This example shows two simple questions to get to know someone. ❓
+🇲🇽 Este ejemplo muestra dos preguntas sencillas para conocer a otra persona. ❓
 
 ---
 
@@ -169,7 +169,7 @@ Pronunciación: chúus de coréct gudbái expréshon
 🇲🇽 Elige la expresión correcta de despedida:
 
 🇺🇸 a) See you later
-🇲🇽 a) Nos vemos después
+🇲🇽 a) Nos vemos luego
 
 🇺🇸 b) Good afternoon
 🇲🇽 b) Buenas tardes
@@ -184,7 +184,7 @@ Pronunciación: chúus de coréct gudbái expréshon
 🇺🇸 Put the sentence in the correct order:
 Pronunciación: put de séntens in de coréct órder
 
-🇲🇽 Pon la oración en el orden correcto:
+🇲🇽 Ordena las palabras para formar una oración:
 
 🇺🇸 name / is / My / Ana
 🇲🇽 name / is / My / Ana
@@ -196,7 +196,7 @@ Pronunciación: put de séntens in de coréct órder
 🇺🇸 Choose the correct question to ask someone’s name:
 Pronunciación: chúus de coréct cuéschon tu ask sómuan's néim
 
-🇲🇽 Elige la pregunta correcta para preguntar el nombre de alguien:
+🇲🇽 Elige la pregunta que sirve para saber cómo se llama alguien:
 
 🇺🇸 a) Where are you from?
 🇲🇽 a) ¿De dónde eres?
@@ -205,7 +205,7 @@ Pronunciación: chúus de coréct cuéschon tu ask sómuan's néim
 🇲🇽 b) ¿Cuál es tu nombre?
 
 🇺🇸 c) How old is you?
-🇲🇽 c) ¿Cuántos años eres?
+🇲🇽 c) How old is you?
 
 ---
 
@@ -223,13 +223,13 @@ Pronunciación: complít de míni dáialog
 🇲🇽 B: __________
 
 🇺🇸 a) Goodbye, see you yesterday
-🇲🇽 a) Adiós, nos vemos ayer.
+🇲🇽 a) Goodbye, see you yesterday
 
 🇺🇸 b) Nice to meet you, Laura
 🇲🇽 b) Mucho gusto, Laura.
 
 🇺🇸 c) How are from you?
-🇲🇽 c) ¿Cómo de eres tú?
+🇲🇽 c) How are from you?
 
 ---
 
@@ -286,11 +286,11 @@ Pronunciación: ráit de zrí béisik facts
 
 ## 2.2 What this topic is for / Para qué sirve este tema 🎯
 
-🇺🇸 This topic is used to identify letters in words and spell information correctly.
-🇲🇽 Este tema se usa para identificar letras en palabras y deletrear información correctamente.
+🇺🇸 This topic helps students name letters and spell words correctly.
+🇲🇽 Este tema ayuda a decir el nombre de las letras y deletrear palabras correctamente.
 
-🇺🇸 Students use spelling for introductions, class lists, names, phone numbers, usernames, and email addresses. 📧
-🇲🇽 Los alumnos usan el deletreo en presentaciones, listas de clase, nombres, números de teléfono, nombres de usuario y correos electrónicos. 📧
+🇺🇸 Students spell names, last names, usernames, and email addresses. 📧
+🇲🇽 Los alumnos deletrean nombres, apellidos, nombres de usuario y direcciones de correo electrónico. 📧
 
 🇺🇸 In English, spelling is common because many names and words do not sound exactly as they are written. ⚠️
 🇲🇽 En inglés es común deletrear porque muchos nombres y palabras no suenan exactamente como se escriben. ⚠️
@@ -306,10 +306,10 @@ Pronunciación: di ínglish álfabet jas tuénti siks léters
 
 🇲🇽 El alfabeto en inglés tiene 26 letras.
 
-🇺🇸 Each letter has a name, and that name is not always the same as its sound inside a word.
-Pronunciación: ích léter jas a néim, and dat néim is not ólueis de séim as its sáund inside a uórd
+🇺🇸 A letter has a name, but it can have different sounds in words.
+Pronunciación: a léter jas a néim, bat it can jav dífrent sáunds in uórds
 
-🇲🇽 Cada letra tiene un nombre, y ese nombre no siempre es el mismo que su sonido dentro de una palabra.
+🇲🇽 Una letra tiene un nombre, pero puede sonar de distintas maneras dentro de las palabras.
 
 ### B) Spelling / Deletreo ✍️
 
@@ -366,7 +366,7 @@ Pronunciación: iu, vi, dóbol iu, ex, uái, zi
 🇺🇸 English speakers often say: “Can you spell your name, please?” when they need exact information.
 Pronunciación: can yu spel yor néim, plís
 
-🇲🇽 Los hablantes de inglés suelen decir: «Can you spell your name, please?» cuando necesitan información exacta.
+🇲🇽 Para pedir que alguien deletree su nombre, se dice «Can you spell your name, please?»: «¿Puedes deletrear tu nombre, por favor?».
 
 🇺🇸 They also repeat letters slowly when there is confusion.
 Pronunciación: déi ólso ripít léters slóuli uen der is confiúshon
@@ -433,10 +433,10 @@ Pronunciación: mai last néim is López. el-ou-pi-i-zi
 
 ### Example 3 / Ejemplo 3
 
-🇺🇸 Can you spell your email, please?
-Pronunciación: can yu spel yor ímeil, plís
+🇺🇸 Can you spell your email address, please?
+Pronunciación: can yu spel yor ímeil adrés, plís
 
-🇲🇽 ¿Puedes deletrear tu correo electrónico, por favor?
+🇲🇽 ¿Puedes deletrear tu dirección de correo electrónico, por favor?
 
 🇺🇸 Yes. It is r-a-u-l at gmail dot com.
 Pronunciación: yes. it is ar-ei-iu-el at yiméil dot com
@@ -584,8 +584,8 @@ Pronunciación: ráit de complít ánser
 
 ## 3.2 What this topic is for / Para qué sirve este tema 🎯
 
-🇺🇸 This topic helps students pronounce words, understand sounds, and recognize words.
-🇲🇽 Este tema ayuda a pronunciar palabras, entender sonidos y reconocer palabras.
+🇺🇸 This topic helps students recognize English sounds and pronounce words clearly.
+🇲🇽 Este tema ayuda a reconocer los sonidos del inglés y a pronunciar las palabras con claridad.
 
 🇺🇸 It helps students understand that speaking English is not only about reading letters, but also about producing sounds correctly. 🗣️
 🇲🇽 Ayuda a los alumnos a entender que hablar inglés no es solo leer letras, sino también producir los sonidos correctamente. 🗣️
@@ -631,49 +631,49 @@ Pronunciación: in ínglish, váuels ar espéshali impórtant bicós uan smól v
 🇺🇸 The vowel A can sound like the a in cat.
 Pronunciación: de váuel ei can sáund laik de a in cat
 
-🇲🇽 La vocal «A» puede sonar como la «a» en «cat».
+🇲🇽 Escucha la vocal de «cat» (gato). Su sonido /æ/ se produce con la boca más abierta que la «e» del español.
 
 🇺🇸 The vowel E can sound like the e in pen.
 Pronunciación: de váuel i can sáund laik de e in pen
 
-🇲🇽 La vocal «E» puede sonar como la «e» en «pen».
+🇲🇽 Escucha la vocal de «pen» (pluma). Su sonido /e/ es parecido a la «e» del español.
 
 🇺🇸 The vowel I can sound like the i in sit.
 Pronunciación: de váuel ai can sáund laik de i in sit
 
-🇲🇽 La vocal «I» puede sonar como la «i» en «sit».
+🇲🇽 Escucha la vocal de «sit» (sentarse). Su sonido /ɪ/ es breve y más relajado que la «i» del español.
 
 🇺🇸 The vowel O can sound like the o in hot.
-Pronunciación: de váuel ou can sáund laik de o in jot
+Pronunciación: de váuel ou can sáund laik de o in jat
 
-🇲🇽 La vocal «O» puede sonar como la «o» en «hot».
+🇲🇽 Escucha la vocal de «hot» (caliente). En inglés estadounidense, su sonido se parece a una «a» abierta.
 
 🇺🇸 The vowel U can sound like the u in bus.
 Pronunciación: de váuel iu can sáund laik de a in bas
 
-🇲🇽 La vocal «U» puede sonar como la «u» en «bus».
+🇲🇽 Escucha la vocal de «bus» (autobús). Su sonido /ʌ/ se parece a una «a» breve, no a la «u» del español.
 
 ### B) Basic consonant sounds / Sonidos básicos de consonantes 🔹
 
-🇺🇸 The letter B is a strong sound with the lips.
-Pronunciación: de léter bi is a strong sáund uiz de lips
+🇺🇸 To make the B sound, close your lips and then open them to let air out.
+Pronunciación: tu méik de bi sáund, clóuz yor lips and den óupen dem tu let er áut
 
-🇲🇽 La letra «B» es un sonido fuerte con los labios.
+🇲🇽 Para hacer el sonido /b/, junta los labios y después ábrelos para dejar salir el aire.
 
-🇺🇸 The letter M is produced with closed lips.
-Pronunciación: de léter em is prodiúst uiz clóusd lips
+🇺🇸 To make the M sound, close your lips and let air out through your nose.
+Pronunciación: tu méik de em sáund, clóuz yor lips and let er áut thru yor nóuz
 
-🇲🇽 La letra «M» se produce con los labios cerrados.
+🇲🇽 Para hacer el sonido /m/, mantén los labios cerrados y deja salir el aire por la nariz.
 
-🇺🇸 The letter T is produced with the tongue touching the upper teeth area.
-Pronunciación: de léter ti is prodiúst uiz de tong tóchin de óper tíiz éria
+🇺🇸 To make the T sound, put your tongue behind your upper teeth, then move it away.
+Pronunciación: tu méik de ti sáund, put yor tong bijáind yor áper tíith, den muv it awéi
 
-🇲🇽 La letra «T» se produce con la lengua tocando la parte de arriba, cerca de los dientes.
+🇲🇽 Para hacer el sonido /t/, coloca la punta de la lengua detrás de los dientes superiores y después sepárala.
 
-🇺🇸 The letter S is a soft air sound.
-Pronunciación: de léter es is a soft er sáund
+🇺🇸 To make the S sound, keep your teeth close and let air pass between them.
+Pronunciación: tu méik de es sáund, kip yor tíith clóus and let er pas bitwín dem
 
-🇲🇽 La letra «S» es un sonido suave de aire.
+🇲🇽 Para hacer el sonido /s/, deja pasar el aire entre los dientes casi juntos, sin hacer vibrar la garganta.
 
 🇺🇸 The letter H is often pronounced with air, like a soft breath.
 Pronunciación: de léter eich is óften pronáunst uiz er, laik a soft breth
@@ -713,7 +713,7 @@ Pronunciación: méni stiúdents ríid ínglish uórds uiz spánish sáunds
 🇺🇸 Example: saying school with Spanish sounds.
 Pronunciación: egzámpl: séiin skúl uiz spánish sáunds
 
-🇲🇽 Por ejemplo, pronunciar «school» con los sonidos que usaríamos en español.
+🇲🇽 Por ejemplo, agregar una «e» al inicio de «school». La palabra empieza directamente con el sonido /s/.
 
 ### B) Mixing up short and long vowels / Confundir vocales cortas y largas
 
@@ -723,7 +723,7 @@ Pronunciación: stiúdents óften pronáuns ship and shíip ólmost de séim
 🇲🇽 Los alumnos con frecuencia pronuncian «ship» y «sheep» casi igual.
 
 🇺🇸 They also confuse full and fool, or bit and beat.
-Pronunciación: déi ólso confiúz ful and fúl, or bit and bíit
+Pronunciación: déi ólso confiúz ful and fúul, or bit and bíit
 
 🇲🇽 También confunden «full» y «fool», o «bit» y «beat».
 
@@ -784,7 +784,7 @@ Pronunciación: stiúdents mast not ignór dat sáund
 🇺🇸 Ship and sheep are different words.
 Pronunciación: ship and shíip ar dífrent uórds
 
-🇲🇽 «Ship» y «sheep» son palabras diferentes.
+🇲🇽 «Ship» significa «barco» y «sheep», «oveja». Son palabras diferentes.
 
 🇺🇸 The vowel sound changes, so the word changes too.
 Pronunciación: de váuel sáund chéinchis, sóu de uórd chéinchis tú
@@ -942,11 +942,11 @@ Pronunciación: zírou, uan, tú, zríi, for, fáiv, siks, séven, éit, nain, t
 ### B) Numbers from 11 to 20 / Números del 11 al 20
 
 🇺🇸 Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty
-Pronunciación: iléven, tuélv, zértíin, fórtíin, fiftíin, sikstíin, seventíin, eirtíin, naintíin, tuénti
+Pronunciación: iléven, tuélv, zértíin, fórtíin, fiftíin, sikstíin, seventíin, eitíin, naintíin, tuénti
 
 🇲🇽 Once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte
 
-### C) Tens / Decenas
+### C) Tens and one hundred / Decenas y cien
 
 🇺🇸 Twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety, one hundred
 Pronunciación: tuénti, zérti, fórti, fífti, síksti, sévanti, éiti, náinti, uan jóndred
@@ -954,7 +954,7 @@ Pronunciación: tuénti, zérti, fórti, fífti, síksti, sévanti, éiti, náin
 🇲🇽 Veinte, treinta, cuarenta, cincuenta, sesenta, setenta, ochenta, noventa, cien
 
 🇺🇸 Students must pay attention because some numbers look similar but sound different.
-Pronunciación: stiúdents mast pei aténshon bicós sam números luk símilar bot sáund dífrent
+Pronunciación: stiúdents mast pei aténshon bicós sam námbers luk símilar bat sáund dífrent
 
 🇲🇽 Los alumnos deben poner atención porque algunos números se ven parecidos, pero suenan diferentes.
 
@@ -963,7 +963,7 @@ Pronunciación: stiúdents mast pei aténshon bicós sam números luk símilar b
 ## 4.4 Saying numbers / Cómo decir los números 🗣️🎧
 
 🇺🇸 In English, numbers must be pronounced clearly because small mistakes can create confusion.
-Pronunciación: in ínglish, números mast bi pronáunst clírli bicós smól mistéiks can criéit confiúshon
+Pronunciación: in ínglish, námbers mast bi pronáunst clírli bicós smól mistéiks can criéit confiúshon
 
 🇲🇽 En inglés, los números deben pronunciarse con claridad porque errores pequeños pueden causar confusión.
 
@@ -978,9 +978,9 @@ Pronunciación: for and fortíin, or fiftíin and fífti, can ólso coz próblem
 🇲🇽 «Four» y «fourteen», o «fifteen» y «fifty», también pueden causar problemas.
 
 🇺🇸 Students need to practice numbers alone and in short sentences.
-Pronunciación: stiúdents níid tu práctis números alóun and in short séntensis
+Pronunciación: stiúdents níid tu práctis námbers alóun and in short séntensis
 
-🇲🇽 Los alumnos necesitan practicar los números solos y dentro de oraciones cortas.
+🇲🇽 Los alumnos necesitan practicar cada número por separado y después usarlo en oraciones cortas.
 
 ---
 
@@ -991,12 +991,12 @@ Pronunciación: stiúdents níid tu práctis números alóun and in short sénte
 🇺🇸 To say their age, English speakers often use: I am sixteen years old.
 Pronunciación: tu séi der eich, ínglish spíikers óften iús: ai am sikstíin yíars óuld
 
-🇲🇽 Para decir su edad, los hablantes de inglés suelen usar: «I am sixteen years old».
+🇲🇽 Para decir la edad, usa «I am sixteen years old»: «Tengo dieciséis años».
 
 ### B) Telephone numbers / Números de teléfono 📞
 
 🇺🇸 Phone numbers are usually said digit by digit.
-Pronunciación: fóun números ar yúshuali sed díyit bai díyit
+Pronunciación: fóun námbers ar yúshuali sed díyit bai díyit
 
 🇲🇽 Los números de teléfono normalmente se dicen dígito por dígito.
 
@@ -1008,7 +1008,7 @@ Pronunciación: egzámpl: fáiv fáiv, uan tú zrí for, fáiv siks séven éit
 ### C) Dates / Fechas 📅
 
 🇺🇸 Numbers are also used in days, months, and years.
-Pronunciación: números ar ólso iúsd in déis, mónths, and yíars
+Pronunciación: námbers ar ólso iúsd in déis, mónths, and yíars
 
 🇲🇽 Los números también se usan en días, meses y años.
 
@@ -1020,9 +1020,9 @@ Pronunciación: at a béisik lével, stiúdents shud rékognáiz and séi déits
 ### D) Simple quantities / Cantidades simples 🛒
 
 🇺🇸 Numbers are used for prices, objects, pages, students, books, and everyday quantities.
-Pronunciación: números ar iúsd for práisis, óbjects, péiyis, stiúdents, buks, and évridei cuántitis
+Pronunciación: námbers ar iúsd for práisis, óbjects, péiyis, stiúdents, buks, and évridei cuántitis
 
-🇲🇽 Los números se usan para precios, objetos, páginas, alumnos, libros y cantidades de todos los días.
+🇲🇽 Los números sirven para decir precios, indicar páginas y contar objetos, alumnos o libros.
 
 ---
 
@@ -1052,7 +1052,7 @@ Pronunciación: stiúdents sómtaims pronáuns siks laik si, or fáiv widaut de 
 ### D) Saying numbers with Spanish pronunciation / Pronunciar números como en español
 
 🇺🇸 Some students say English numbers with Spanish rhythm and sounds.
-Pronunciación: sam stiúdents séi ínglish números uiz spánish rídm and sáunds
+Pronunciación: sam stiúdents séi ínglish námbers uiz spánish rídm and sáunds
 
 🇲🇽 Algunos alumnos dicen los números en inglés con el ritmo y los sonidos del español.
 
@@ -1073,7 +1073,7 @@ Pronunciación: ai am seventíin yíars óuld
 ### Example 2 / Ejemplo 2
 
 🇺🇸 My phone number is 55 1234 5678.
-Pronunciación: mai fóun número is fáiv fáiv, uan tú zrí for, fáiv siks séven éit
+Pronunciación: mai fóun námber is fáiv fáiv, uan tú zrí for, fáiv siks séven éit
 
 🇲🇽 Mi número de teléfono es 55 1234 5678.
 
@@ -1082,13 +1082,13 @@ Pronunciación: mai fóun número is fáiv fáiv, uan tú zrí for, fáiv siks s
 
 ### Example 3 / Ejemplo 3
 
-🇺🇸 Today is March 12.
-Pronunciación: tudéi is march tuélv
+🇺🇸 Today is March twelfth.
+Pronunciación: tudéi is march tuélfth
 
 🇲🇽 Hoy es 12 de marzo.
 
-🇺🇸 This example shows how numbers appear in dates.
-🇲🇽 Este ejemplo muestra cómo aparecen los números en las fechas.
+🇺🇸 This date uses an ordinal number: twelfth.
+🇲🇽 Para decir el día de una fecha en inglés se usa un número ordinal: «twelfth» corresponde al día 12.
 
 ---
 
@@ -1097,7 +1097,7 @@ Pronunciación: tudéi is march tuélv
 ### Exercise 1 / Ejercicio 1
 
 🇺🇸 Write the number in English: 7
-Pronunciación: ráit de número in ínglish: séven
+Pronunciación: ráit de námber in ínglish: séven
 
 🇲🇽 Escribe el número en inglés: 7
 
@@ -1106,7 +1106,7 @@ Pronunciación: ráit de número in ínglish: séven
 ### Exercise 2 / Ejercicio 2
 
 🇺🇸 Write the number in English: 15
-Pronunciación: ráit de número in ínglish: fiftíin
+Pronunciación: ráit de námber in ínglish: fiftíin
 
 🇲🇽 Escribe el número en inglés: 15
 
@@ -1150,7 +1150,7 @@ Pronunciación: ráit yor ríal eich in ínglish
 ### Exercise 5 / Ejercicio 5
 
 🇺🇸 Read this phone number in English: 55 4821 3096
-Pronunciación: ríid dis fóun número in ínglish: fáiv fáiv, for éit tú uan, zríi zírou nain siks
+Pronunciación: ríid dis fóun námber in ínglish: fáiv fáiv, for éit tú uan, zríi zírou nain siks
 
 🇲🇽 Lee este número de teléfono en inglés: 55 4821 3096
 
@@ -1158,26 +1158,26 @@ Pronunciación: ríid dis fóun número in ínglish: fáiv fáiv, for éit tú u
 
 ### Exercise 6 / Ejercicio 6
 
-🇺🇸 Choose the correct pronunciation pair:
-Pronunciación: chúus de coréct pronansiéishon pér
+🇺🇸 Which pair has different final sounds, -teen and -ty?
+Pronunciación: uích per jas dífrent fáinal sáunds, tin and ti
 
-🇲🇽 Elige el par de pronunciación correcta:
+🇲🇽 ¿Qué par tiene terminaciones distintas: «-teen» y «-ty»?
 
 🇺🇸 a) fifteen / fifty
 🇲🇽 a) fifteen / fifty
 
-🇺🇸 b) same pronunciation
-🇲🇽 b) misma pronunciación
+🇺🇸 b) fifteen / fifteen
+🇲🇽 b) fifteen / fifteen
 
-🇺🇸 c) both are Spanish-style numbers
-🇲🇽 c) ambos son números al estilo del español
+🇺🇸 c) fifty / fifty
+🇲🇽 c) fifty / fifty
 
 ---
 
 ### Exercise 7 / Ejercicio 7
 
 🇺🇸 Read and answer: “Sara is 18 years old and her favorite number is 9.” What are the two numbers in the sentence?
-Pronunciación: ríid and ánser: Sára is eirtíin yíars óuld and jer féivorit número is nain. uót ar de tú números in de séntens
+Pronunciación: ríid and ánser: Sára is eitín yíars óuld and jer féivorit námber is nain. uót ar de tú námbers in de séntens
 
 🇲🇽 Lee y responde: «Sara is 18 years old and her favorite number is 9.» ¿Cuáles son los dos números en la oración?
 
@@ -1192,7 +1192,7 @@ Pronunciación: ríid and ánser: Sára is eirtíin yíars óuld and jer féivor
 🇲🇽 Revisa si el alumno confunde los números terminados en «-teen» y «-ty».
 
 🇺🇸 Check if the student can use numbers in age, phone numbers, and dates.
-🇲🇽 Revisa si el alumno puede usar números en edad, números de teléfono y fechas.
+🇲🇽 Revisa si el alumno puede decir su edad, números de teléfono y fechas en inglés.
 
 🇺🇸 Check if the student pronounces final sounds clearly in words like five, six, and eight. 🎧
 🇲🇽 Revisa si el alumno pronuncia claramente los sonidos finales en palabras como «five», «six» y «eight». 🎧
@@ -1211,24 +1211,24 @@ Pronunciación: ríid and ánser: Sára is eirtíin yíars óuld and jer féivor
 🇺🇸 Personal pronouns are short words for people, animals, things, or groups. They help us avoid repeating the same noun. Students need them because they appear in many basic English sentences. 👤
 🇲🇽 Los pronombres personales son palabras breves que se usan para hablar de personas, animales, objetos o grupos. Ayudan a evitar la repetición del mismo sustantivo y aparecen en muchas oraciones básicas en inglés. 👤
 
-🇺🇸 This topic helps students understand who performs the action in a sentence. It also helps them build short statements, questions, and answers with better order and clarity. 🧠  
+🇺🇸 This topic helps students understand who performs the action in a sentence. It also helps them build short statements, questions, and answers with better order and clarity. 🧠
 🇲🇽 Este tema ayuda a identificar quién realiza la acción en una oración. También permite formar afirmaciones, preguntas y respuestas breves con un orden claro. 🧠
 
-🇺🇸 As a diagnostic topic, personal pronouns are useful because they show whether students already understand basic sentence structure and whether they can connect the correct pronoun with the correct verb form. 🔎  
+🇺🇸 As a diagnostic topic, personal pronouns are useful because they show whether students already understand basic sentence structure and whether they can connect the correct pronoun with the correct verb form. 🔎
 🇲🇽 En el diagnóstico, los pronombres personales permiten revisar si el alumno entiende el orden básico de una oración y si relaciona cada pronombre con la forma correcta del verbo. 🔎
 
 ---
 
 ## 5.2 What this topic is for / Para qué sirve este tema 🎯
 
-🇺🇸 This topic is used to identify the subject of the sentence.  
-🇲🇽 Este tema resulta indispensable para localizar e identificar correctamente al sujeto dentro de cualquier oración.
+🇺🇸 This topic is used to identify the subject of the sentence.
+🇲🇽 Este tema ayuda a identificar el sujeto de una oración.
 
-🇺🇸 It helps students speak and write in a shorter, more natural way.  
-🇲🇽 Su dominio permite que el alumno se comunique, tanto de forma oral como escrita, con mayor concisión y fluidez natural.
+🇺🇸 It helps students speak and write in a shorter, more natural way.
+🇲🇽 Ayuda a los alumnos a hablar y escribir de forma más breve y natural.
 
-🇺🇸 English speakers use personal pronouns all the time in conversation, presentations, descriptions, and everyday communication. 💬  
-🇲🇽 Los hablantes nativos de inglés emplean los pronombres de manera ininterrumpida en diálogos, presentaciones, descripciones detalladas y en la interacción diaria. 💬
+🇺🇸 English speakers use personal pronouns all the time in conversation, presentations, descriptions, and everyday communication. 💬
+🇲🇽 Los pronombres se usan en conversaciones, presentaciones y descripciones cotidianas. 💬
 
 ---
 
@@ -1236,44 +1236,44 @@ Pronunciación: ríid and ánser: Sára is eirtíin yíars óuld and jer féivor
 
 ### A) Singular pronouns / Pronombres en singular
 
-🇺🇸 I  
+🇺🇸 I
 Pronunciación: ai
 
 🇲🇽 Yo
 
-🇺🇸 You  
+🇺🇸 You
 Pronunciación: iu
 
 🇲🇽 Tú / usted
 
-🇺🇸 He  
+🇺🇸 He
 Pronunciación: jíi
 
 🇲🇽 Él
 
-🇺🇸 She  
+🇺🇸 She
 Pronunciación: shíi
 
 🇲🇽 Ella
 
-🇺🇸 It  
+🇺🇸 It
 Pronunciación: it
 
 🇲🇽 Eso / Aquello (referido a objetos, animales o situaciones).
 
 ### B) Plural pronouns / Pronombres en plural
 
-🇺🇸 We  
+🇺🇸 We
 Pronunciación: uíi
 
 🇲🇽 Nosotros / nosotras
 
-🇺🇸 You  
+🇺🇸 You
 Pronunciación: iu
 
 🇲🇽 Ustedes
 
-🇺🇸 They  
+🇺🇸 They
 Pronunciación: déi
 
 🇲🇽 Ellos / ellas
@@ -1282,157 +1282,157 @@ Pronunciación: déi
 
 ## 5.4 Basic meaning of each pronoun / Sentido básico de cada pronombre 🧩
 
-🇺🇸 I is used when the speaker talks about himself or herself.  
+🇺🇸 I is used when the speaker talks about himself or herself.
 Pronunciación: ai is iúsd uen de spíiker toks abáut jimsélf or jersélf
 
-🇲🇽 El pronombre «I» se emplea exclusivamente cuando el hablante se refiere a su propia persona.
+🇲🇽 Usa «I» cuando hables de ti.
 
-🇺🇸 You is used for the person you are speaking to.  
+🇺🇸 You is used for the person you are speaking to.
 Pronunciación: iu is iúsd for de pérson yu ar spíikin tu
 
-🇲🇽 El pronombre «You» se utiliza para dirigirse directamente al interlocutor.
+🇲🇽 Usa «you» para hablar con otra persona: significa «tú» o «usted».
 
-🇺🇸 He is used for one male person.  
+🇺🇸 He is used for one male person.
 Pronunciación: jíi is iúsd for uan méil pérson
 
 🇲🇽 El pronombre «he» se usa para hablar de un hombre o un niño.
 
-🇺🇸 She is used for one female person.  
+🇺🇸 She is used for one female person.
 Pronunciación: shíi is iúsd for uan fímeil pérson
 
-🇲🇽 El pronombre «She» se emplea específicamente para referirse a una persona del sexo femenino.
+🇲🇽 Usa «she» para hablar de una mujer o una niña.
 
-🇺🇸 It is used for one thing, one animal, or one idea.  
+🇺🇸 It is used for one thing, one animal, or one idea.
 Pronunciación: it is iúsd for uan zing, uan ánimal, or uan aidía
 
-🇲🇽 El pronombre «It» se utiliza para designar un objeto, un animal, un concepto o una idea abstracta.
+🇲🇽 Usa «it» para hablar de un objeto, un animal o una idea.
 
-🇺🇸 We is used for the speaker plus another person or other people.  
+🇺🇸 We is used for the speaker plus another person or other people.
 Pronunciación: uíi is iúsd for de spíiker plus anóder pérson or óder pípol
 
-🇲🇽 El pronombre «We» se utiliza cuando el hablante se incluye a sí mismo junto con una o más personas.
+🇲🇽 Usa «we» para hablar de ti y de una o más personas: «nosotros» o «nosotras».
 
-🇺🇸 They is used for two or more people, animals, or things.  
+🇺🇸 They is used for two or more people, animals, or things.
 Pronunciación: déi is iúsd for tú or mor pípol, ánimalz, or zings
 
-🇲🇽 El pronombre «They» se emplea para referirse a un grupo plural (dos o más) de personas, animales u objetos.
+🇲🇽 Usa «they» para hablar de varias personas, animales u objetos: «ellos» o «ellas».
 
 ---
 
 ## 5.5 Relation between pronoun and verb / Relación entre pronombre y verbo 🔗
 
-🇺🇸 In English, the pronoun and the verb must match correctly.  
+🇺🇸 In English, the pronoun and the verb must match correctly.
 Pronunciación: in ínglish, de pronáun and de vérb mast match coréctli
 
 🇲🇽 En inglés, el pronombre y el verbo deben corresponder.
 
-🇺🇸 This means the subject changes the form of the verb in some cases.  
+🇺🇸 This means the subject changes the form of the verb in some cases.
 Pronunciación: dis míns de sóbject chéinchis de form ov de vérb in sam kéisis
 
 🇲🇽 Esto significa que la forma del verbo puede cambiar según el sujeto.
 
-🇺🇸 At a basic level, students first notice this clearly with the verb to be and later with simple present verbs.  
+🇺🇸 At a basic level, students first notice this clearly with the verb to be and later with simple present verbs.
 Pronunciación: at a béisik lével, stiúdents férst nóutis dis clírli uiz de vérb tu bíi and léiter uiz símpol prézent vérbs
 
 🇲🇽 En el nivel inicial, esta relación se aprende primero con el verbo «to be» y después con los verbos en presente simple.
 
 ### A) Pronouns with the verb to be / Pronombres con el verbo to be
 
-🇺🇸 I am  
+🇺🇸 I am
 Pronunciación: ai am
 
 🇲🇽 Yo soy / yo estoy
 
-🇺🇸 You are  
+🇺🇸 You are
 Pronunciación: iu ar
 
 🇲🇽 Tú eres / tú estás / usted es / usted está / ustedes son / ustedes están
 
-🇺🇸 He is  
+🇺🇸 He is
 Pronunciación: jíi is
 
 🇲🇽 Él es / él está
 
-🇺🇸 She is  
+🇺🇸 She is
 Pronunciación: shíi is
 
 🇲🇽 Ella es / ella está
 
-🇺🇸 It is  
+🇺🇸 It is
 Pronunciación: it is
 
 🇲🇽 Eso es o eso está (referido a objetos o situaciones).
 
-🇺🇸 We are  
+🇺🇸 We are
 Pronunciación: uíi ar
 
 🇲🇽 Nosotros somos / nosotros estamos
 
-🇺🇸 They are  
+🇺🇸 They are
 Pronunciación: déi ar
 
 🇲🇽 Ellos/ellas son, o ellos/ellas están.
 
 ### B) Pronouns with a simple verb / Pronombres con un verbo simple
 
-🇺🇸 I work  
+🇺🇸 I work
 Pronunciación: ai uórk
 
 🇲🇽 Yo trabajo
 
-🇺🇸 You work  
+🇺🇸 You work
 Pronunciación: iu uórk
 
 🇲🇽 Tú trabajas / ustedes trabajan
 
-🇺🇸 He works  
+🇺🇸 He works
 Pronunciación: jíi uórks
 
 🇲🇽 Él trabaja
 
-🇺🇸 She works  
+🇺🇸 She works
 Pronunciación: shíi uórks
 
 🇲🇽 Ella trabaja
 
-🇺🇸 It works  
+🇺🇸 It works
 Pronunciación: it uórks
 
-🇲🇽 Eso funciona (o trabaja).
+🇲🇽 Funciona.
 
-🇺🇸 We work  
+🇺🇸 We work
 Pronunciación: uíi uórk
 
 🇲🇽 Nosotros trabajamos
 
-🇺🇸 They work  
+🇺🇸 They work
 Pronunciación: déi uórk
 
 🇲🇽 Ellos o ellas trabajan.
 
-🇺🇸 Students must notice that he, she, and it often add final s in the simple present.  
+🇺🇸 Students must notice that he, she, and it often add final s in the simple present.
 Pronunciación: stiúdents mast nóutis dat jíi, shíi, and it óften ad fáinal es in de símpol prézent
 
-🇲🇽 Es fundamental que el alumno perciba que, al utilizar la tercera persona del singular («he», «she», «it»), los verbos suelen requerir la adición de una «s» final en el presente simple.
+🇲🇽 En presente simple, muchos verbos agregan «-s» con «he», «she» e «it»: «He works».
 
 ---
 
 ## 5.6 How English speakers usually use it / Cómo lo usan normalmente los anglohablantes 🌍
 
-🇺🇸 English speakers use pronouns constantly because repeating names all the time sounds unnatural.  
+🇺🇸 English speakers use pronouns constantly because repeating names all the time sounds unnatural.
 Pronunciación: ínglish spíikers iús pronáuns cónstantli bicós ripítin néims ol de taim sáunds annáchural
 
-🇲🇽 Los nativos del inglés recurren constantemente a los pronombres debido a que la repetición excesiva de nombres propios resulta monótona y poco natural.
+🇲🇽 Los pronombres permiten hablar con naturalidad sin repetir los nombres en cada oración.
 
-🇺🇸 For example, instead of saying Maria is my friend. Maria is kind. Maria is from Mexico, they usually say Maria is my friend. She is kind. She is from Mexico.  
+🇺🇸 For example, instead of saying Maria is my friend. Maria is kind. Maria is from Mexico, they usually say Maria is my friend. She is kind. She is from Mexico.
 Pronunciación: for egzámpl, instéd ov séiin María is mai frénd. María is kaind. María is from Méksico, déi yúshuali séi María is mai frénd. shíi is kaind. shíi is from Méksico
 
-🇲🇽 Por ejemplo, para evitar la redundancia de mencionar a «Maria» en cada frase consecutiva, se opta por el pronombre correspondiente, logrando que el discurso sea fluido y dinámico.
+🇲🇽 Por ejemplo: «Maria is my friend. She is kind. She is from Mexico» significa «Maria es mi amiga. Es amable. Es de México». «She» evita repetir el nombre.
 
-🇺🇸 This topic is basic, but if students fail here, they will make mistakes in almost every later topic. ⚠️  
-Pronunciación: dis tópik is béisik, bot if stiúdents féil jíar, déi uil méik mistéiks in ólmost évri léiter tópik
+🇺🇸 Practicing pronouns helps students learn the next grammar topics. ⚠️
+Pronunciación: práctisin pronáuns jelps stiúdents lern de nekst grámar tópiks
 
-🇲🇽 Aunque este tema es elemental, cualquier deficiencia en su comprensión provocará errores sistemáticos en módulos gramaticales más avanzados. ⚠️
+🇲🇽 Practicar los pronombres ayuda a comprender los siguientes temas de gramática. ⚠️
 
 ---
 
@@ -1440,41 +1440,41 @@ Pronunciación: dis tópik is béisik, bot if stiúdents féil jíar, déi uil m
 
 ### A) Omitting the pronoun
 
-🇺🇸 Spanish allows hidden subjects, but English usually needs an explicit subject.  
+🇺🇸 Spanish allows hidden subjects, but English usually needs an explicit subject.
 Pronunciación: spánish aláuz jíden sóbjects, bot ínglish yúshuali níids an explísit sóbject
 
-🇲🇽 A diferencia del español, donde el sujeto tácito es común, en inglés la estructura gramatical exige casi siempre (Marcador de presente). la presencia explícita del sujeto.
+🇲🇽 En español podemos omitir el sujeto en muchas oraciones. En inglés normalmente debemos incluirlo.
 
-🇺🇸 Example: “Am happy” is incorrect. “I am happy” is correct.  
+🇺🇸 Example: “Am happy” is incorrect. “I am happy” is correct.
 Pronunciación: egzámpl: am jápi is incorréct. ai am jápi is corréct
 
 🇲🇽 Por ejemplo: la expresión «Am happy» es gramaticalmente incorrecta; la forma adecuada es «I am happy».
 
 ### B) Confusing he and she
 
-🇺🇸 Students sometimes confuse he and she, especially when speaking fast.  
+🇺🇸 Students sometimes confuse he and she, especially when speaking fast.
 Pronunciación: stiúdents sómtaims confiúz jíi and shíi, espéshali uen spíikin fast
 
-🇲🇽 Es frecuente que el estudiante confunda los géneros de «he» y «she», especialmente durante la producción oral acelerada.
+🇲🇽 A veces los alumnos confunden «he» y «she», sobre todo cuando hablan rápido.
 
 ### C) Using the wrong verb form
 
-🇺🇸 Students often say “He work” instead of “He works”.  
+🇺🇸 Students often say “He work” instead of “He works”.
 Pronunciación: stiúdents óften séi jíi uórk instéd ov jíi uórks
 
-🇲🇽 Un error recurrente es omitir la conjugación de tercera persona, diciendo «He work» cuando lo correcto es «He works».
+🇲🇽 A veces se omite la «-s»: la forma correcta es «He works», no «He work».
 
 ### D) Confusing you singular and plural
 
-🇺🇸 In English, you can mean one person or several people.  
+🇺🇸 In English, you can mean one person or several people.
 Pronunciación: in ínglish, iu can mín uan pérson or sévral pípol
 
-🇲🇽 En inglés, el pronombre «you» cumple una función dual, pudiendo referirse tanto a un interlocutor único como a un grupo plural.
+🇲🇽 «You» puede referirse a una persona o a varias: «tú», «usted» o «ustedes».
 
-🇺🇸 This can be confusing for Spanish speakers because Spanish distinguishes tú, usted, ustedes.  
+🇺🇸 This can be confusing for Spanish speakers because Spanish distinguishes tú, usted, ustedes.
 Pronunciación: dis can bi confiúzin for spánish spíikers bicós spánish distínguishes tú, usted, ustedes
 
-🇲🇽 Esta ambigüedad puede generar dudas, dado que en español contamos con distinciones claras para «tú», «usted» y «ustedes».
+🇲🇽 El contexto permite saber si «you» significa «tú», «usted» o «ustedes».
 
 ---
 
@@ -1482,32 +1482,32 @@ Pronunciación: dis can bi confiúzin for spánish spíikers bicós spánish dis
 
 ### Example 1 / Ejemplo 1
 
-🇺🇸 I am a student.  
+🇺🇸 I am a student.
 Pronunciación: ai am a stiúdent
 
-🇲🇽 Yo soy estudiante (identidad).
+🇲🇽 Soy estudiante.
 
-🇺🇸 This example uses the pronoun I with the correct form am.  
-🇲🇽 En este caso, se ilustra el uso del pronombre de primera persona «I» vinculado a su forma verbal exclusiva «am».
+🇺🇸 This example uses the pronoun I with the correct form am.
+🇲🇽 Este ejemplo combina el pronombre «I» con la forma correcta «am».
 
 ### Example 2 / Ejemplo 2
 
-🇺🇸 She is my teacher.  
+🇺🇸 She is my teacher.
 Pronunciación: shíi is mai tíicher
 
-🇲🇽 Ella es mi profesora o maestra.
+🇲🇽 Ella es mi maestra.
 
-🇺🇸 This example uses she for one woman and the form is.  
-🇲🇽 Aquí se utiliza el pronombre femenino «she» junto a la conjugación de tercera persona «is».
+🇺🇸 This example uses she for one woman and the form is.
+🇲🇽 Este ejemplo combina «she» con «is».
 
 ### Example 3 / Ejemplo 3
 
-🇺🇸 They work in an office.  
+🇺🇸 They work in an office.
 Pronunciación: déi uórk in an ófis
 
 🇲🇽 Ellos trabajan en una oficina.
 
-🇺🇸 This example uses they for more than one person and the base verb work.  
+🇺🇸 This example uses they for more than one person and the base verb work.
 🇲🇽 Este ejemplo muestra el uso del pronombre plural «they» seguido del verbo en su forma base: «work».
 
 ---
@@ -1515,92 +1515,92 @@ Pronunciación: déi uórk in an ófis
 ## 5.9 Diagnostic exercises / Ejercicios de diagnóstico 📝🔍
 
 ### Exercise 1 / Ejercicio 1
-🇺🇸 Choose the correct pronoun for “María”:  
+🇺🇸 Choose the correct pronoun for “María”:
 Pronunciación: chúus de coréct pronáun for María
 
 🇲🇽 Selecciona el pronombre personal que sustituye correctamente al nombre «María»:
 
-🇺🇸 a) he  
+🇺🇸 a) he
 🇲🇽 a) he
 
-🇺🇸 b) she  
+🇺🇸 b) she
 🇲🇽 b) she
 
-🇺🇸 c) they  
+🇺🇸 c) they
 🇲🇽 c) they
 
 ---
 
 ### Exercise 2 / Ejercicio 2
-🇺🇸 Choose the correct pronoun for “Carlos and I”:  
+🇺🇸 Choose the correct pronoun for “Carlos and I”:
 Pronunciación: chúus de coréct pronáun for Cárlos and ai
 
 🇲🇽 Identifica el pronombre adecuado para referirse al conjunto «Carlos and I»:
 
-🇺🇸 a) we  
+🇺🇸 a) we
 🇲🇽 a) we
 
-🇺🇸 b) he  
+🇺🇸 b) he
 🇲🇽 b) he
 
-🇺🇸 c) it  
+🇺🇸 c) it
 🇲🇽 c) it
 
 ---
 
 ### Exercise 3 / Ejercicio 3
-🇺🇸 Complete the sentence: She ___ happy.  
+🇺🇸 Complete the sentence: She ___ happy.
 Pronunciación: complít de séntens: shíi ___ jápi
 
 🇲🇽 Completa la oración: She ___ happy.
 
-🇺🇸 a) am  
+🇺🇸 a) am
 🇲🇽 a) am
 
-🇺🇸 b) is  
+🇺🇸 b) is
 🇲🇽 b) is
 
-🇺🇸 c) are  
+🇺🇸 c) are
 🇲🇽 c) are
 
 ---
 
 ### Exercise 4 / Ejercicio 4
-🇺🇸 Complete the sentence: They ___ students.  
+🇺🇸 Complete the sentence: They ___ students.
 Pronunciación: complít de séntens: déi ___ stiúdents
 
 🇲🇽 Completa la oración: They ___ students.
 
-🇺🇸 a) is  
+🇺🇸 a) is
 🇲🇽 a) is
 
-🇺🇸 b) are  
+🇺🇸 b) are
 🇲🇽 b) are
 
-🇺🇸 c) am  
+🇺🇸 c) am
 🇲🇽 c) am
 
 ---
 
 ### Exercise 5 / Ejercicio 5
-🇺🇸 Choose the correct sentence:  
+🇺🇸 Choose the correct sentence:
 Pronunciación: chúus de coréct séntens
 
-🇲🇽 Identifica la opción que presente una sintaxis y concordancia gramatical impecables:
+🇲🇽 Elige la oración correcta:
 
-🇺🇸 a) He work in a school.  
+🇺🇸 a) He work in a school.
 🇲🇽 a) He work in a school.
 
-🇺🇸 b) He works in a school.  
+🇺🇸 b) He works in a school.
 🇲🇽 b) He works in a school.
 
-🇺🇸 c) He are in a school.  
+🇺🇸 c) He are in a school.
 🇲🇽 c) He are in a school.
 
 ---
 
 ### Exercise 6 / Ejercicio 6
-🇺🇸 Replace the noun with a pronoun: “The dog is small. ___ is small.”  
+🇺🇸 Replace the noun with a pronoun: “The dog is small. ___ is small.”
 Pronunciación: ripléis de náun uiz a pronáun: de dog is smól. ___ is smól
 
 🇲🇽 Reemplaza el sustantivo por el pronombre correspondiente: «The dog is small. ___ is small.»
@@ -1608,29 +1608,29 @@ Pronunciación: ripléis de náun uiz a pronáun: de dog is smól. ___ is smól
 ---
 
 ### Exercise 7 / Ejercicio 7
-🇺🇸 Read and answer: “Luis and Ana are friends. They study English.” Who does they refer to?  
+🇺🇸 Read and answer: “Luis and Ana are friends. They study English.” Who does "they" refer to?
 Pronunciación: ríid and ánser: Luis and Ana ar frénds. déi stódi ínglish. jú duz déi rifér tu
 
-🇲🇽 Analiza la siguiente información y responde: «Luis and Ana are friends. They study English.» ¿A qué personas hace (Indica retroceso temporal). referencia el pronombre «they»?
+🇲🇽 Lee el texto y responde: «Luis and Ana are friends. They study English». ¿A quiénes se refiere «they»?
 
 ---
 
 ## 5.10 Teacher diagnostic focus / En qué te debes fijar como profesor 🔎
 
-🇺🇸 Check if the student identifies each pronoun correctly.  
-🇲🇽 Verifique si el estudiante es capaz de identificar y diferenciar con precisión cada uno de los pronombres.
+🇺🇸 Check if the student identifies each pronoun correctly.
+🇲🇽 Revisa si el alumno identifica cada pronombre correctamente.
 
-🇺🇸 Check if the student connects the pronoun with the correct form of the verb to be.  
-🇲🇽 Evalúe si el alumno logra establecer la concordancia correcta entre el pronombre y la variante del verbo «to be».
+🇺🇸 Check if the student connects the pronoun with the correct form of the verb to be.
+🇲🇽 Revisa si el alumno combina cada pronombre con la forma correcta de «to be».
 
-🇺🇸 Check if the student notices the final s in verbs with he, she, and it.  
-🇲🇽 Compruebe si el estudiante percibe y aplica la regla de la «s» final en las conjugaciones de tercera persona del singular.
+🇺🇸 Check if the student notices the final s in verbs with he, she, and it.
+🇲🇽 Revisa si el alumno usa «-s» en los verbos con «he», «she» e «it».
 
-🇺🇸 Check if the student omits the subject because of Spanish influence.  
-🇲🇽 Analice si el estudiante tiende a omitir el sujeto de la oración debido a la transferencia lingüística desde el español.
+🇺🇸 Check if the student omits the subject because of Spanish influence.
+🇲🇽 Revisa si el alumno omite el sujeto al traducir del español.
 
-🇺🇸 Check if the student confuses singular and plural pronouns in simple sentences. 🎧  
-🇲🇽 Determine si el alumno presenta confusiones entre las formas singulares y plurales de los pronombres dentro de contextos básicos. 🎧
+🇺🇸 Check if the student confuses singular and plural pronouns in simple sentences. 🎧
+🇲🇽 Revisa si el alumno distingue los pronombres en singular y plural en oraciones sencillas. 🎧
 
 ---
 ---
@@ -1641,7 +1641,7 @@ Pronunciación: ríid and ánser: Luis and Ana ar frénds. déi stódi ínglish.
 ## 6.1 Explanation of the topic / Explicación del tema
 
 🇺🇸 The verb to be is one of the most common verbs in English. Students use it to say who they are, how they feel, where they are, and what something is. 🧠
-Pronunciación: de vérb tu bíi in de prézent is uan ov de móust béisik and móust frícuentli iúsd strókchers in ínglish. stiúdents níid it tu séi jú déi ar, jáu déi fíil, uér déi ar, and uót sámthing is.
+Pronunciación: de verb tu bi is uan ov de móust cómon verbs in ínglish. stiúdents yuz it tu sei ju dei ar, jau dei fil, uer dei ar, and uat sámthing is.
 
 🇲🇽 El verbo «to be» es uno de los verbos más usados en inglés. Los alumnos lo usan para decir quiénes son, cómo se sienten, dónde están y qué es algo. 🧠
 
@@ -1651,7 +1651,7 @@ Pronunciación: dis vérb is dífrent from méni óder vérbs bicós it chéinch
 🇲🇽 Este verbo es diferente de muchos otros verbos porque cambia de forma según el sujeto. Por eso, los alumnos deben aprender la relación entre el sujeto y la forma correcta: «am», «is» o «are». 🔗
 
 🇺🇸 This topic helps the teacher check if students can make basic sentences, questions, negative sentences, and short answers with the verb to be. 🔎
-Pronunciación: as a daiagnóstic tópik, de vérb tu bíi is véri iúsful bicós it shóuz uéder stiúdents olrédi contróul béisik séntens strókcher, cuéschons, négativs, and short ánsers.
+Pronunciación: dis tópik jelps de tícher chek if stiúdents can meik béisik séntensis, cuéschons, négativ séntensis, and short ánsers uiz de verb tu bi.
 
 🇲🇽 Este tema permite revisar si los alumnos forman oraciones básicas, preguntas, negaciones y respuestas cortas con el verbo «to be». 🔎
 
@@ -1822,60 +1822,60 @@ Pronunciación: ar iu a tíicher?
 🇺🇸 Is she at school?
 Pronunciación: is shíi at skúl?
 
-🇲🇽 ¿Está ella en la escuela?
+🇲🇽 ¿Ella está en la escuela?
 
 🇺🇸 Are they ready?
 Pronunciación: ar déi rédi?
 
-🇲🇽 ¿Están ellos listos? / ¿Están ellas listas?
+🇲🇽 ¿Están listos?
 
 ---
 
 ## 6.7 Short answers / Respuestas cortas 🗨️
 
-🇺🇸 Short answers use the same verb form from the question.
-Pronunciación: short ánsers iús de séim vérb form from de cuéschon.
+🇺🇸 In a short answer, choose the verb form that matches the subject: Are you ready? Yes, I am.
+Pronunciación: in a short ánser, chuz de verb form dat machis de sóbyect: ar yu rédi? yes, ai am.
 
-🇲🇽 Las respuestas cortas usan la misma forma verbal de la pregunta.
+🇲🇽 En una respuesta corta, el verbo debe corresponder al sujeto: «Are you ready?» se responde «Yes, I am».
 
 ### Affirmative short answers / Respuestas cortas afirmativas
 
 🇺🇸 Yes, I am.
 Pronunciación: yes, ai am.
 
-🇲🇽 Sí, yo soy / sí, yo estoy.
+🇲🇽 Sí. El sentido completo depende de la pregunta.
 
 🇺🇸 Yes, he is.
 Pronunciación: yes, jíi is.
 
-🇲🇽 Sí, él es / sí, él está.
+🇲🇽 Sí. La respuesta se refiere a él.
 
 🇺🇸 Yes, they are.
 Pronunciación: yes, déi ar.
 
-🇲🇽 Sí, ellos son / sí, ellos están / sí, ellas son / sí, ellas están.
+🇲🇽 Sí. La respuesta se refiere a ellos o ellas.
 
 ### Negative short answers / Respuestas cortas negativas
 
 🇺🇸 No, I am not.
 Pronunciación: nou, ai am not.
 
-🇲🇽 No, yo no soy / no, yo no estoy.
+🇲🇽 No. El sentido completo depende de la pregunta.
 
 🇺🇸 No, she isn’t.
 Pronunciación: nou, shíi ízent.
 
-🇲🇽 No, ella no es / no, ella no está.
+🇲🇽 No. La respuesta se refiere a ella.
 
 🇺🇸 No, we aren’t.
 Pronunciación: nou, uíi árent.
 
-🇲🇽 No, nosotros no somos / no, nosotros no estamos.
+🇲🇽 No. La respuesta se refiere a nosotros o nosotras.
 
-🇺🇸 In English, short answers do not usually use only yes or no. The subject and the verb are repeated.
-Pronunciación: in ínglish, short ánsers du not yúshuali iús ónli yes or no. de sóbject and de vérb ar ripítid.
+🇺🇸 In this activity, practice short answers with yes or no, a subject, and a verb.
+Pronunciación: in dis activíti, práctis short ánsers uiz yes or nou, a sóbyect, and a verb.
 
-🇲🇽 En inglés, las respuestas cortas normalmente no usan solo «yes» o «no». Se repiten el sujeto y el verbo.
+🇲🇽 En esta actividad, practica respuestas con «yes» o «no», un sujeto y un verbo: «Yes, I am».
 
 ---
 
@@ -1903,7 +1903,7 @@ Pronunciación: shíi is a dóctor.
 🇺🇸 The verb to be is used to express condition, emotion, or physical state.
 Pronunciación: de vérb tu bíi is iúsd tu exprés condíshon, imóushon, or físical stéit.
 
-🇲🇽 El verbo «to be» se usa para expresar condición, emoción o estado físico.
+🇲🇽 El verbo «to be» sirve para decir cómo se siente o cómo está alguien.
 
 🇺🇸 He is tired.
 Pronunciación: jíi is táiard.
@@ -1944,7 +1944,7 @@ Pronunciación: ínglish spíikers iús de vérb tu bíi cónstantli in évridei
 🇺🇸 It appears in introductions, classroom questions, descriptions, health, feelings, and places.
 Pronunciación: it apírs in ìntradókshons, clásrum cuéschons, discripshons, jélth, fíilings, and pléisis.
 
-🇲🇽 Aparece en presentaciones, preguntas de clase, descripciones, salud, sentimientos y lugares.
+🇲🇽 Se usa para presentarse, hacer preguntas de clase, describir personas, hablar de cómo se sienten y decir dónde están.
 
 🇺🇸 Students must understand that this verb does not always translate in exactly the same way in Spanish.
 Pronunciación: stiúdents mast anderstánd dat dis vérb doz not ólueis transléit in egzáctli de séim uéi in spánish.
@@ -2016,7 +2016,7 @@ Pronunciación: dis séntens is négativ and exprésis loukéishon.
 🇺🇸 Are they tired? Yes, they are.
 Pronunciación: ar déi táiard? yes, déi ar.
 
-🇲🇽 ¿Ellos están cansados? Sí, ellos están. / ¿Ellas están cansadas? Sí, ellas están.
+🇲🇽 ¿Están cansados? Sí.
 
 🇺🇸 This example shows a question and a short answer.
 Pronunciación: dis egzámpl shóuz a cuéschon and a short ánser.
@@ -2162,7 +2162,7 @@ Pronunciación: chec if de stiúdent distínguishes de iúsis ov aidéntiti, st�
 ## 7.1 Explanation of the topic / Explicación del tema
 
 🇺🇸 Introducing yourself is one of the first skills students need in basic English. It helps them give personal information in a simple and clear order. 🙋‍♂️
-Pronunciación: ìntradiúsin yorsélf in ínglish is uan ov de férst comiuniquéishon skills stiúdents níid in béisik ínglish. it aláuz dem tu guiv pérsonal informéishon in a símpol, clíar, and órganáizd uéi.
+Pronunciación: introdiúsin yorsélf is uan ov de ferst skils stiúdents nid in béisik ínglish. it jelps dem guiv pérsonal informéishon in a símpol and clir órder.
 
 🇲🇽 Presentarte es una de las primeras habilidades que necesitas en inglés básico. Te permite dar información personal de forma sencilla, clara y ordenada. 🙋‍♂️
 
@@ -2240,7 +2240,7 @@ Pronunciación: ai am sikstíin yíars óuld.
 🇺🇸 In English, age is usually expressed with the verb to be, not with the equivalent of «have».
 Pronunciación: in ínglish, eich is yúshuali exprést uiz de vérb tu bíi, not uiz de icuívalent ov jav.
 
-🇲🇽 En inglés, la edad normalmente se expresa con el verbo «to be», no con el equivalente de «have».
+🇲🇽 En inglés, para decir tu edad usa «I am» y no «I have»: «I am sixteen years old» significa «Tengo dieciséis años».
 
 ---
 
@@ -2403,7 +2403,7 @@ Pronunciación: ai am a stiúdent and ai láik miúzik.
 🇺🇸 This example gives occupation and a simple personal like.
 Pronunciación: dis egzámpl guivs okiupéishon and a símpol pérsonal láik.
 
-🇲🇽 Este ejemplo da ocupación y un gusto personal simple.
+🇲🇽 Este ejemplo indica a qué se dedica la persona y qué le gusta.
 
 ---
 
@@ -2461,10 +2461,10 @@ Pronunciación: complít de séntens: ai ___ siks-tíin yíars óuld.
 
 ### Exercise 3 / Ejercicio 3
 
-🇺🇸 Complete the sentence: I am Mexican.
-Pronunciación: complít de séntens: ai am Méxican.
+🇺🇸 Read the sentence: I am Mexican.
+Pronunciación: rid de séntens: ai am Méxican.
 
-🇲🇽 Completa la oración: I am Mexican.
+🇲🇽 Lee la oración: «I am Mexican».
 
 🇺🇸 What information is this?
 Pronunciación: uót informéishon is dis?
@@ -2571,7 +2571,7 @@ Pronunciación: chec if de stiúdent can ad uan or tú pérsonal ditéils náchu
 ## 8.1 Explanation of the topic / Explicación del tema
 
 🇺🇸 Singular and plural nouns show if we are talking about one person or thing, or more than one. We use them to talk about people, animals, objects, school supplies, and everyday situations. 📚
-Pronunciación: sínguiular and plúral náuns ar béisik parts ov ínglish bicós déi jelp stiúdents exprés if déi ar tókkin abáut uan pérson, uan thing, or mor dan uan. dis tópik is néseseri for spíikin abáut óbjects, ánimals, pípol, skúl matírials, and évridei situéishons.
+Pronunciación: sínguiular and plúral náuns shou if ui ar tókin abáut uan pérson or thing, or mor dan uan. ui yuz dem tu tok abáut pípol, ánimals, óbyects, skul sapláis, and évridei situéishons.
 
 🇲🇽 Los sustantivos en singular y plural indican si hablamos de una persona u objeto, o de más de uno. Los usamos para hablar de personas, animales, objetos, útiles escolares y situaciones cotidianas. 📚
 
@@ -2597,7 +2597,7 @@ Pronunciación: dis tópik is iúsd tu séi if der is uan thing or mor dan uan.
 🇺🇸 It helps students describe objects, school supplies, animals, family members, and common nouns in a correct way.
 Pronunciación: it jelps stiúdents discráib óbjects, skúl supláis, ánimals, fámili membres, and cómon náuns in a coréct uéi.
 
-🇲🇽 Ayuda a los alumnos a describir objetos, útiles escolares, animales, miembros de la familia y sustantivos comunes de una manera correcta.
+🇲🇽 Ayuda a los alumnos a hablar de objetos, útiles escolares, animales y familiares con las formas correctas.
 
 🇺🇸 English speakers use singular and plural forms naturally all the time, so students must learn the basic rules early. ⚠️
 Pronunciación: ínglish spíikers iús sínguiular and plúral forms náchurali ol de taim, sóu stiúdents mast lern de béisik rúls érli.
@@ -2808,7 +2808,7 @@ Pronunciación: gerl tu gerlz
 🇺🇸 English speakers constantly mark whether they mean one thing or several things.
 Pronunciación: ínglish spíikers cónstantli mark uéder déi mín uan thing or sévral things.
 
-🇲🇽 Los hablantes de inglés marcan constantemente si quieren decir una cosa o varias cosas.
+🇲🇽 En inglés, el singular y el plural indican si se habla de una cosa o de varias.
 
 🇺🇸 For example, they say one book, two books, one class, two classes.
 Pronunciación: for egzámpl, déi séi uan buk, tú buks, uan clas, tú clásis.
@@ -2816,7 +2816,7 @@ Pronunciación: for egzámpl, déi séi uan buk, tú buks, uan clas, tú clásis
 🇲🇽 Por ejemplo, dicen «one book», «two books», «one class», «two classes».
 
 🇺🇸 Students must notice that in English the noun itself often changes, not only the number before it.
-Pronunciación: stiúdents mast nóutis dat in ínglish de náun itsélf óften chéinchis, not ónli de número bifór it.
+Pronunciación: stiúdents mast nóutis dat in ínglish de náun itsélf óften chéinchis, not ónli de námber bifór it.
 
 🇲🇽 Los alumnos deben notar que en inglés el sustantivo mismo con frecuencia cambia, no solo el número que va antes de él.
 
@@ -2990,7 +2990,7 @@ Pronunciación: chec if de stiúdent apláis de béisik plúral rúls coréctli.
 🇲🇽 Revisa si el alumno aplica correctamente las reglas básicas del plural.
 
 🇺🇸 Check if the student forgets plural endings in sentences with numbers.
-Pronunciación: chec if de stiúdent forgéts plúral éndings in séntensis uiz números.
+Pronunciación: chec if de stiúdent forgéts plúral éndings in séntensis uiz námbers.
 
 🇲🇽 Revisa si el alumno olvida las terminaciones del plural en oraciones con números.
 
@@ -3013,7 +3013,7 @@ Pronunciación: chec if de stiúdent can ríid and pronáuns plúral forms clír
 ## 9.1 Explanation of the topic / Explicación del tema
 
 🇺🇸 Infinitives and gerunds are common verb forms in English. Students use them to talk about likes, routines, plans, and activities. 📚
-Pronunciación: infínitivs and yérundz ar cómon vérb forms in ínglish. stiúdents níid dem bicós déi apír in méni símpol and évridei strókchers, espéshali uen tókkin abáut láiks, préférensis, rutíns, plans, and activítis.
+Pronunciación: infínitivs and yérundz ar cómon verb forms in ínglish. stiúdents yuz dem tu tok abáut laiks, rutíns, plans, and activítis.
 
 🇲🇽 Los infinitivos y los gerundios son formas verbales comunes en inglés. Se usan para hablar de gustos, rutinas, planes y actividades. 📚
 
@@ -3022,10 +3022,10 @@ Pronunciación: in dis tópik, stiúdents biguin tu nóutis dat a vérb can apí
 
 🇲🇽 En este tema, los alumnos empiezan a notar que un verbo puede aparecer en diferentes formas según la estructura. A veces el verbo se queda en forma base, a veces usa «to» y a veces termina en «-ing». 🔎
 
-🇺🇸 As a diagnostic topic, this content is useful because it shows whether students can recognize verb forms and whether they already confuse structures like I like to read and I like reading. 🎯
-Pronunciación: as a daiagnóstic tópik, dis cóntent is iúsful bicós it shóuz uéder stiúdents can rékognáiz vérb forms and uéder déi olrédi confiúz strókchers laik ai láik tu ríid and ai láik ríidin.
+🇺🇸 This topic checks if students recognize verb forms. I like to read and I like reading are both correct. 🎯
+Pronunciación: dis tópik cheks if stiúdents rékognáiz verb forms. ai laik tu rid and ai laik rídin ar bóuth coréct.
 
-🇲🇽 Como tema de diagnóstico, este contenido es útil porque muestra si los alumnos pueden reconocer formas verbales y si ya confunden estructuras como «I like to read» y «I like reading». 🎯
+🇲🇽 Este tema permite revisar si los alumnos reconocen las formas verbales. «I like to read» e «I like reading» son correctas y pueden traducirse como «Me gusta leer». 🎯
 
 ---
 
@@ -3037,7 +3037,7 @@ Pronunciación: dis tópik is iúsd tu tok abáut ákshons in a yéneral uéi.
 🇲🇽 Este tema se usa para hablar de acciones de una manera general.
 
 🇺🇸 It helps students talk about things they like, want, need, enjoy, or plan to do.
-Pronunciación: it jelps stiúdents exprés uót déi láik, uánt, níid, enyói, or plan tu du.
+Pronunciación: it jelps stiúdents tok abáut things dei laik, uant, nid, enyói, or plan tu du.
 
 🇲🇽 Ayuda a los alumnos a hablar de sus gustos, necesidades, actividades y planes.
 
@@ -3087,7 +3087,7 @@ Pronunciación: uíi ríid buks.
 ## 9.4 Verbs with «to» / Verbos con «to» ➡️
 
 🇺🇸 The infinitive with to has this form: to + base verb.
-Pronunciación: uen a vérb iúsis tu bifór anóder vérb, uíi óften col dat form de infínitiv uiz tu.
+Pronunciación: de infínitiv uiz tu jas dis form: tu plas beis verb.
 
 🇲🇽 El infinitivo con «to» tiene esta forma: «to + verbo base».
 
@@ -3113,7 +3113,7 @@ Pronunciación: níid tu uórk
 🇺🇸 like to read
 Pronunciación: láik tu ríid
 
-🇲🇽 gustar leer
+🇲🇽 disfrutar la actividad de leer
 
 ### Full examples / Ejemplos completos
 
@@ -3137,7 +3137,7 @@ Pronunciación: uíi láik tu ríid.
 ## 9.5 Verbs with «-ing» / Verbos con «-ing» 🔄
 
 🇺🇸 A verb with -ing can be a gerund: reading, playing, or studying.
-Pronunciación: uen a vérb ends in ing, it can fónkshon as a yérund in méni béisik cóntexts.
+Pronunciación: a verb uiz ing can bi a yérund: rídin, pléiin, or stádiin.
 
 🇲🇽 Un verbo con «-ing» puede funcionar como gerundio: «reading», «playing» o «studying».
 
@@ -3153,24 +3153,24 @@ Pronunciación: vérb plus vérb ing
 🇺🇸 like reading
 Pronunciación: láik ríidin
 
-🇲🇽 gustar leer / gustar la actividad de leer
+🇲🇽 disfrutar la actividad de leer
 
 🇺🇸 enjoy playing
 Pronunciación: enyói pléiin
 
-🇲🇽 disfrutar de jugar / gustar jugar
+🇲🇽 disfrutar jugar
 
 🇺🇸 love listening to music
 Pronunciación: lov lísenin tu miúzik
 
-🇲🇽 encantar escuchar música
+🇲🇽 disfrutar mucho escuchar música
 
 ### Full examples / Ejemplos completos
 
 🇺🇸 I like reading.
 Pronunciación: ai láik ríidin.
 
-🇲🇽 Me gusta leer o la actividad de leer.
+🇲🇽 Me gusta leer.
 
 🇺🇸 He enjoys playing soccer.
 Pronunciación: jíi enyóis pléiin sóker.
@@ -3196,10 +3196,10 @@ Pronunciación: egzámpl: ai láik tu ríid and ai láik ríidin ar bouth pósib
 
 🇲🇽 Ejemplo: «I like to read» y «I like reading» son posibles en el inglés básico.
 
-🇺🇸 The simplest distinction for beginners is this: base form is the verb itself, to + verb often expresses intention or connection with another verb, and verb-ing often expresses the activity in a more general way.
-Pronunciación: de símplest distintíon for bigíners is dis: béis form is de vérb itsélf, tu plus vérb óften exprésis intención or conékshon uiz anóder vérb, and vérb ing óften exprésis di activíti in a mor yéneral uéi.
+🇺🇸 Learn each verb pattern: want is followed by to + verb, and enjoy is followed by verb-ing. Like can use either form.
+Pronunciación: lern ich verb pátern: uant is fóloud bai tu plas verb, and enyói is fóloud bai verb ing. laik can yuz íder form.
 
-🇲🇽 La distinción más simple para los principiantes es esta: la forma base es el verbo mismo, «to + verbo» muchas veces expresa intención o conexión con otro verbo, y «verbo + ing» muchas veces expresa la actividad de una manera más general.
+🇲🇽 Aprende cada combinación: después de «want» se usa «to + verbo»; después de «enjoy», «verbo-ing». «Like» permite ambas formas.
 
 ### Very basic contrast / Contraste muy básico
 
@@ -3214,14 +3214,14 @@ Pronunciación: ai enyói stódiin.
 🇲🇽 Yo disfruto estudiar.
 
 🇺🇸 In the first sentence, the idea is about intention or desire.
-Pronunciación: in de férst séntens, di aidía is abáut intención or disáiar.
+Pronunciación: in de férst séntens, di aidía is abáut inténshon or disáiar.
 
-🇲🇽 En la primera oración, la idea es sobre intención o deseo.
+🇲🇽 La primera oración expresa el deseo de estudiar.
 
 🇺🇸 In the second sentence, the idea is about enjoying the activity.
 Pronunciación: in de sécond séntens, di aidía is abáut enyóiin di activíti.
 
-🇲🇽 En la segunda oración, la idea es sobre disfrutar la actividad.
+🇲🇽 La segunda oración expresa que la persona disfruta estudiar.
 
 ---
 
@@ -3358,8 +3358,8 @@ Pronunciación: chúus de coréct séntens.
 🇺🇸 b) She enjoys dancing.
 🇲🇽 b) She enjoys dancing.
 
-🇺🇸 c) She enjoys dance.
-🇲🇽 c) She enjoys dance.
+🇺🇸 c) She enjoy dancing.
+🇲🇽 c) She enjoy dancing.
 
 ---
 
@@ -3438,10 +3438,10 @@ Pronunciación: chec if de stiúdent forgéts tu in strókchers laik uánt tu or
 
 🇲🇽 Revisa si el alumno olvida «to» en estructuras como «want to» o «need to».
 
-🇺🇸 Check if the student writes ing where it is needed after verbs like enjoy or like in simple contexts.
-Pronunciación: chec if de stiúdent ráits ing uér it is níidid áfter vérbs laik enyói or láik in símpol cóntexts.
+🇺🇸 Check if the student uses verb-ing after enjoy and a correct form after like.
+Pronunciación: chek if de stiúdent yuzis verb ing áfter enyói and a coréct form áfter laik.
 
-🇲🇽 Revisa si el alumno escribe «-ing» donde se necesita después de verbos como «enjoy» o «like» en contextos simples.
+🇲🇽 Revisa si el alumno usa «verbo-ing» después de «enjoy» y una forma correcta después de «like».
 
 🇺🇸 Check if the student can explain the most basic difference in a practical way, not only by memory.
 Pronunciación: chec if de stiúdent can expléin de móust béisik dífrens in a práctical uéi, not ónli bai mémori.
@@ -3466,10 +3466,10 @@ Pronunciación: uí iús de símpol prézent for rutíns, jábits, ripítid áks
 
 🇲🇽 Usamos el presente simple para hablar de rutinas, hábitos, acciones repetidas y hechos generales. Aparece con frecuencia en la escuela y en conversaciones cotidianas. ⏰
 
-🇺🇸 Most verbs stay in the base form. With he, she, or it, the verb changes. This small change matters in writing and pronunciation. 🧠
-Pronunciación: móust vérbs stéi in de béis form. uiz jí, shí, or it, de vérb chéinchis. dis smól chéinch máters in ráitin and pronansiéishon.
+🇺🇸 With I, you, we, and they, use the base form, like play. With he, she, and it, usually add s: plays. 🧠
+Pronunciación: uiz ai, iu, uí, and déi, iús de béis form, láik pléi. uiz jí, shí, and it, yúshuali ad es: pléiz.
 
-🇲🇽 La mayoría de los verbos conserva su forma base. Con «he», «she» o «it», el verbo cambia. Este cambio es importante al escribir y pronunciar. 🧠
+🇲🇽 Con «I», «you», «we» y «they», usa la forma base, como «play». Con «he», «she» e «it», normalmente agrega «s»: «plays». 🧠
 
 🇺🇸 This topic helps check if students can write basic sentences, talk about routines, and use the third-person rule. 🔎
 Pronunciación: dis tópik jelps chek if stiúdents can ráit béisik séntensis, tok abáut rutíns, and iús de zérd-pérson rúl.
@@ -3483,7 +3483,7 @@ Pronunciación: dis tópik jelps chek if stiúdents can ráit béisik séntensis
 🇺🇸 This topic is used to talk about routines, habits, schedules, and general truths.
 Pronunciación: dis tópik is iúsd tu tok abáut rutíns, jábits, skédyuls, and yéneral trúuz.
 
-🇲🇽 Este tema se usa para hablar de rutinas, hábitos, horarios y verdades generales.
+🇲🇽 El presente simple sirve para hablar de rutinas, hábitos, horarios y hechos generales.
 
 🇺🇸 It helps students describe what they do every day, what other people do regularly, and facts that are generally true.
 Pronunciación: it jelps stiúdents discráib uót déi du évri déi, uót óder pípol du réguilarli, and facts dat ar yénerali trú.
@@ -3542,12 +3542,12 @@ Pronunciación: in díiz egzámpls, de sóbject is not jíi, shíi, or it, sóu 
 🇺🇸 The simple present is used for things people do regularly.
 Pronunciación: de símpol prézent is iúsd for things pípol du réguilarli.
 
-🇲🇽 El presente simple se usa para cosas que las personas hacen regularmente.
+🇲🇽 El presente simple se usa para actividades que se repiten.
 
 🇺🇸 These actions may happen every day, every week, or very often.
 Pronunciación: díiz ákshons mei jápen évri déi, évri uíik, or véri óften.
 
-🇲🇽 Estas acciones pueden pasar todos los días, todas las semanas o muy seguido.
+🇲🇽 Estas actividades pueden repetirse a diario, cada semana o con frecuencia.
 
 ### Examples / Ejemplos
 
@@ -3623,7 +3623,7 @@ Pronunciación: it luks náis.
 
 🇲🇽 Se ve bien.
 
-### Verbs that often add es / Verbos que muchas veces agregan «es»
+### Examples with es / Ejemplos con «es»
 
 🇺🇸 go → goes
 Pronunciación: góu tu góuz
@@ -3659,10 +3659,10 @@ Pronunciación: it doz de yob uel.
 
 ### Verbs ending in consonant + y
 
-🇺🇸 In some verbs ending in consonant plus y, the y changes to ies in the third person singular.
-Pronunciación: in sam vérbs éndin in cónsonant plus uái, de uái chéinchis tu ies in de zérd pérson sínguiular.
+🇺🇸 When a verb ends in a consonant and y, change y to ies with he, she, or it.
+Pronunciación: uen a vérb ends in a cónsonant and uái, chéinch uái tu ai í es uiz jí, shí, or it.
 
-🇲🇽 En algunos verbos que terminan en consonante más «y», la «y» cambia a «ies» en la tercera persona del singular.
+🇲🇽 Cuando un verbo termina en consonante y «y», cambia la «y» por «ies» con «he», «she» o «it».
 
 ### Examples / Ejemplos
 
@@ -3698,7 +3698,7 @@ Pronunciación: ínglish spíikers iús de símpol prézent véri óften tu tok 
 🇺🇸 It is common in school routines, job descriptions, family habits, and simple facts.
 Pronunciación: it is cómon in skúl rutíns, yob discripshons, fámili jábits, and símpol facts.
 
-🇲🇽 Es común en rutinas escolares, descripciones de trabajo, hábitos familiares y hechos simples.
+🇲🇽 Se usa para hablar de rutinas escolares, actividades del trabajo, hábitos familiares y hechos generales.
 
 🇺🇸 In natural speech, people use it to say things like I work, she studies, we eat at home, or my father drives to work.
 Pronunciación: in náchural spích, pípol iús it tu séi things laik ai uórk, shíi stódis, uíi iit at jóum, or mai fáder dráivz tu uórk.
@@ -3718,24 +3718,24 @@ Pronunciación: stiúdents óften séi shíi stódi ínglish instéd ov shíi st
 
 ### B) Adding s to all subjects
 
-🇺🇸 Some students overgeneralize and write “I studies” or “They works”.
-Pronunciación: sam stiúdents óuvergéneralaiz and ráit ai stódis or déi uórks.
+🇺🇸 Some students add s with I or they and write “I studies” or “They works”.
+Pronunciación: sam stiúdents ad es uiz ai or déi and ráit ai stódis or déi uórks.
 
-🇲🇽 Algunos alumnos generalizan de más y escriben «I studies» o «They works».
+🇲🇽 Algunos alumnos agregan «s» con «I» o «they» y escriben «I studies» o «They works».
 
 ### C) Using the present simple for actions happening right now
 
 🇺🇸 Students sometimes confuse routine meaning with action happening at this moment.
 Pronunciación: stiúdents sómtaims confiúz rutín míning uiz ákshon jápenin at dis móument.
 
-🇲🇽 A veces los alumnos confunden el significado de rutina con una acción que está pasando en este momento.
+🇲🇽 A veces los alumnos confunden una rutina con una acción que ocurre en este momento.
 
 ### D) Forgetting the sentence order
 
 🇺🇸 Some students place words in a Spanish order that does not sound natural in English.
 Pronunciación: sam stiúdents pléis uórds in a spánish órder dat doz not sáund náchural in ínglish.
 
-🇲🇽 Algunos alumnos ponen las palabras en un orden de español que no suena natural en inglés.
+🇲🇽 Algunos alumnos ordenan las palabras como en español y forman una oración poco natural en inglés.
 
 ---
 
@@ -3914,7 +3914,7 @@ Pronunciación: chec if de stiúdent avóids pútin es uiz ai, iu, uíi, and dé
 🇺🇸 Check if the student can produce one or two real examples from daily life. 🎯
 Pronunciación: chec if de stiúdent can prodiús uan or tú ríal egzámpls from déili láif.
 
-🇲🇽 Revisa si el alumno puede producir uno o dos ejemplos reales de la vida diaria. 🎯
+🇲🇽 Revisa si el alumno puede dar uno o dos ejemplos de su vida diaria. 🎯
 
 ---
 ---
@@ -3946,7 +3946,7 @@ Pronunciación: dis tópik jelps chek if stiúdents can méik cuéschons and né
 🇺🇸 This topic is used to ask questions and make negative statements in the simple present.
 Pronunciación: dis tópik is iúsd tu ask cuéschons and méik négativ stéitments in de símpol prézent.
 
-🇲🇽 Este tema se usa para hacer preguntas y enunciados negativos en el presente simple.
+🇲🇽 «Do» y «does» sirven para formar preguntas y oraciones negativas en presente simple.
 
 🇺🇸 It helps students ask about routines, habits, likes, school activities, and general information.
 Pronunciación: it jelps stiúdents ask abáut rutíns, jábits, láiks, skúl activítis, and yéneral informéishon.
@@ -4035,7 +4035,7 @@ Pronunciación: du iu stódi ínglish?
 🇺🇸 Do they play soccer?
 Pronunciación: du déi pléi sóker?
 
-🇲🇽 ¿Juegan ellos futbol?
+🇲🇽 ¿Ellos juegan futbol?
 
 🇺🇸 Do we have homework?
 Pronunciación: du uíi jav jóumuórk?
@@ -4047,7 +4047,7 @@ Pronunciación: du uíi jav jóumuórk?
 🇺🇸 Does he work here?
 Pronunciación: doz jíi uórk jíar?
 
-🇲🇽 ¿Trabaja él aquí?
+🇲🇽 ¿Él trabaja aquí?
 
 🇺🇸 Does she like music?
 Pronunciación: doz shíi láik miúzik?
@@ -4059,10 +4059,10 @@ Pronunciación: doz it réin a lot jíar?
 
 🇲🇽 ¿Llueve mucho aquí?
 
-🇺🇸 Notice the important point: after does, the main verb does not keep the final s.
-Pronunciación: nóutis di impórtant point: áfter doz, de méin vérb doz not kíip de fáinal es.
+🇺🇸 After does, use the base form: study, not studies.
+Pronunciación: áfter doz, iús de béis form: stódi, not stódis.
 
-🇲🇽 Nota el punto importante: después de «does», el verbo principal no conserva la «s» final.
+🇲🇽 Después de «does», usa la forma base: «study», no «studies».
 
 ---
 
@@ -4128,7 +4128,7 @@ Pronunciación: áfter du and doz in cuéschons or négativs, de méin vérb mas
 🇺🇸 Does she study English?
 Pronunciación: doz shíi stódi ínglish?
 
-🇲🇽 ¿Estudia ella inglés?
+🇲🇽 ¿Ella estudia inglés?
 
 🇺🇸 He does not play soccer.
 Pronunciación: jíi doz not pléi sóker.
@@ -4147,10 +4147,10 @@ Pronunciación: jíi doz not pléiz sóker.
 
 🇲🇽 Esta forma también está mal.
 
-🇺🇸 The reason is simple: the auxiliary already marks the grammar, so the main verb returns to base form.
-Pronunciación: de rízon is símpol: di ogzíliari olrédi marks de gramár, sóu de méin vérb ritérns tu béis form.
+🇺🇸 Does already shows that the subject is he, she, or it. Do not add s to the main verb.
+Pronunciación: doz olrédi shóuz dat de sóbject is jí, shí, or it. du not ad es tu de méin vérb.
 
-🇲🇽 La razón es simple: el auxiliar ya marca la gramática, así que el verbo principal regresa a la forma base.
+🇲🇽 «Does» ya indica que el sujeto es «he», «she» o «it». No agregues «s» al verbo principal.
 
 ---
 
@@ -4222,7 +4222,7 @@ Pronunciación: déi ólso iús dem cónstantli tu séi uót pípol du not du.
 🇺🇸 At a basic level, students need to hear and produce patterns like Do you like...?, Does he play...?, I do not know, and She does not study here.
 Pronunciación: at a béisik lével, stiúdents níid tu jíar and prodiús páterns laik du iu láik, doz jíi pléi, ai du not nóu, and shíi doz not stódi jíar.
 
-🇲🇽 En un nivel básico, los alumnos necesitan escuchar y producir patrones como «Do you like...?», «Does he play...?», «I do not know» y «She does not study here».
+🇲🇽 Para empezar, practica preguntas como «Do you like...?» y «Does he play...?», y oraciones como «I do not know» y «She does not study here».
 
 ---
 
@@ -4424,7 +4424,7 @@ Pronunciación: chec if de stiúdent bilds négativ séntensis uiz du not or doz
 🇺🇸 Check if the student still copies the affirmative structure when trying to ask or negate. 🎯
 Pronunciación: chec if de stiúdent stil cópis di afirmativ strókcher uen tráiin tu ask or nigéit.
 
-🇲🇽 Revisa si el alumno todavía copia la estructura afirmativa cuando intenta preguntar o negar. 🎯
+🇲🇽 Revisa si el alumno usa el orden correcto al formar preguntas y oraciones negativas. 🎯
 
 ---
 ---
@@ -4434,10 +4434,10 @@ Pronunciación: chec if de stiúdent stil cópis di afirmativ strókcher uen tr�
 
 ## 12.1 Explanation of the topic / Explicación del tema
 
-🇺🇸 We use was and were to talk about identity, feelings, and places in the past. ⏳
-Pronunciación: uí iús uoz and uer tu tok abáut aidéntiti, fíilings, and pléisis in de past.
+🇺🇸 We use was and were to say who someone was, how they felt, or where they were. ⏳
+Pronunciación: uí iús uoz and uer tu séi jú sámuan uoz, jáu déi felt, or uér déi uer.
 
-🇲🇽 Usamos «was» y «were» para hablar de la identidad, los sentimientos y la ubicación de personas o cosas en el pasado. ⏳
+🇲🇽 Usamos «was» y «were» para decir quién era una persona, cómo se sentía o dónde estaba. ⏳
 
 🇺🇸 In the present, we use am, is, and are. In the past, we use was and were. 🧠
 Pronunciación: in de prézent, uí iús am, is, and ar. in de past, uí iús uoz and uer.
@@ -4461,7 +4461,7 @@ Pronunciación: dis tópik is iúsd tu discráib pípol, pléisis, and situéish
 🇺🇸 It helps students say things like where they were yesterday, how they felt last week, or what a place was like before.
 Pronunciación: it jelps stiúdents séi things laik uér déi uer yésterdei, jáu déi felt last uíik, or uót a pléis uoz laik bifór.
 
-🇲🇽 Ayuda a los alumnos a decir cosas como dónde estaban ayer, cómo se sentían la semana pasada o cómo era un lugar antes.
+🇲🇽 Sirve para decir dónde estabas ayer, cómo te sentías la semana pasada o cómo era un lugar antes.
 
 🇺🇸 English speakers use this structure often in personal stories, memories, classroom activities, and basic descriptions of the past. 📚
 Pronunciación: ínglish spíikers iús dis strókcher óften in pérsonal stóris, mémoris, clásrum activítis, and béisik discripshons ov de past.
@@ -4628,22 +4628,22 @@ Pronunciación: uoz or uer plus sóbject plus cómplement
 🇺🇸 Was she at school yesterday?
 Pronunciación: uoz shíi at skúl yésterdei?
 
-🇲🇽 ¿Estaba ella en la escuela ayer?
+🇲🇽 ¿Ella estaba en la escuela ayer?
 
 🇺🇸 Was he tired?
 Pronunciación: uoz jíi táiard?
 
-🇲🇽 ¿Estaba él cansado?
+🇲🇽 ¿Él estaba cansado?
 
 🇺🇸 Were you at the party?
 Pronunciación: uer iu at de párti?
 
-🇲🇽 ¿Estabas tú en la fiesta? / ¿Estuvo usted en la fiesta?
+🇲🇽 ¿Estuviste en la fiesta?
 
 🇺🇸 Were they in class?
 Pronunciación: uer déi in clas?
 
-🇲🇽 ¿Estaban ellos en clase?
+🇲🇽 ¿Ellos estaban en clase?
 
 ---
 
@@ -4659,44 +4659,44 @@ Pronunciación: short ánsers ripít uoz or uer.
 🇺🇸 Yes, I was.
 Pronunciación: yes, ai uoz.
 
-🇲🇽 Sí, yo estaba / sí, yo era.
+🇲🇽 Sí. (La pregunta indica si se refiere a ser o estar).
 
 🇺🇸 Yes, she was.
 Pronunciación: yes, shíi uoz.
 
-🇲🇽 Sí, ella estaba / sí, ella era.
+🇲🇽 Sí. (Se refiere a ella).
 
 🇺🇸 Yes, we were.
 Pronunciación: yes, uíi uer.
 
-🇲🇽 Sí, nosotros estábamos / sí, nosotros éramos.
+🇲🇽 Sí. (Se refiere a nosotros).
 
 🇺🇸 Yes, they were.
 Pronunciación: yes, déi uer.
 
-🇲🇽 Sí, ellos estaban / sí, ellos eran / sí, ellas estaban / sí, ellas eran.
+🇲🇽 Sí. (Se refiere a ellos o ellas).
 
 ### Negative short answers / Respuestas cortas negativas
 
 🇺🇸 No, I was not.
 Pronunciación: nou, ai uoz not.
 
-🇲🇽 No, yo no estaba / no, yo no era.
+🇲🇽 No. (La pregunta indica si se refiere a ser o estar).
 
 🇺🇸 No, he wasn’t.
 Pronunciación: nou, jíi uózent.
 
-🇲🇽 No, él no estaba / no, él no era.
+🇲🇽 No. (Se refiere a él).
 
 🇺🇸 No, we weren’t.
 Pronunciación: nou, uíi uérent.
 
-🇲🇽 No, nosotros no estábamos / no, nosotros no éramos.
+🇲🇽 No. (Se refiere a nosotros).
 
 🇺🇸 No, they were not.
 Pronunciación: nou, déi uer not.
 
-🇲🇽 No, ellos no estaban / no, ellos no eran / no, ellas no estaban / no, ellas no eran.
+🇲🇽 No. (Se refiere a ellos o ellas).
 
 ---
 
@@ -4763,7 +4763,7 @@ Pronunciación: ai uoz at jóum last náit.
 🇺🇸 This sentence expresses location in the past.
 Pronunciación: dis séntens exprésis loukéishon in de past.
 
-🇲🇽 Esta oración expresa ubicación en el pasado.
+🇲🇽 Esta oración dice dónde estaba la persona.
 
 ### Example 2 / Ejemplo 2
 
@@ -4775,14 +4775,14 @@ Pronunciación: shíi uoz not jápi yésterdei.
 🇺🇸 This sentence is negative and expresses state in the past.
 Pronunciación: dis séntens is négativ and exprésis stéit in de past.
 
-🇲🇽 Esta oración es negativa y expresa estado en el pasado.
+🇲🇽 Esta oración indica que ella no se sentía feliz ayer.
 
 ### Example 3 / Ejemplo 3
 
 🇺🇸 Were they in class this morning? Yes, they were.
 Pronunciación: uer déi in clas dis mórnin? yes, déi uer.
 
-🇲🇽 ¿Estaban ellos en clase esta mañana? Sí, ellos estaban. / ¿Estaban ellas en clase esta mañana? Sí, ellas estaban.
+🇲🇽 ¿Estuvieron en clase esta mañana? Sí, estuvieron.
 
 🇺🇸 This example shows a question and a short answer in the past.
 Pronunciación: dis egzámpl shóuz a cuéschon and a short ánser in de past.
@@ -4932,18 +4932,18 @@ Pronunciación: uí iús de símpol past for ákshons dat stártid and fínisht 
 
 🇲🇽 Usamos el pasado simple para hablar de acciones que comenzaron y terminaron en el pasado. Sirve para contar actividades y experiencias pasadas. ⏳
 
-🇺🇸 Regular verbs usually add ed in the past. Irregular verbs change in a different way. 🧠
-Pronunciación: régiular vérbs yúshuali ad ed in de past. irégiular vérbs chéinch in a dífrent uéi.
+🇺🇸 Regular verbs usually add ed in the past. Irregular verbs do not follow this rule. Some stay the same. 🧠
+Pronunciación: régiular vérbs yúshuali ad ed in de past. irégiular vérbs du not fólou dis rúl. sam stéi de séim.
 
-🇲🇽 Los verbos regulares suelen agregar «-ed» en pasado. Los verbos irregulares cambian de otra forma. 🧠
+🇲🇽 Los verbos regulares suelen agregar «-ed» en pasado. Los irregulares no siguen esta regla; algunos se escriben igual en presente y pasado. 🧠
 
-🇺🇸 In questions and negative sentences, we use did. The main verb returns to the base form. 🔎
-Pronunciación: in cuéschons and négativ séntensis, uí iús did. de méin vérb ritérns tu de béis form.
+🇺🇸 For questions and negatives with these verbs, use did. The main verb stays in the base form. 🔎
+Pronunciación: for cuéschons and négativs uiz díiz vérbs, iús did. de méin vérb stéis in de béis form.
 
-🇲🇽 En preguntas y oraciones negativas usamos «did». El verbo principal regresa a su forma base. 🔎
+🇲🇽 Para formar preguntas y negaciones con estos verbos, usa «did». El verbo principal conserva su forma base. 🔎
 
-🇺🇸 This topic helps the teacher check if students can tell affirmative, negative, and question forms in the past. 🎯
-Pronunciación: dis tópik jelps de tíicher chek if stiúdents can tel afirmativ, négativ, and cuéschon forms in de past.
+🇺🇸 This topic helps the teacher check if students can recognize statements, negatives, and questions in the past. 🎯
+Pronunciación: dis tópik jelps de tíicher chek if stiúdents can rékognáiz stéitments, négativs, and cuéschons in de past.
 
 🇲🇽 Este tema ayuda al profesor a revisar si los alumnos distinguen oraciones afirmativas, negativas y preguntas en pasado. 🎯
 
@@ -4956,10 +4956,10 @@ Pronunciación: dis tópik is iúsd tu tok abáut complítid ákshons in de past
 
 🇲🇽 Este tema se usa para hablar de acciones terminadas en el pasado.
 
-🇺🇸 It helps students tell what they did yesterday, last week, last month, or during a specific moment in the past.
-Pronunciación: it jelps stiúdents tel uót déi did yésterdei, last uíik, last mónth, or diúrin a spesífic móument in de past.
+🇺🇸 It helps students talk about what they did yesterday, last week, or last month.
+Pronunciación: it jelps stiúdents tok abáut uót déi did yésterdei, last uíik, or last mónth.
 
-🇲🇽 Ayuda a los alumnos a contar sus actividades de ayer, de la semana pasada o de otro momento específico del pasado.
+🇲🇽 Ayuda a los alumnos a contar sus actividades de ayer, de la semana pasada o del mes pasado.
 
 🇺🇸 English speakers use this tense very often in daily conversation, stories, school activities, and personal memories. 📖
 Pronunciación: ínglish spíikers iús dis tens véri óften in déili convérséishon, stóris, skúl activítis, and pérsonal mémoris.
@@ -5018,10 +5018,10 @@ Pronunciación: uíi vízited aur grándperents.
 
 ## 13.4 Introduction to irregular verbs / Introducción a verbos irregulares 🔄
 
-🇺🇸 Irregular verbs do not form the past by simply adding ed. They change in a different way, so students need to begin recognizing the most common ones.
-Pronunciación: irégiular vérbs du not form de past bai símpli ádin ed. déi chéinch in a dífrent uéi, sóu stiúdents níid tu bigín rékognáizin de móust cómon uans.
+🇺🇸 Irregular verbs do not follow the ed rule. Learn common forms like go and went, or eat and ate.
+Pronunciación: irégiular vérbs du not fólou di ed rúl. lern cómon forms láik góu and uent, or iit and éit.
 
-🇲🇽 Los verbos irregulares no forman el pasado simplemente agregando «-ed». Cambian de una manera diferente, así que los alumnos necesitan empezar a reconocer los más comunes.
+🇲🇽 Los verbos irregulares no siguen la regla de «-ed». Aprende formas comunes, como «go» y «went», o «eat» y «ate».
 
 ### Common irregular verbs / Verbos irregulares comunes
 
@@ -5126,17 +5126,17 @@ Pronunciación: did iu pléi sóker yésterdei?
 🇺🇸 Did she study for the exam?
 Pronunciación: did shíi stódi for di egzám?
 
-🇲🇽 ¿Estudió ella para el examen?
+🇲🇽 ¿Ella estudió para el examen?
 
 🇺🇸 Did they go to school?
 Pronunciación: did déi góu tu skúl?
 
-🇲🇽 ¿Fueron ellos a la escuela?
+🇲🇽 ¿Ellos fueron a la escuela?
 
-🇺🇸 Notice the important point: after did, the main verb does not stay in past form.
-Pronunciación: nóutis di impórtant point: áfter did, de méin vérb doz not stéi in past form.
+🇺🇸 After did, use the base form: go, not went.
+Pronunciación: áfter did, iús de béis form: góu, not uent.
 
-🇲🇽 Nota el punto importante: después de «did», el verbo principal no se queda en forma de pasado.
+🇲🇽 Después de «did», usa la forma base: «go», no «went».
 
 ---
 
@@ -5192,7 +5192,7 @@ Pronunciación: áfter did in cuéschons and négativs, de méin vérb mast bi i
 🇺🇸 Did she study English?
 Pronunciación: did shíi stódi ínglish?
 
-🇲🇽 ¿Estudió ella inglés?
+🇲🇽 ¿Ella estudió inglés?
 
 🇺🇸 He did not go to school.
 Pronunciación: jíi did not góu tu skúl.
@@ -5211,10 +5211,10 @@ Pronunciación: jíi did not uent tu skúl.
 
 🇲🇽 Esta forma también está mal.
 
-🇺🇸 The reason is the same as with do and does: the auxiliary already carries the grammar.
-Pronunciación: de rízon is de séim as uiz du and doz: di ogzíliari olrédi kériiz de gramár.
+🇺🇸 Did already shows the past. Keep the main verb in its base form.
+Pronunciación: did olrédi shóuz de past. kíip de méin vérb in its béis form.
 
-🇲🇽 La razón es la misma que con «do» y «does»: el auxiliar ya lleva la gramática.
+🇲🇽 «Did» ya indica el pasado. El verbo principal conserva su forma base.
 
 ---
 
@@ -5225,10 +5225,10 @@ Pronunciación: ínglish spíikers iús de símpol past tu tel stóris, tok abá
 
 🇲🇽 Los hablantes de inglés usan el pasado simple para contar historias, hablar de ayer, describir eventos terminados y mencionar experiencias personales.
 
-🇺🇸 In natural communication, students will hear forms like played, watched, went, saw, and structures with did very often.
-Pronunciación: in náchural comiuniquéishon, stiúdents uil jíar forms laik pléid, uácht, uent, só, and strókchers uiz did véri óften.
+🇺🇸 In everyday English, we often hear played, watched, went, saw, and sentences with did.
+Pronunciación: in évridei ínglish, uí óften jíar pléid, uácht, uent, só, and séntensis uiz did.
 
-🇲🇽 En la comunicación natural, los alumnos escucharán muy seguido formas como «played», «watched», «went», «saw» y estructuras con «did».
+🇲🇽 En el inglés cotidiano, escuchamos con frecuencia «played», «watched», «went», «saw» y oraciones con «did».
 
 🇺🇸 At a basic level, students do not need a very long list of irregular verbs yet, but they do need to recognize the most common ones.
 Pronunciación: at a béisik lével, stiúdents du not níid a véri long list ov irégiular vérbs yet, bot déi du níid tu rékognáiz de móust cómon uans.
@@ -5256,7 +5256,7 @@ Pronunciación: stiúdents mei séi jíi dídent stódid instéd ov jíi dídent
 ### C) Confusing regular and irregular forms
 
 🇺🇸 Some students try to add ed to irregular verbs, for example goed instead of went.
-Pronunciación: sam stiúdents trai tu ad ed tu irégiular vérbs, for egzámpl góð instéd ov uent.
+Pronunciación: sam stiúdents trai tu ad ed tu irégiular vérbs, for egzámpl góud instéd ov uent.
 
 🇲🇽 Algunos alumnos tratan de agregar «-ed» a verbos irregulares, por ejemplo «goed» en lugar de «went».
 
@@ -5300,7 +5300,7 @@ Pronunciación: dis séntens iúsis an irégiular vérb in de past.
 🇺🇸 Did they study for the test? No, they did not.
 Pronunciación: did déi stódi for de test? nou, déi did not.
 
-🇲🇽 ¿Estudiaron ellos para el examen? No, ellos no lo hicieron. / ¿Estudiaron ellas para el examen? No, ellas no lo hicieron.
+🇲🇽 ¿Estudiaron para el examen? No, no estudiaron.
 
 🇺🇸 This example shows a question and a negative short answer with did.
 Pronunciación: dis egzámpl shóuz a cuéschon and a négativ short ánser uiz did.
@@ -5424,7 +5424,7 @@ Pronunciación: chec if de stiúdent kíips de méin vérb in béis form áfter 
 🇲🇽 Revisa si el alumno mantiene el verbo principal en forma base después de «did».
 
 🇺🇸 Check if the student still invents forms like goed or uses studied after did. 🎯
-Pronunciación: chec if de stiúdent stil invénts forms laik góð or iúsis stódid áfter did.
+Pronunciación: chec if de stiúdent stil invénts forms laik góud or iúsis stódid áfter did.
 
 🇲🇽 Revisa si el alumno todavía inventa formas como «goed» o usa «studied» después de «did». 🎯
 
@@ -5456,7 +5456,7 @@ Pronunciación: dis tópik jelps de tíicher chek if stiúdents can chúus bitu�
 ## 14.2 What this topic is for / Para qué sirve este tema 🎯
 
 🇺🇸 This topic is used to talk about future actions, intentions, and plans.
-Pronunciación: dis tópik is iúsd tu tok abáut fiúcher ákshons, intencións, and plans.
+Pronunciación: dis tópik is iúsd tu tok abáut fiúcher ákshons, inténshons, and plans.
 
 🇲🇽 Este tema se usa para hablar de acciones futuras, intenciones y planes.
 
@@ -5479,10 +5479,10 @@ Pronunciación: uil is uan béisik uéi tu tok abáut de fiúcher.
 
 🇲🇽 «Will» es una forma básica de hablar del futuro.
 
-🇺🇸 At a simple level, students often use will for decisions made at the moment of speaking, promises, offers, or quick predictions.
-Pronunciación: at a símpol lével, stiúdents óften iús uil for disíshons méid at de móument ov spíikin, prómisis, ófers, or kuík pridíkshons.
+🇺🇸 We use will for decisions we make as we speak, promises, offers, and predictions.
+Pronunciación: uí iús uil for disíshons uí méik as uí spík, prómisis, ófers, and pridíkshons.
 
-🇲🇽 En un nivel simple, los alumnos muchas veces usan «will» para decisiones tomadas en el momento de hablar, promesas, ofrecimientos o predicciones rápidas.
+🇲🇽 Usamos «will» para decidir algo al hablar, hacer promesas, ofrecer ayuda y decir qué creemos que pasará.
 
 ### Basic structure / Estructura básica
 
@@ -5522,10 +5522,10 @@ Pronunciación: góuin tu is anóder cómon uéi tu tok abáut de fiúcher.
 
 🇲🇽 «Going to» es otra forma común de hablar del futuro.
 
-🇺🇸 At a basic level, students often use going to for intentions and plans that already exist before the moment of speaking.
-Pronunciación: at a béisik lével, stiúdents óften iús góuin tu for intencións and plans dat olrédi igzíst bifór de móument ov spíikin.
+🇺🇸 We use going to for plans and decisions made before we speak.
+Pronunciación: uí iús góuin tu for plans and disíshons méid bifór uí spík.
 
-🇲🇽 En un nivel básico, los alumnos muchas veces usan «going to» para intenciones y planes que ya existen antes del momento de hablar.
+🇲🇽 Usamos «going to» para planes y decisiones que ya habíamos tomado antes de hablar.
 
 ### Basic structure / Estructura básica
 
@@ -5562,39 +5562,39 @@ Pronunciación: de méin vérb ólso stéis in béis form áfter góuin tu.
 
 ### A) Decision / Decisión
 
-🇺🇸 A basic decision is often made at the moment of speaking.
-Pronunciación: a béisik disíshon is óften méid at de móument ov spíikin.
+🇺🇸 Sometimes we decide what to do as we speak.
+Pronunciación: sómtaims uí disáid uat tu du as uí spík.
 
-🇲🇽 Una decisión básica muchas veces se toma en el momento de hablar.
+🇲🇽 A veces decidimos qué hacer en el momento de hablar.
 
-🇺🇸 In beginner English, this is commonly expressed with will.
-Pronunciación: in bigíner ínglish, dis is cómonli exprést uiz uil.
+🇺🇸 We often use will for this kind of decision.
+Pronunciación: uí óften iús uil for dis káind ov disíshon.
 
-🇲🇽 En el inglés de principiantes, esto normalmente se expresa con «will».
+🇲🇽 Para este tipo de decisión, solemos usar «will».
 
 ### Example / Ejemplo
 
 🇺🇸 The phone is ringing. I will answer it.
 Pronunciación: de fóun is rínguin. ai uil ánser it.
 
-🇲🇽 El teléfono está sonando. Yo contestaré.
+🇲🇽 Está sonando el teléfono. Yo contesto.
 
 🇺🇸 Here, the speaker decides at that moment.
 Pronunciación: jíar, de spíiker disáids at dat móument.
 
-🇲🇽 Aquí, el hablante decide en ese momento.
+🇲🇽 Aquí, la persona decide en ese momento.
 
 ### B) Intention / Intención
 
 🇺🇸 An intention is something a person wants to do.
-Pronunciación: an intención is sámthing a pérson uánts tu du.
+Pronunciación: an inténshon is sámthing a pérson uánts tu du.
 
 🇲🇽 Una intención es algo que una persona quiere hacer.
 
-🇺🇸 In beginner English, going to is often used when the intention already exists.
-Pronunciación: in bigíner ínglish, góuin tu is óften iúsd uen di intención olrédi igzísts.
+🇺🇸 We use going to when we already know what we want to do.
+Pronunciación: uí iús góuin tu uen uí olrédi nóu uat uí uánt tu du.
 
-🇲🇽 En el inglés de principiantes, muchas veces se usa «going to» cuando la intención ya existe.
+🇲🇽 Usamos «going to» cuando ya sabemos qué queremos hacer.
 
 ### Example / Ejemplo
 
@@ -5603,10 +5603,10 @@ Pronunciación: ai am góuin tu lern ínglish dis yíar.
 
 🇲🇽 Yo voy a aprender inglés este año.
 
-🇺🇸 This sounds like an intention that already exists.
-Pronunciación: dis sáunds laik an intención dat olrédi igzísts.
+🇺🇸 The person already wants to learn English.
+Pronunciación: de pérson olrédi uánts tu lern ínglish.
 
-🇲🇽 Esto suena como una intención que ya existe.
+🇲🇽 La persona ya tiene la intención de aprender inglés.
 
 ### C) Plan / Plan
 
@@ -5615,10 +5615,10 @@ Pronunciación: a plan is mor órganáizd dan a kuík disíshon.
 
 🇲🇽 Un plan es más organizado que una decisión rápida.
 
-🇺🇸 At a basic level, students usually express plans with going to.
-Pronunciación: at a béisik lével, stiúdents yúshuali exprés plans uiz góuin tu.
+🇺🇸 We often use going to to talk about plans.
+Pronunciación: uí óften iús góuin tu tu tok abáut plans.
 
-🇲🇽 En un nivel básico, los alumnos normalmente expresan planes con «going to».
+🇲🇽 Solemos usar «going to» para hablar de planes.
 
 ### Example / Ejemplo
 
@@ -5627,10 +5627,10 @@ Pronunciación: uíi ar góuin tu trável next mónth.
 
 🇲🇽 Nosotros vamos a viajar el próximo mes.
 
-🇺🇸 This sounds like a previous plan, not a sudden decision.
-Pronunciación: dis sáunds laik a prívious plan, not a sóden disíshon.
+🇺🇸 They made this plan before speaking.
+Pronunciación: déi méid dis plan bifór spíkin.
 
-🇲🇽 Esto suena como un plan previo, no como una decisión repentina.
+🇲🇽 Ya habían hecho este plan antes de hablar.
 
 ---
 
@@ -5689,7 +5689,7 @@ Pronunciación: uil iu com tumórou?
 🇺🇸 Will she study for the exam?
 Pronunciación: uil shíi stódi for di egzám?
 
-🇲🇽 ¿Estudiará ella para el examen?
+🇲🇽 ¿Ella estudiará para el examen?
 
 ### B) Questions with «going to»
 
@@ -5706,7 +5706,7 @@ Pronunciación: ar iu góuin tu trável dis uíikend?
 🇺🇸 Is he going to work tomorrow?
 Pronunciación: is jíi góuin tu uórk tumórou?
 
-🇲🇽 ¿Va a trabajar él mañana?
+🇲🇽 ¿Él va a trabajar mañana?
 
 ---
 
@@ -5717,15 +5717,15 @@ Pronunciación: ínglish spíikers iús uil for kuík disíshons, prómisis, óf
 
 🇲🇽 Los hablantes de inglés usan «will» para decisiones rápidas, promesas, ofrecimientos y muchas predicciones.
 
-🇺🇸 They often use going to for intentions and plans that already exist in the speaker’s mind.
-Pronunciación: déi óften iús góuin tu for intencións and plans dat olrédi igzíst in de spíiker's maind.
+🇺🇸 They often use going to for things they already plan to do.
+Pronunciación: déi óften iús góuin tu for things déi olrédi plan tu du.
 
-🇲🇽 Muchas veces usan «going to» para intenciones y planes que ya existen en la mente del hablante.
+🇲🇽 Suelen usar «going to» para acciones que ya tienen planeadas.
 
-🇺🇸 At a basic level, both forms can refer to the future, but students need to start feeling the difference in context.
-Pronunciación: at a béisik lével, bouth forms can rifér tu de fiúcher, bot stiúdents níid tu start fíilin de dífrens in cóntext.
+🇺🇸 Both forms refer to the future. The situation helps us choose which one to use.
+Pronunciación: bouth forms rifér tu de fiúcher. de situéishon jelps os chúus uích uan tu iús.
 
-🇲🇽 En un nivel básico, las dos formas pueden referirse al futuro, pero los alumnos necesitan empezar a notar la diferencia según el contexto.
+🇲🇽 Las dos formas se refieren al futuro. La situación nos ayuda a elegir cuál usar.
 
 ---
 
@@ -5783,7 +5783,7 @@ Pronunciación: ai am góuin tu stódi médecin.
 🇲🇽 Yo voy a estudiar medicina.
 
 🇺🇸 This example shows an intention or plan.
-Pronunciación: dis egzámpl shóuz an intención or plan.
+Pronunciación: dis egzámpl shóuz an inténshon or plan.
 
 🇲🇽 Este ejemplo muestra una intención o un plan.
 
@@ -5852,7 +5852,7 @@ Pronunciación: aidéntifai di aidía: aim jóngri. ai uil méik a sánduich.
 🇲🇽 Identifica la idea: «I’m hungry. I will make a sandwich.»
 
 🇺🇸 Is it a quick decision, an intention, or a previous plan?
-Pronunciación: is it a kuík disíshon, an intención, or a prívious plan?
+Pronunciación: is it a kuík disíshon, an inténshon, or a prívious plan?
 
 🇲🇽 ¿Es una decisión rápida, una intención o un plan previo?
 
@@ -5866,7 +5866,7 @@ Pronunciación: aidéntifai di aidía: uíi ar góuin tu vízit Uajáka next mó
 🇲🇽 Identifica la idea: «We are going to visit Oaxaca next month.»
 
 🇺🇸 Is it a quick decision, an intention, or a plan?
-Pronunciación: is it a kuík disíshon, an intención, or a plan?
+Pronunciación: is it a kuík disíshon, an inténshon, or a plan?
 
 🇲🇽 ¿Es una decisión rápida, una intención o un plan?
 
@@ -5953,10 +5953,10 @@ Pronunciación: dis tópik jelps de tíicher chek if stiúdents can tel an áksh
 
 ## 15.2 What this topic is for / Para qué sirve este tema 🎯
 
-🇺🇸 This topic is used to talk about future arrangements that are already planned.
-Pronunciación: dis tópik is iúsd tu tok abáut fiúcher arréinyments dat ar olrédi plánd.
+🇺🇸 Use this form for future plans that are already organized.
+Pronunciación: iús dis form for fiúcher plans dat ar olrédi órganaizd.
 
-🇲🇽 Este tema sirve para hablar de planes futuros que ya están organizados.
+🇲🇽 Usa esta forma para hablar de planes futuros que ya están organizados.
 
 🇺🇸 It helps students say what they are doing tomorrow, next week, or at a specific future time.
 Pronunciación: it jelps stiúdents séi uót déi ar dúuin tumórou, next uíik, or at a spesífic fiúcher taim.
@@ -5972,15 +5972,15 @@ Pronunciación: ínglish spíikers iús dis strókcher véri óften for apóintm
 
 ## 15.3 Future plans / Planes futuros 🤝📆
 
-🇺🇸 A future arrangement is a plan that is already decided or organized.
-Pronunciación: a fiúcher arréinyment is a plan dat is olrédi disáidid or órganaizd.
+🇺🇸 A future arrangement is a plan with details already agreed, such as a time or place.
+Pronunciación: a fiúcher arréinchment is a plan uiz ditéils olrédi agríid, sach as a táim or pléis.
 
-🇲🇽 Un arreglo futuro es un plan que ya está decidido u organizado.
+🇲🇽 Un plan acordado ya tiene detalles definidos, como la hora o el lugar.
 
-🇺🇸 In basic English, the present continuous can show that this future action is not only an idea, but something already arranged.
-Pronunciación: in béisik ínglish, de prézent contíniuəs can shóu dat dis fiúcher ákshon is not ónli an aidía, bot sámthing olrédi arréinyd.
+🇺🇸 The present continuous shows that we have already organized the future activity.
+Pronunciación: de prézent contíniuəs shóus dat uí jav olrédi órganaizd de fiúcher aktíviti.
 
-🇲🇽 En el inglés básico, el presente continuo puede mostrar que esta acción futura no es solo una idea, sino algo que ya está arreglado.
+🇲🇽 El presente continuo indica que ya organizamos la actividad futura.
 
 ### Examples / Ejemplos
 
@@ -6002,7 +6002,7 @@ Pronunciación: uíi ar jávin a clas on fráidei.
 🇺🇸 In these examples, the future meaning comes from the time expression.
 Pronunciación: in díiz egzámpls, de fiúcher míning coms from de taim expréshon.
 
-🇲🇽 En estos ejemplos, el significado de futuro viene de la expresión de tiempo.
+🇲🇽 En estos ejemplos, la expresión de tiempo indica que la acción sucederá después.
 
 ---
 
@@ -6011,7 +6011,7 @@ Pronunciación: in díiz egzámpls, de fiúcher míning coms from de taim expré
 🇺🇸 This use is more natural when the sentence includes a defined future time such as tomorrow, tonight, next week, on Monday, or at 6:00.
 Pronunciación: dis iús is mor náchural uen de séntens inclúdz a difáind fiúcher taim sach as tumórou, tunáit, next uíik, on móndei, or at siks.
 
-🇲🇽 Este uso es más natural cuando la oración incluye un tiempo futuro definido como «tomorrow», «tonight», «next week», «on Monday» o «at 6:00».
+🇲🇽 Es más fácil reconocer este uso con expresiones como «tomorrow» (mañana), «tonight» (esta noche), «next week» (la próxima semana), «on Monday» (el lunes) o «at 6:00» (a las 6:00).
 
 ### Common time expressions / Expresiones de tiempo comunes
 
@@ -6043,7 +6043,7 @@ Pronunciación: at fáiv
 🇺🇸 Without a clear time reference, the sentence may sound more like something happening now.
 Pronunciación: uidáut a clíar taim réferens, de séntens mei sáund mor laik sámthing jápenin náu.
 
-🇲🇽 Sin una referencia clara de tiempo, la oración puede sonar más como algo que está pasando ahora.
+🇲🇽 Si el contexto no indica cuándo, la oración puede entenderse como una acción que sucede ahora.
 
 ---
 
@@ -6191,20 +6191,20 @@ Pronunciación: nou, uíi árent.
 
 ## 15.9 How English speakers usually use it / Cómo lo usan normalmente los anglohablantes 🌍
 
-🇺🇸 English speakers often use the present continuous for future when they already have a plan, an appointment, or a social arrangement.
-Pronunciación: ínglish spíikers óften iús de prézent contíniuəs for fiúcher uen déi olrédi jav a plan, an apóintment, or a sóushal arréinyment.
+🇺🇸 We often use the present continuous for an organized plan, an appointment, or a meeting with friends.
+Pronunciación: uí óften iús de prézent contíniuəs for an órganaizd plan, an apóintment, or a míitin uiz frends.
 
-🇲🇽 Los hablantes de inglés muchas veces usan el presente continuo para futuro cuando ya tienen un plan, una cita o un arreglo social.
+🇲🇽 Solemos usar el presente continuo para un plan organizado, una cita o una reunión con amigos.
 
 🇺🇸 It is very common with verbs like meeting, traveling, leaving, coming, having, studying, and working.
 Pronunciación: it is véri cómon uiz vérbs laik míitin, trávelin, líivin, cómin, jávin, stódiin, and uórkin.
 
 🇲🇽 Es muy común con verbos como «meeting», «traveling», «leaving», «coming», «having», «studying» y «working».
 
-🇺🇸 In real communication, this form often sounds more concrete and organized than a simple future idea.
-Pronunciación: in ríal comiuniquéishon, dis form óften sáunds mor cóncrit and órganaizd dan a símpol fiúcher aidía.
+🇺🇸 This form tells the other person that the plan is already organized.
+Pronunciación: dis form tels di óder pérson dat de plan is olrédi órganaizd.
 
-🇲🇽 En la comunicación real, esta forma muchas veces suena más concreta y organizada que una idea simple de futuro.
+🇲🇽 Esta forma le indica a la otra persona que el plan ya está organizado.
 
 ---
 
@@ -6252,7 +6252,7 @@ Pronunciación: ai am míitin mai tíicher tumórou at ten.
 🇺🇸 This example shows a future arrangement with a defined time.
 Pronunciación: dis egzámpl shóuz a fiúcher arréinyment uiz a difáind taim.
 
-🇲🇽 Este ejemplo muestra un arreglo futuro con un tiempo definido.
+🇲🇽 Este ejemplo presenta un plan para una fecha y hora definidas.
 
 ### Example 2 / Ejemplo 2
 
@@ -6264,7 +6264,7 @@ Pronunciación: shíi is not trávelin next uíik.
 🇺🇸 This example shows a negative future arrangement.
 Pronunciación: dis egzámpl shóuz a négativ fiúcher arréinyment.
 
-🇲🇽 Este ejemplo muestra un arreglo futuro negativo.
+🇲🇽 Este ejemplo indica que una actividad no se realizará la próxima semana.
 
 ### Example 3 / Ejemplo 3
 
@@ -6281,7 +6281,7 @@ Pronunciación: yes, déi ar.
 🇺🇸 This example shows a question and a short answer about a future arrangement.
 Pronunciación: dis egzámpl shóuz a cuéschon and a short ánser abáut a fiúcher arréinyment.
 
-🇲🇽 Este ejemplo muestra una pregunta y una respuesta corta sobre un arreglo futuro.
+🇲🇽 Este ejemplo presenta una pregunta y una respuesta corta sobre un plan futuro.
 
 ---
 
@@ -6436,15 +6436,15 @@ Pronunciación: dis tópik is iúsd tu distínguish uen an ákshon jápens.
 
 🇲🇽 Este tema se usa para distinguir cuándo pasa una acción.
 
-🇺🇸 It helps students describe routines, past experiences, and future plans with better order and meaning.
-Pronunciación: it jelps stiúdents discráib rutíns, past expríensis, and fiúcher plans uiz béter órder and míning.
+🇺🇸 It helps students talk clearly about routines, past events, and future plans.
+Pronunciación: it jelps stiúdents tok clírli abáut rutíns, past ivénts, and fiúcher plans.
 
-🇲🇽 Ayuda a los alumnos a describir rutinas, experiencias pasadas y planes futuros con mejor orden y significado.
+🇲🇽 Ayuda a los alumnos a hablar con claridad de rutinas, hechos pasados y planes futuros.
 
-🇺🇸 English speakers constantly move between these three time references, so students need to learn how to recognize them and not mix them carelessly. ⚠️
-Pronunciación: ínglish spíikers cónstantli múuv bituíin díiz zríi taim réferensis, sóu stiúdents níid tu lern jáu tu rékognáiz dem and not miks dem kérlesli.
+🇺🇸 We use different tenses to talk about different times. Choose the tense that fits each action. ⚠️
+Pronunciación: uí iús dífrent ténsis tu tok abáut dífrent táims. chúus de tens dat fits íich ákshon.
 
-🇲🇽 En inglés usamos presente, pasado y futuro. Los alumnos necesitan reconocer cada tiempo y evitar mezclarlos. ⚠️
+🇲🇽 Usamos distintos tiempos verbales para hablar de distintos momentos. Elige el tiempo que corresponde a cada acción. ⚠️
 
 ---
 
@@ -6474,7 +6474,7 @@ Pronunciación: shíi is at jóum náu.
 🇺🇸 The past is used for actions and situations that happened before now and are already finished.
 Pronunciación: de past is iúsd for ákshons and situéishons dat jápend bifór náu and ar olrédi fínisht.
 
-🇲🇽 El pasado se usa para acciones y situaciones que pasaron antes de ahora y ya terminaron.
+🇲🇽 El pasado se usa para acciones y situaciones que ya ocurrieron.
 
 ### Examples / Ejemplos
 
@@ -6491,9 +6491,9 @@ Pronunciación: shíi uoz at jóum last náit.
 ### C) Future / Futuro
 
 🇺🇸 The future is used for actions, decisions, intentions, and plans after now.
-Pronunciación: de fiúcher is iúsd for ákshons, disíshons, intencións, and plans áfter náu.
+Pronunciación: de fiúcher is iúsd for ákshons, disíshons, inténshons, and plans áfter náu.
 
-🇲🇽 El futuro se usa para acciones, decisiones, intenciones y planes después de ahora.
+🇲🇽 El futuro se usa para acciones que sucederán después, así como para decisiones, intenciones y planes.
 
 ### Examples / Ejemplos
 
@@ -6517,24 +6517,24 @@ Pronunciación: a símpol uéi tu anderstánd díiz zríi ténsis is dis.
 🇲🇽 Una forma simple de entender estos tres tiempos es esta:
 
 🇺🇸 Present = now or usual
-Pronunciación: prézent igual náu or yúshual
+Pronunciación: prézent íkuols náu or yúshual
 
 🇲🇽 Presente = ahora o lo habitual
 
 🇺🇸 Past = before now
-Pronunciación: past igual bifór náu
+Pronunciación: past íkuols bifór náu
 
-🇲🇽 Pasado = antes de ahora
+🇲🇽 Pasado = lo que ya ocurrió
 
 🇺🇸 Future = after now
-Pronunciación: fiúcher igual áfter náu
+Pronunciación: fiúcher íkuols áfter náu
 
-🇲🇽 Futuro = después de ahora
+🇲🇽 Futuro = lo que sucederá después
 
 🇺🇸 Students need to connect the verb form with the correct time reference.
 Pronunciación: stiúdents níid tu conéct de vérb form uiz de coréct taim réferens.
 
-🇲🇽 Los alumnos necesitan conectar la forma del verbo con la referencia de tiempo correcta.
+🇲🇽 Los alumnos deben elegir la forma del verbo según cuándo sucede la acción.
 
 ---
 
@@ -6630,10 +6630,10 @@ Pronunciación: on fráidei
 
 ## 16.6 Using the Correct Tense / Uso correcto de los tiempos verbales 🧩
 
-🇺🇸 Temporal coherence means that the tense and the time expression agree with each other.
-Pronunciación: témporal coujírens míns dat de tens and de taim expréshon agríi uiz íich óder.
+🇺🇸 The verb form and the time expression must make sense together.
+Pronunciación: de vérb form and de taim expréshon mast méik sens tugéder.
 
-🇲🇽 La coherencia temporal significa que el tiempo verbal y la expresión de tiempo concuerdan entre sí.
+🇲🇽 La forma del verbo y la expresión de tiempo deben corresponder al mismo momento.
 
 🇺🇸 A sentence sounds correct when the verb matches the time reference.
 Pronunciación: a séntens sáunds coréct uen de vérb máchis de taim réferens.
@@ -6683,15 +6683,15 @@ Pronunciación: ínglish spíikers chéinch tens dipéndin on uen di ákshon já
 
 🇲🇽 Los hablantes de inglés cambian el tiempo según cuándo pasa la acción, y normalmente dan pistas con expresiones de tiempo.
 
-🇺🇸 In daily communication, they naturally move from one time reference to another, but each sentence usually stays coherent inside its own time frame.
-Pronunciación: in déili comiuniquéishon, déi náchurali múuv from uan taim réferens tu anóder, bot íich séntens yúshuali stéis coujírent insáid its óun taim fréim.
+🇺🇸 A sentence can use different tenses if it describes actions at different times.
+Pronunciación: a séntens can iús dífrent ténsis if it discráibs ákshons at dífrent táims.
 
-🇲🇽 En la comunicación diaria, se mueven de manera natural de una referencia de tiempo a otra, pero cada oración normalmente se mantiene coherente dentro de su propio tiempo.
+🇲🇽 Una oración puede usar distintos tiempos verbales si describe acciones que ocurren en distintos momentos.
 
-🇺🇸 Students need to stop translating word by word and start checking if the whole sentence matches one time reference.
-Pronunciación: stiúdents níid tu stop transléitin uórd bai uórd and start chéquing if de jóul séntens máchis uan taim réferens.
+🇺🇸 Check when each action happens before choosing the verb form.
+Pronunciación: chek uen íich ákshon jápens bifór chúusin de vérb form.
 
-🇲🇽 Los alumnos necesitan dejar de traducir palabra por palabra y empezar a revisar si toda la oración coincide con una sola referencia de tiempo.
+🇲🇽 Revisa cuándo sucede cada acción antes de elegir la forma del verbo.
 
 ---
 
@@ -6718,7 +6718,7 @@ Pronunciación: sómtaims stiúdents rékognáiz uórds laik yésterdei or tumó
 
 🇲🇽 A veces los alumnos reconocen palabras como «yesterday» o «tomorrow», pero aun así usan la forma de verbo incorrecta.
 
-### D) Forgetting that one sentence should stay temporally consistent
+### D) Using a tense that does not fit the action / Usar un tiempo que no corresponde a la acción
 
 🇺🇸 A common problem is writing a sentence that starts in one time and ends in another without logic.
 Pronunciación: a cómon próblem is ráitin a séntens dat starts in uan taim and ends in anóder uidáut lójic.
@@ -6763,7 +6763,7 @@ Pronunciación: ai am góuin tu góu tu skúl tumórou.
 🇺🇸 This sentence is in the future because the action happens after now and the time signal is «tomorrow».
 Pronunciación: dis séntens is in de fiúcher bicós di ákshon jápens áfter náu and de taim sígnol is tumórou.
 
-🇲🇽 Esta oración está en futuro porque la acción pasa después de ahora y la señal de tiempo es «tomorrow».
+🇲🇽 Esta oración expresa futuro porque la acción sucederá mañana, como indica «tomorrow».
 
 ---
 
@@ -6864,7 +6864,7 @@ Pronunciación: ríid and ánser: Luis stódis ínglish évri déi. yésterdei j
 🇺🇸 Check if the student understands the conceptual difference between present, past, and future.
 Pronunciación: chec if de stiúdent anderstánds de concéptchual dífrens bituíin prézent, past, and fiúcher.
 
-🇲🇽 Revisa si el alumno entiende la diferencia conceptual entre presente, pasado y futuro.
+🇲🇽 Revisa si el alumno distingue presente, pasado y futuro.
 
 🇺🇸 Check if the student recognizes time signals correctly.
 Pronunciación: chec if de stiúdent rékognáizis taim sígnols coréctli.
@@ -6881,23 +6881,23 @@ Pronunciación: chec if de stiúdent avóids míksin ténsis insáid uan sénten
 
 🇲🇽 Revisa si el alumno evita mezclar tiempos dentro de una sola oración sin lógica.
 
-🇺🇸 Check if the student can build one coherent sentence in each of the three times. 🎯
-Pronunciación: chec if de stiúdent can bild uan coujírent séntens in íich ov de zríi taims.
+🇺🇸 Check if the student can write a clear sentence in each tense. 🎯
+Pronunciación: chek if de stiúdent can ráit a clír séntens in íich tens.
 
-🇲🇽 Revisa si el alumno puede construir una oración coherente en cada uno de los tres tiempos. 🎯
+🇲🇽 Revisa si el alumno puede escribir una oración clara en cada tiempo verbal. 🎯
 
 ---
 ---
 ---
 
-# 17. Zero Conditional / Zero Conditional 🔁📘🌍
+# 17. Zero Conditional / Condicional cero 🔁📘🌍
 
 ## 17.1 Explanation of the topic / Explicación del tema
 
-🇺🇸 We use the zero conditional for facts and results that are always true. It is common in rules, routines, and science. 🔁
-Pronunciación: uí iús de zírou condíshonal for facts and rizólts dat ar ólueis trú. it is cómon in rúls, rutíns, and sáiens.
+🇺🇸 We use the zero conditional for general facts and usual results. We use it for rules, routines, and science. 🔁
+Pronunciación: uí iús de zírou condíshonal for yéneral facts and yúshual rizólts. uí iús it for rúls, rutíns, and sáiens.
 
-🇲🇽 Usamos el condicional cero para hechos y resultados que siempre se cumplen. Es común en reglas, rutinas y temas científicos. 🔁
+🇲🇽 Usamos el condicional cero para hechos generales y resultados habituales. Se usa en reglas, rutinas y temas científicos. 🔁
 
 🇺🇸 Both parts use the simple present. This conditional is for regular or always-true situations, not for a single future possibility. 🧠
 Pronunciación: bouth parts iús de símpol prézent. dis condíshonal is for réguilar or ólueis-trú situéishons, not for a síngol fiúcher posibíliti.
@@ -6935,7 +6935,7 @@ Pronunciación: ínglish spíikers iús dis strókcher in évridei eksplanéisho
 🇺🇸 The basic structure of the zero conditional is:
 Pronunciación: de béisik strókcher ov de zírou condíshonal is
 
-🇲🇽 La estructura básica del zero conditional es:
+🇲🇽 La estructura básica del condicional cero es:
 
 🇺🇸 If + present simple, present simple
 Pronunciación: if plus prézent símpol, prézent símpol
@@ -6959,10 +6959,10 @@ Pronunciación: if ai stódi, ai lern.
 
 🇲🇽 Si estudio, aprendo.
 
-🇺🇸 If people eat too much sugar, they gain weight.
-Pronunciación: if pípol iit tu mach shúgar, déi géin uéit.
+🇺🇸 If I do not understand a word, I ask my teacher.
+Pronunciación: if ai du not anderstánd a uórd, ai ask mai tíicher.
 
-🇲🇽 Si la gente come demasiada azúcar, sube de peso.
+🇲🇽 Si no entiendo una palabra, le pregunto a mi maestro.
 
 ---
 
@@ -6971,7 +6971,7 @@ Pronunciación: if pípol iit tu mach shúgar, déi géin uéit.
 🇺🇸 The zero conditional is often used for facts that are generally true.
 Pronunciación: de zírou condíshonal is óften iúsd for facts dat ar yénerali trú.
 
-🇲🇽 El zero conditional muchas veces se usa para hechos que generalmente son verdaderos.
+🇲🇽 El condicional cero muchas veces se usa para hechos que generalmente son verdaderos.
 
 🇺🇸 These are not one-time situations. They are things that happen regularly or naturally.
 Pronunciación: díiz ar not uan-taim situéishons. déi ar things dat jápen réguilarli or náchurali.
@@ -6993,7 +6993,7 @@ Pronunciación: if iu dóunt slíip, iu fíil táiard.
 🇺🇸 If the sun goes down, it gets dark.
 Pronunciación: if de san góuz dáun, it gets dark.
 
-🇲🇽 Si se mete el sol, se oscurece.
+🇲🇽 Si se pone el sol, oscurece.
 
 ---
 
@@ -7004,7 +7004,7 @@ Pronunciación: if de san góuz dáun, it gets dark.
 🇺🇸 The zero conditional can express rules or instructions.
 Pronunciación: de zírou condíshonal can exprés rúls or instrókshons.
 
-🇲🇽 El zero conditional puede expresar reglas o instrucciones.
+🇲🇽 El condicional cero puede expresar reglas o instrucciones.
 
 🇺🇸 If students arrive late, the teacher marks them absent.
 Pronunciación: if stiúdents aráiv léit, de tíicher marks dem ábsent.
@@ -7021,12 +7021,12 @@ Pronunciación: if iu pres dis bóton, de mashíin starts.
 🇺🇸 The zero conditional is very common for scientific or universal truths.
 Pronunciación: de zírou condíshonal is véri cómon for saiantífic or iunivérsal trúuz.
 
-🇲🇽 El zero conditional es muy común para verdades científicas o universales.
+🇲🇽 El condicional cero es muy común para verdades científicas o universales.
 
-🇺🇸 If water reaches 100 degrees Celsius, it boils.
-Pronunciación: if uóter ríichis uan jóndred digríiz sélsius, it bóils.
+🇺🇸 If you freeze water, it becomes ice.
+Pronunciación: if iu fríis uóter, it bicóms áis.
 
-🇲🇽 Si el agua llega a 100 grados Celsius, hierve.
+🇲🇽 Si congelas agua, se convierte en hielo.
 
 🇺🇸 If plants do not get light, they die.
 Pronunciación: if plants du not get láit, déi dái.
@@ -7036,9 +7036,9 @@ Pronunciación: if plants du not get láit, déi dái.
 ### C) Habits / Hábitos
 
 🇺🇸 The zero conditional can also describe repeated habits.
-Pronunciación: de zírou condíshonal can ólso discráib ripírit jábits.
+Pronunciación: de zírou condíshonal can ólso discráib ripítid jábits.
 
-🇲🇽 El zero conditional también puede describir hábitos repetidos.
+🇲🇽 El condicional cero también puede describir hábitos repetidos.
 
 🇺🇸 If I have time, I go for a walk.
 Pronunciación: if ai jav taim, ai góu for a uók.
@@ -7048,14 +7048,14 @@ Pronunciación: if ai jav taim, ai góu for a uók.
 🇺🇸 If she finishes class early, she visits her grandmother.
 Pronunciación: if shíi fínishis clas érli, shíi vízits jer grándmóder.
 
-🇲🇽 Si termina clase temprano, visita a su abuela.
+🇲🇽 Si ella sale temprano de clase, visita a su abuela.
 
 ### D) Results that always happen / Resultados que siempre pasan
 
 🇺🇸 The zero conditional is useful when one action always produces the same result.
 Pronunciación: de zírou condíshonal is iúsful uen uan ákshon ólueis prodiúsis de séim rizólt.
 
-🇲🇽 El zero conditional es útil cuando una acción siempre produce el mismo resultado.
+🇲🇽 El condicional cero es útil cuando una acción siempre produce el mismo resultado.
 
 🇺🇸 If I drink coffee at night, I don’t sleep well.
 Pronunciación: if ai drink cófi at náit, ai dóunt slíip uel.
@@ -7071,10 +7071,10 @@ Pronunciación: if jíi iits spáisi fúd, jíi gets sik.
 
 ## 17.6 Sentence order / Orden de la oración ↔️
 
-🇺🇸 The sentence can begin with the if clause or with the result clause.
-Pronunciación: de séntens can bigín uiz de if clóz or uiz de rizólt clóz.
+🇺🇸 The sentence can start with the condition or the result.
+Pronunciación: de séntens can start uiz de condíshon or de rizólt.
 
-🇲🇽 La oración puede empezar con la cláusula con «if» o con la cláusula del resultado.
+🇲🇽 La oración puede empezar con la condición o con el resultado.
 
 ### Option 1 / Opción 1
 
@@ -7090,19 +7090,19 @@ Pronunciación: iu lern if iu stódi.
 
 🇲🇽 Aprendes si estudias.
 
-🇺🇸 When the sentence starts with if, a comma is usually used before the second clause.
-Pronunciación: uen de séntens starts uiz if, a cóma is yúshuali iúsd bifór de sécond clóz.
+🇺🇸 When the sentence starts with if, put a comma before the result.
+Pronunciación: uen de séntens starts uiz if, put a cóma bifór de rizólt.
 
-🇲🇽 Cuando la oración empieza con «if», normalmente se usa una coma antes de la segunda cláusula.
+🇲🇽 Cuando la oración empieza con «if», escribe una coma antes del resultado.
 
 ---
 
 ## 17.7 How English speakers usually use it / Cómo lo usan normalmente los anglohablantes 🌍
 
-🇺🇸 English speakers use the zero conditional to explain how things work, what usually happens, and what result comes from a repeated condition.
-Pronunciación: ínglish spíikers iús de zírou condíshonal tu expléin jáu things uórk, uót yúshuali jápens, and uót rizólt coms from a ripírit condíshon.
+🇺🇸 We use the zero conditional to explain how things work and what usually happens.
+Pronunciación: uí iús de zírou condíshonal tu expléin jáu things uórk and uat yúshuali jápens.
 
-🇲🇽 Los hablantes de inglés usan el zero conditional para explicar cómo funcionan las cosas, qué pasa normalmente y qué resultado viene de una condición repetida.
+🇲🇽 Usamos el condicional cero para explicar cómo funcionan las cosas y qué sucede habitualmente.
 
 🇺🇸 It is very common in science, health advice, classroom rules, family habits, and practical explanations.
 Pronunciación: it is véri cómon in saiens, jélth adváis, clásrum rúls, fámili jábits, and práctical eksplanéishons.
@@ -7118,17 +7118,17 @@ Pronunciación: in déili ínglish, dis strókcher sáunds náchural uen de spí
 
 ## 17.8 Common mistakes for Spanish speakers / Errores comunes para hispanohablantes ⚠️
 
-### A) Using future after «if»
+### A) Confusing zero and first conditional / Confundir el condicional cero con el primero
 
-🇺🇸 Students sometimes say “If you heat water, it will boil” when they want a general truth.
-Pronunciación: stiúdents sómtaims séi if iu jíit uóter, it uil bóil uen déi uánt a yéneral trúth.
+🇺🇸 "If you heat water, it will boil" is a possible sentence, but it does not use the zero conditional form we are practicing.
+Pronunciación: if iu jíit uóter, it uil bóil is a pósibol séntens, bot it das not iús de zírou condíshonal form uí ar práctisin.
 
-🇲🇽 A veces los alumnos dicen «If you heat water, it will boil» cuando quieren expresar una verdad general.
+🇲🇽 «If you heat water, it will boil» es una oración posible, pero no usa la forma del condicional cero que estamos practicando.
 
 🇺🇸 For the zero conditional, both parts usually stay in the present.
 Pronunciación: for de zírou condíshonal, bouth parts yúshuali stéi in de prézent.
 
-🇲🇽 En el zero conditional, las dos partes normalmente se quedan en presente.
+🇲🇽 En el condicional cero, las dos partes normalmente se quedan en presente.
 
 ### B) Mixing tenses without logic
 
@@ -7142,7 +7142,7 @@ Pronunciación: stiúdents mei séi if ai stódid, ai lern or if ai stódi, ai l
 🇺🇸 The zero conditional is not mainly for one future possibility.
 Pronunciación: de zírou condíshonal is not méinli for uan fiúcher posibíliti.
 
-🇲🇽 El zero conditional no es principalmente para una sola posibilidad futura.
+🇲🇽 El condicional cero no es principalmente para una sola posibilidad futura.
 
 🇺🇸 It is for things that always happen in the same condition.
 Pronunciación: it is for things dat ólueis jápen in de séim condíshon.
@@ -7154,7 +7154,7 @@ Pronunciación: it is for things dat ólueis jápen in de séim condíshon.
 🇺🇸 Students sometimes forget the s in third person singular inside the zero conditional.
 Pronunciación: stiúdents sómtaims forgét de es in zérd pérson sínguiular insáid de zírou condíshonal.
 
-🇲🇽 A veces los alumnos olvidan la «s» de tercera persona del singular dentro del zero conditional.
+🇲🇽 A veces los alumnos olvidan la «s» de tercera persona del singular dentro del condicional cero.
 
 ---
 
@@ -7180,7 +7180,7 @@ Pronunciación: if shíi drinks milk, shíi fíils béter.
 🇲🇽 Si ella toma leche, se siente mejor.
 
 🇺🇸 This example shows a repeated result.
-Pronunciación: dis egzámpl shóuz a ripírit rizólt.
+Pronunciación: dis egzámpl shóuz a ripítid rizólt.
 
 🇲🇽 Este ejemplo muestra un resultado repetido.
 
@@ -7191,10 +7191,10 @@ Pronunciación: if stiúdents du der jóumuórk, de tíicher is jápi.
 
 🇲🇽 Si los alumnos hacen su tarea, el maestro está contento.
 
-🇺🇸 This example shows a rule or regular classroom result.
-Pronunciación: dis egzámpl shóuz a rúl or réguilar clásrum rizólt.
+🇺🇸 This example shows a regular situation in class.
+Pronunciación: dis egzámpl shóus a réguilar situéishon in clas.
 
-🇲🇽 Este ejemplo muestra una regla o un resultado regular del salón.
+🇲🇽 Este ejemplo describe una situación habitual en el salón.
 
 ---
 
@@ -7205,7 +7205,7 @@ Pronunciación: dis egzámpl shóuz a rúl or réguilar clásrum rizólt.
 🇺🇸 Choose the correct zero conditional sentence:
 Pronunciación: chúus de coréct zírou condíshonal séntens.
 
-🇲🇽 Elige la oración correcta de zero conditional:
+🇲🇽 Elige la oración correcta de condicional cero:
 
 🇺🇸 a) If you heat ice, it melts.
 🇲🇽 a) If you heat ice, it melts.
@@ -7291,10 +7291,10 @@ Pronunciación: riráit de séntens startin uiz de rizólt: if iu práctis, iu i
 
 ### Exercise 7 / Ejercicio 7
 
-🇺🇸 Read and answer: “If Ana eats spicy food, she drinks water. If her brother studies at night, he sleeps late. If the teacher explains clearly, the students understand better.” Identify one sentence about a habit, one about a repeated result, and one about a classroom rule or regular academic result.
-Pronunciación: ríid and ánser: if Ána iits spáisi fúd, shíi drinks uóter. if jer bróder stódis at náit, jíi slíips léit. if de tíicher ekspléins clírli, de stiúdents anderstánd béter. aidéntifai uan séntens abáut a jábit, uan abáut a ripírit rizólt, and uan abáut a clásrum rúl or réguilar académic rizólt.
+🇺🇸 Read and answer: “If Ana eats spicy food, she drinks water. If her brother studies at night, he goes to bed late. If the teacher explains clearly, the students understand better.” Identify one habit, one repeated result, and one situation in class.
+Pronunciación: ríid and ánser: if Ána iits spáisi fúd, shíi drinks uóter. if jer bróder stódis at náit, jíi góus tu bed léit. if de tíicher ekspléins clírli, de stiúdents anderstánd béter. aidéntifai uan jábit, uan ripítid rizólt, and uan situéishon in clas.
 
-🇲🇽 Lee y responde: «If Ana eats spicy food, she drinks water. If her brother studies at night, he sleeps late. If the teacher explains clearly, the students understand better.» Identifica una oración sobre un hábito, una sobre un resultado repetido y una sobre una regla del salón o un resultado académico regular.
+🇲🇽 Lee y responde: «If Ana eats spicy food, she drinks water. If her brother studies at night, he goes to bed late. If the teacher explains clearly, the students understand better.» Identifica un hábito, un resultado que se repite y una situación del salón.
 
 ---
 
@@ -7305,10 +7305,10 @@ Pronunciación: chec if de stiúdent aidéntifais de strókcher if plus prézent
 
 🇲🇽 Revisa si el alumno identifica correctamente la estructura «if + presente, presente».
 
-🇺🇸 Check if the student understands that the zero conditional expresses things that always happen, not a one-time future event.
-Pronunciación: chec if de stiúdent anderstánds dat de zírou condíshonal exprésis things dat ólueis jápen, not a uan-taim fiúcher ivént.
+🇺🇸 Check if the student uses the zero conditional for general facts and habits.
+Pronunciación: chek if de stiúdent iúsis de zírou condíshonal for yéneral facts and jábits.
 
-🇲🇽 Revisa si el alumno entiende que el zero conditional expresa cosas que siempre pasan, no un evento futuro de una sola vez.
+🇲🇽 Revisa si el alumno usa el condicional cero para hechos generales y hábitos.
 
 🇺🇸 Check if the student keeps both parts in present simple.
 Pronunciación: chec if de stiúdent kíips bouth parts in prézent símpol.
@@ -7316,14 +7316,14 @@ Pronunciación: chec if de stiúdent kíips bouth parts in prézent símpol.
 🇲🇽 Revisa si el alumno mantiene las dos partes en presente simple.
 
 🇺🇸 Check if the student recognizes uses such as general facts, rules, habits, and repeated results.
-Pronunciación: chec if de stiúdent rékognáizis iúsis sach as yéneral facts, rúls, jábits, and ripírit rizólts.
+Pronunciación: chec if de stiúdent rékognáizis iúsis sach as yéneral facts, rúls, jábits, and ripítid rizólts.
 
 🇲🇽 Revisa si el alumno reconoce usos como hechos generales, reglas, hábitos y resultados repetidos.
 
 🇺🇸 Check if the student can produce one correct zero conditional sentence from real life. 🎯
 Pronunciación: chec if de stiúdent can prodiús uan coréct zírou condíshonal séntens from ríal láif.
 
-🇲🇽 Revisa si el alumno puede producir una oración correcta de zero conditional a partir de la vida real. 🎯
+🇲🇽 Revisa si el alumno puede producir una oración correcta de condicional cero a partir de la vida real. 🎯
 
 ---
 ---

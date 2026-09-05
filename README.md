@@ -17,6 +17,12 @@ Material educativo del Instituto Fernando Ramírez para consultar y practicar co
 - `parse_content.py`: auxiliar para procesar el contenido.
 - Archivos SVG y JPG: recursos visuales institucionales.
 
+La aplicación conserva 13 temas. El contenido de apoyo y el temario tienen 17 apartados: la aplicación reúne los apartados 5 a 9 en el tema de presentaciones. No se debe regenerar `index.html` automáticamente con `parse_content.py`, porque se perdería esta organización y los ajustes de la aplicación.
+
+## Audio
+
+Se conserva la selección de voz anterior: primero se buscan las voces femeninas preferidas, como Jenny; si no están disponibles, se utilizan las alternativas en inglés que ofrece el navegador. No se bloquea la reproducción por el nombre de la voz. La voz concreta depende del navegador y de las voces disponibles en el dispositivo. Los botones deben reproducir el texto inglés que tienen asociado, no la traducción ni la ayuda de pronunciación.
+
 ## Actualización y publicación
 
 1. Realizar los cambios en la copia local del repositorio.

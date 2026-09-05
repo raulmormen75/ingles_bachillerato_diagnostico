@@ -1,10 +1,10 @@
 # Temario de inglés
 
 ## 1. Saludos y expresiones básicas
-- greetings
+- saludos en inglés
 - despedidas
 - presentaciones básicas
-- preguntas simples de identificación personal
+- preguntas sencillas para conocer a otra persona
 
 ## 2. Alfabeto en inglés
 - nombre de cada letra
@@ -18,7 +18,7 @@
 
 ## 4. Números
 - números básicos
-- lectura y pronunciación
+- reconocimiento y pronunciación de números
 - uso en edad, teléfono, fechas o cantidades simples
 
 ## 5. Pronombres personales
@@ -48,7 +48,7 @@
 - verbos en forma base
 - verbos con «to»
 - verbos con «-ing»
-- diferencia de uso más básica
+- usos básicos de cada forma
 
 ## 10. Presente simple
 - oraciones afirmativas
@@ -76,16 +76,16 @@
 - diferencia entre decisión, intención y plan
 
 ## 15. Presente continuo para futuro
-- arreglos futuros
-- uso con tiempo definido
+- planes futuros ya organizados
+- uso con fecha u hora definidas
 - afirmativo, negativo e interrogativo
 
 ## 16. Presente vs. pasado vs. futuro
-- diferencia conceptual entre los tres tiempos
-- señales de tiempo
-- construcción de oraciones con coherencia temporal
+- diferencias entre presente, pasado y futuro
+- expresiones que indican cuándo sucede una acción
+- elección del verbo según el momento de cada acción
 
-## 17. Zero Conditional
+## 17. Condicional cero
 - estructura con «if + presente, presente»
 - uso para hechos generales
-- reglas, verdades universales, hábitos y resultados que siempre pasan
+- reglas, hábitos y resultados habituales
