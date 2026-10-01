@@ -425,6 +425,7 @@
       }
     }
   </style>
+  <link rel="stylesheet" href="../assets/heart-player.css">
 </head>
 <body>
   <div class="document-wrapper">
@@ -514,8 +515,8 @@
             n: 6,
             type: "Elige una opción",
             level: "2",
-            promptEn: "Choose the letters that spell Hugo. Listen and repeat.",
-            promptEs: "Elige las letras que forman el nombre Hugo. Escucha y repite.",
+            promptEn: "Choose the letters that spell Hugo. Practice with your teacher.",
+            promptEs: "Elige las letras que forman el nombre Hugo. Practica con tu profesor.",
             options: [
               { en: "a) H, U, G, O", es: "Pronunciación aproximada: éich, iú, yí, óu." },
               { en: "b) I, U, J, O", es: "Pronunciación aproximada: ái, iú, yéi, óu." },
@@ -732,65 +733,9 @@
 
     renderExercises();
 
-    (function () {
-      const synth = window.speechSynthesis;
-      let voices = [];
 
-      function refreshVoices() {
-        voices = synth ? synth.getVoices() : [];
-      }
-
-      function pickVoice() {
-        refreshVoices();
-        const candidates = voices.filter(voice =>
-          voice.lang.toLowerCase() === "en-us" && /\bjenny\b/i.test(voice.name)
-        );
-        const selected = candidates.find(voice => /natural|neural/i.test(voice.name)) ||
-          candidates.find(voice => /online/i.test(voice.name)) || candidates[0] || null;
-        window.IFR_SELECTED_VOICE = selected ? `${selected.name} | ${selected.lang}` : "Jenny en-US unavailable";
-        return selected;
-      }
-
-      function speak(text, rate, button) {
-        if (!synth || !text) return;
-        synth.cancel();
-        const utterance = new SpeechSynthesisUtterance(text);
-        utterance.lang = "en-US";
-        utterance.rate = Number(rate) || 1;
-        utterance.pitch = 1.0;
-        utterance.volume = 1;
-        const voice = pickVoice();
-        if (!voice) {
-          const line = button.closest('.en-line');
-          let notice = line.nextElementSibling;
-          if (!notice?.classList.contains('jenny-notice')) {
-            notice = document.createElement('p');
-            notice.className = 'spanish-line jenny-notice';
-            notice.setAttribute('role', 'status');
-            line.insertAdjacentElement('afterend', notice);
-          }
-          notice.textContent = 'Jenny no está disponible en este navegador.';
-          return;
-        }
-        const notice = button.closest('.en-line').nextElementSibling;
-        if (notice?.classList.contains('jenny-notice')) notice.remove();
-        utterance.voice = voice;
-        synth.speak(utterance);
-      }
-
-      if (synth) {
-        refreshVoices();
-        synth.addEventListener("voiceschanged", refreshVoices);
-      }
-
-      document.addEventListener("click", (event) => {
-        const button = event.target.closest(".audio-btn");
-        if (!button) return;
-        const line = button.closest(".en-line");
-        const text = line ? line.querySelector(".en-text")?.textContent.trim() : "";
-        speak(text, button.dataset.rate, button);
-      });
-    })();
   </script>
+  <script src="../assets/audio/manifest.js"></script>
+  <script src="../assets/heart-player.js"></script>
 </body>
 </html>

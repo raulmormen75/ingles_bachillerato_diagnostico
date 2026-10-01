@@ -1505,6 +1505,7 @@
         }
 
     </style>
+    <link rel="stylesheet" href="assets/heart-player.css">
 </head>
 <body>
     <!-- TOP HEADER -->
@@ -7020,6 +7021,7 @@
         
         // ===== NAVIGATION =====
         function navigateTopic(id) {
+            window.IFRHeart?.stop();
             if (id < 1 || id > TOTAL_TOPICS) return;
             
             // Hide all
@@ -7056,6 +7058,7 @@
         }
         
         function showHome() {
+            window.IFRHeart?.stop();
             document.querySelectorAll('.topic-page').forEach(p => p.style.display = 'none');
             document.getElementById('homePage').style.display = 'block';
             document.querySelectorAll('.sidebar-item').forEach(item => item.classList.remove('active'));
@@ -7183,17 +7186,6 @@
         }
         
         // ===== AUDIO / TTS =====
-        let currentUtterance = null;
-        
-        function pickPreferredEnglishVoice() {
-            const voices = window.speechSynthesis.getVoices();
-            const candidates = voices.filter(voice =>
-                voice.lang.toLowerCase() === 'en-us' && /\bjenny\b/i.test(voice.name)
-            );
-            return candidates.find(voice => /natural|neural/i.test(voice.name)) ||
-                candidates.find(voice => /online/i.test(voice.name)) || candidates[0] || null;
-        }
-
         function sanitizeSpeechText(text) {
             const div = document.createElement('div');
             div.innerHTML = text;
@@ -7244,6 +7236,7 @@
             button.dataset.audioIcon = config.icon;
             button.dataset.audioLabel = config.label;
             button.dataset.audioRate = String(config.rate);
+            button.dataset.speechText = text;
             button.title = config.title;
             restoreAudioButtonLabel(button, config.rate);
             button.addEventListener('click', () => speakText(text, config.rate, button));
@@ -7367,82 +7360,8 @@
             });
         }
 
-        function speakText(text, rate, btn) {
-            // Cancel any current speech
-            if (window.speechSynthesis && window.speechSynthesis.speaking) {
-                window.speechSynthesis.cancel();
-            }
-            
-            // Reset all buttons
-            document.querySelectorAll('.audio-btn').forEach(b => {
-                b.classList.remove('speaking', 'error');
-            });
-            
-            if (!window.speechSynthesis) {
-                btn.classList.add('error');
-                btn.innerHTML = '<span class="audio-icon">&#10060;</span> No disponible';
-                setTimeout(() => {
-                    btn.classList.remove('error');
-                    restoreAudioButtonLabel(btn, rate);
-                }, 2000);
-                return;
-            }
-            
-            const cleanText = sanitizeSpeechText(text);
+        function speakText(text, rate, btn) { window.IFRHeart?.play(sanitizeSpeechText(text), rate, btn); }
 
-            if (!cleanText) {
-                return;
-            }
-            
-            const utterance = new SpeechSynthesisUtterance(cleanText);
-            utterance.lang = 'en-US';
-            utterance.rate = rate;
-            utterance.pitch = 1.0;
-            
-            const femaleVoice = pickPreferredEnglishVoice();
-            if (!femaleVoice) {
-                window.IFR_SELECTED_VOICE = 'Jenny en-US unavailable';
-                if (!btn.dataset.idleAudioHtml) btn.dataset.idleAudioHtml = btn.innerHTML;
-                clearTimeout(btn.jennyNoticeTimer);
-                btn.classList.add('error');
-                btn.textContent = 'Jenny no disponible';
-                btn.jennyNoticeTimer = setTimeout(() => {
-                    btn.classList.remove('error');
-                    btn.innerHTML = btn.dataset.idleAudioHtml;
-                }, 3500);
-                return;
-            }
-            clearTimeout(btn.jennyNoticeTimer);
-            if (btn.dataset.idleAudioHtml) btn.innerHTML = btn.dataset.idleAudioHtml;
-            utterance.voice = femaleVoice;
-            window.IFR_SELECTED_VOICE = `${femaleVoice.name} | ${femaleVoice.lang}`;
-            currentUtterance = utterance;
-            
-            btn.classList.add('speaking');
-            
-            utterance.onend = () => {
-                btn.classList.remove('speaking');
-            };
-            
-            utterance.onerror = (e) => {
-                btn.classList.remove('speaking');
-                if (e.error !== 'canceled') {
-                    btn.classList.add('error');
-                    setTimeout(() => {
-                        btn.classList.remove('error');
-                        restoreAudioButtonLabel(btn, rate);
-                    }, 2000);
-                }
-            };
-            
-            window.speechSynthesis.speak(utterance);
-        }
-        // Load voices
-        if (window.speechSynthesis) {
-            speechSynthesis.addEventListener('voiceschanged', () => speechSynthesis.getVoices());
-            speechSynthesis.getVoices();
-        }
-        
         // ===== SCROLL TO TOP =====
         function scrollToTop() {
             window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -7493,5 +7412,7 @@
             }
         })();
     </script>
+    <script src="assets/audio/manifest.js"></script>
+    <script src="assets/heart-player.js"></script>
 </body>
 </html>

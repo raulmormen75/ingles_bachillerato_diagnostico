@@ -1,0 +1,8 @@
+#heartStatusPanel { position:fixed; z-index:1100; bottom:16px; left:50%; transform:translateX(-50%); width:max-content; max-width:calc(100% - 32px); display:flex; align-items:center; gap:12px; padding:10px 14px; border:1px solid #2CE51E; border-radius:12px; color:#FFFFFF; background:#1C1E5A; font:inherit; font-size:13px; box-shadow:0 3px 12px #14143a33; }
+#heartStatusPanel[hidden] { display:none; }
+#heartStatus { min-width:0; }
+#heartStop { flex-shrink:0; min-height:44px; padding:8px 12px; border:1px solid #FFFFFF; border-radius:8px; color:#1C1E5A; background:#FFFFFF; cursor:pointer; font:inherit; }
+#heartStop:focus-visible { outline:3px solid #2CE51E; outline-offset:3px; }
+.audio-btn[aria-busy="true"] { opacity:.7; }
+.audio-btn.speaking { background:#dcfce7; border-color:#2CE51E; }
+@media (max-width:520px) { #heartStatusPanel { left:16px; transform:none; max-width:calc(100% - 88px); bottom:max(16px, env(safe-area-inset-bottom)); } }
